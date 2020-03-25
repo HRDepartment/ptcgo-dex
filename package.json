@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc -p .",
     "dex": "gulp dex",
-    "test": "xo",
+    "test": "npm run build && xo",
     "release": "npx np"
   },
   "engines": {
