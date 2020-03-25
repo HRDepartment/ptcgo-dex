@@ -645,10 +645,6 @@ export interface EnergyCardDefinition extends CardDefinition {
   energy?: PokemonType[];
 }
 
-export interface PackDefinition extends ItemDefinition {
-  cards?: number;
-}
-
 /**
  * Gameplay and avatar items
  */
@@ -660,7 +656,11 @@ export interface ProductDefinition extends ItemDefinition {
 }
 
 export interface GameplayItemDefinition extends ProductDefinition {
-  desc?: string;
+  description?: string;
+}
+
+export interface PackDefinition extends GameplayItemDefinition {
+  cards?: number;
 }
 
 export interface AvatarItemDefinition extends ProductDefinition {}

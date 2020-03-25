@@ -6,6 +6,8 @@ import {
   ItemDefinition,
   ProductDefinition,
   CardDefinition,
+  PackDefinition,
+  ItemCategory,
 } from './defs';
 import { Expansion } from './expansion';
 
@@ -181,11 +183,18 @@ export class PTCGOItem<
   }
 
   isCard(): this is PTCGOItem<CardDefinition> {
-    return !this.isGameplay();
+    if (!this.definition) return false;
+    return Boolean(((this.definition as unknown) as CardDefinition)?.kind);
+  }
+
+  isPack(): this is PTCGOItem<PackDefinition> {
+    if (!this.definition) return false;
+    const { cat } = (this.definition as unknown) as PackDefinition;
+    return cat === ItemCategory.Booster || cat === ItemCategory.PrereleasePack;
   }
 
   isGameplay(): this is PTCGOItem<ProductDefinition> {
-    return Boolean(((this.definition as unknown) as ProductDefinition).asset);
+    return Boolean(((this.definition as unknown) as ProductDefinition)?.asset);
   }
 
   // TODO
