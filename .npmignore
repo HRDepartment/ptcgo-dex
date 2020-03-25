@@ -2,7 +2,7 @@ tasks/
 src/
 sources/
 gulpfile.ts
-.prettierrc
+.prettierrc.json
 .xo-config.json
 README.md
 tsconfig.json
