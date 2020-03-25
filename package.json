@@ -7,7 +7,7 @@
     "malie"
   ],
   "scripts": {
-    "build": "tsc .",
+    "build": "tsc -p .",
     "dex": "gulp dex",
     "test": "xo",
     "release": "npx np"
@@ -15,6 +15,8 @@
   "engines": {
     "node": "12.x"
   },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "license": "Unlicense",
   "dependencies": {
     "tslib": "^1.11.1"
