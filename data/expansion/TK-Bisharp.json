@@ -1,0 +1,593 @@
+{
+  "expansion": "TK-Bisharp",
+  "items": {
+    "324009985": {
+      "id": 324009985,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Me First",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Peck",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324009986": {
+      "id": 324009986,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009987": {
+      "id": 324009987,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009988": {
+      "id": 324009988,
+      "name": "Vigoroth",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 200,
+      "preevo": "Slakoth",
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself.",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324009989": {
+      "id": 324009989,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009990": {
+      "id": 324009990,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009991": {
+      "id": 324009991,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009992": {
+      "id": 324009992,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009993": {
+      "id": 324009993,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009994": {
+      "id": 324009994,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324009995": {
+      "id": 324009995,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 376,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        }
+      ]
+    },
+    "324009996": {
+      "id": 324009996,
+      "name": "Bidoof",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 183,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Hyper Fang",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324009997": {
+      "id": 324009997,
+      "name": "Pawniard",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 145,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324009998": {
+      "id": 324009998,
+      "name": "Doublade",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 2,
+      "family": 376,
+      "preevo": "Honedge",
+      "hp": 80,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dual Blades",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "324009999": {
+      "id": 324009999,
+      "name": "Slakoth",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 200,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Big Yawn",
+          "text": "Both Active Pokémon are now Asleep.",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324010000": {
+      "id": 324010000,
+      "name": "Bisharp",
+      "cat": 1,
+      "kind": 2,
+      "no": 16,
+      "rarity": 3,
+      "family": 145,
+      "preevo": "Pawniard",
+      "hp": 90,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wicked Jab",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "324010001": {
+      "id": 324010001,
+      "name": "Patrat",
+      "cat": 1,
+      "kind": 1,
+      "no": 17,
+      "rarity": 1,
+      "family": 25,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Safety Check",
+          "text": "Look at 1 of your face-down Prize cards.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "324010002": {
+      "id": 324010002,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324010003": {
+      "id": 324010003,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 19,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "324010004": {
+      "id": 324010004,
+      "name": "Trevor",
+      "cat": 2,
+      "kind": 41,
+      "no": 20,
+      "colNo": "20",
+      "rarity": 2,
+      "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "324010005": {
+      "id": 324010005,
+      "name": "Pawniard",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 145,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324010006": {
+      "id": 324010006,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324010007": {
+      "id": 324010007,
+      "name": "Doublade",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 2,
+      "family": 376,
+      "preevo": "Honedge",
+      "hp": 80,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dual Blades",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "324010008": {
+      "id": 324010008,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 24,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "324010009": {
+      "id": 324010009,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 25,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "324010010": {
+      "id": 324010010,
+      "name": "Slakoth",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 200,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Big Yawn",
+          "text": "Both Active Pokémon are now Asleep.",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324010011": {
+      "id": 324010011,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 376,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        }
+      ]
+    },
+    "324010012": {
+      "id": 324010012,
+      "name": "Vigoroth",
+      "cat": 1,
+      "kind": 2,
+      "no": 28,
+      "rarity": 2,
+      "family": 200,
+      "preevo": "Slakoth",
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself.",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324010013": {
+      "id": 324010013,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 29,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "324013086": {
+      "id": 324013086,
+      "name": "Bisharp",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 145,
+      "preevo": "Pawniard",
+      "hp": 90,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wicked Jab",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "TK7Bundle": {
+      "id": 324067328,
+      "name": "Claw Barrage",
+      "cat": 15,
+      "asset": "TK7Bundle",
+      "description": "The Claw Barrage theme deck lets you outplay and outwit your opponent with Darkness-type moves and Fairy-type tricks! Wigglytuff is super cute and easy to underestimate, but capable of dishing out some serious damage with its Balloon Barrage, while the edgy Bisharp brandishes its Metal Claw at your opponents. Leave them wondering what happened with the Claw Barrage theme deck!"
+    },
+    "TK7PCD": {
+      "id": 324067328,
+      "name": "Claw Barrage",
+      "cat": 15,
+      "asset": "TK7PCD",
+      "description": "The Claw Barrage theme deck lets you outplay and outwit your opponent with Darkness-type moves and Fairy-type tricks! Wigglytuff is super cute and easy to underestimate, but capable of dishing out some serious damage with its Balloon Barrage, while the edgy Bisharp brandishes its Metal Claw at your opponents. Leave them wondering what happened with the Claw Barrage theme deck!"
+    }
+  }
+}

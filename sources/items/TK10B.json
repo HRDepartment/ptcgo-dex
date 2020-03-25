@@ -1,0 +1,1045 @@
+[
+  {
+    "10000": "3256bab8-14db-4c8b-b9f4-249f013ab1d1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.GreatBall.Name$$$",
+    "10190": 69,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.SM1.trainercards.GreatBall_SM1_119.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK10B",
+    "200630": "GreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e4f2c38c-3b3b-4d71-887d-ce8f0feb9eaa",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200871": "std",
+    "201710": "165e092a-1aeb-4712-809a-4be670e4cb80",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "54701765-1f28-439b-a2c1-df69e542da30",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.Hau.Name$$$",
+    "10190": 69,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.SM1.trainercards.Hau_SM1_120.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK10B",
+    "200630": "Hau",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200871": "std",
+    "201710": "f00f7f53-f65a-488a-8d19-ae20c0372130",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "210e36e1-7a81-42a5-a3d9-160a3ccaae88",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.Potion.Name$$$",
+    "10190": 69,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.SM1.trainercards.Potion_SM1_127.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK10B",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "287f0e24-6706-4572-9187-5ff765f30054",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Spearow.Name$$$",
+    "10190": 69,
+    "200260": 338,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Spearow",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.PeckBugs.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.PeckBugs.GameText$$$",
+        "abilityID": "5f6cb4bc-b198-4165-9fdc-22ee4542b779",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "a7dcdef3-1c86-4ad8-b85a-ee22a204b502",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d59949d4-4f9e-41e4-82fa-be8a2f2533d8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zubat.Name$$$",
+    "10190": 69,
+    "200260": 243,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Zubat",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Astonish.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Astonish.GameText$$$",
+        "abilityID": "ddee65f6-f5fe-4f10-a509-021994db818f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "25ec5ea8-7690-42b7-b865-17a6660189ac",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "3964035b-bf77-42f0-95ab-714a3228aa3e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bewear.Name$$$",
+    "10190": 69,
+    "200260": 536,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Stufful.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 130,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Bewear",
+    "200640": "Stufful",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.BearHug.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.BearHug.GameText$$$",
+        "abilityID": "93e3b149-9fb9-49bb-bf48-6af2f90a754d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Superpower.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Superpower.GameText$$$",
+        "abilityID": "dcf1c7ca-6b2a-47f6-a562-c2fa5013ca0b",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "fed8cae1-c6e7-4469-a1a1-5bad1a1a7801",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e0422c8a-8d3c-48cf-a81c-bbeb6606567d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.Hau.Name$$$",
+    "10190": 69,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.SM1.trainercards.Hau_SM1_120.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK10B",
+    "200630": "Hau",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200871": "std",
+    "201710": "f00f7f53-f65a-488a-8d19-ae20c0372130",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "fd0df82a-e49e-4594-aea8-084e2ff964f3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pikachu.Name$$$",
+    "10190": 69,
+    "200260": 27,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Metal",
+    "200630": "Pikachu",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.GameText$$$",
+        "abilityID": "3f1db0f0-3fbd-403c-8c80-18d5cf1d48cb",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Lightning": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Spark.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.MachPunch.GameText$$$",
+        "abilityID": "90e7ac31-9578-453f-9b22-bf0b28386af0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "2e7e4228-2e4f-42d8-adde-cbf0a77d4631",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "91dcd9e4-adab-4cae-9e65-f878301faa89",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Grubbin.Name$$$",
+    "10190": 69,
+    "200260": 511,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Grubbin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ViceGrip.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ViceGrip.GameText$$$",
+        "abilityID": "c3dc012e-0301-486f-9545-4cdc029ba37b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "14c84e31-35ee-4bba-9719-75ada8a0270d",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "83b61644-dcbd-4dd4-8cd6-9f2be63cea02",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Drowzee.Name$$$",
+    "10190": 69,
+    "200260": 323,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Drowzee",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.PsychicBoom.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.PsychicBoom.GameText$$$",
+        "abilityID": "2d267012-9848-4b69-93a9-8dab25bfb633",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "256916ff-ac8e-48fb-8067-42105fd2c0be",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "670a4d95-eea8-4f86-9a6c-ab54028213e5",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "72610608-77bb-4f2d-9838-988f08affdd7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Golbat.Name$$$",
+    "10190": 69,
+    "200260": 243,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zubat.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Golbat",
+    "200640": "Zubat",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.SuperPoisonBreath.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.SuperPoisonBreathNoFlip.GameText$$$",
+        "abilityID": "ce4ce7fb-3534-454e-b5b0-94c5bef4616a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Acrobatics.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Acrobatics.GameText$$$",
+        "abilityID": "2f28abe9-3582-4cfa-a538-7ff86bbd7998",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200800": 0,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "44f5aef9-9c53-492e-b9d9-ceb0f9aac0bb",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "05694140-69db-4350-856f-44c73b0eccda",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Togedemaru.Name$$$",
+    "10190": 69,
+    "200260": 523,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Metal",
+    "200630": "Togedemaru",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.DefenseCurl.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.DefenseCurl.GameText$$$",
+        "abilityID": "2489f37a-9b00-4785-aad6-a75e4430a333",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Discharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.Discharge.GameText$$$",
+        "abilityID": "c89fdd7a-2f93-47a6-8e15-744e081781d1",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "19026b8c-c78c-4ba2-a05d-0908ca4ab9d0",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "94d4b664-1c09-4b11-86f9-0a21b8d9e18c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.AlolanRaichu.Name$$$",
+    "10190": 69,
+    "200260": 27,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pikachu.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Metal",
+    "200630": "AlolanRaichu",
+    "200640": "Pikachu",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY2.QuickAttack30.GameText$$$",
+        "abilityID": "1db310b1-06ed-4a5f-b729-ecf0a5d3211c",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Lightning": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ElectricSurfer.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "601d84bf-1ace-4519-9e57-924de46f3ac7",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "94d4b664-1c09-4b11-86f9-0a21b8d9e18c",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7cb61373-d448-48a8-9de0-d1f0a2f28109",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.GreatBall.Name$$$",
+    "10190": 69,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.SM1.trainercards.GreatBall_SM1_119.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK10B",
+    "200630": "GreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e4f2c38c-3b3b-4d71-887d-ce8f0feb9eaa",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200871": "std",
+    "201710": "165e092a-1aeb-4712-809a-4be670e4cb80",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2e7e4228-2e4f-42d8-adde-cbf0a77d4631",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pikachu.Name$$$",
+    "10190": 69,
+    "200260": 27,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Metal",
+    "200630": "Pikachu",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.GameText$$$",
+        "abilityID": "3f1db0f0-3fbd-403c-8c80-18d5cf1d48cb",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Lightning": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Spark.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.MachPunch.GameText$$$",
+        "abilityID": "90e7ac31-9578-453f-9b22-bf0b28386af0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "2e7e4228-2e4f-42d8-adde-cbf0a77d4631",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "191f19e2-a8a0-4510-a103-d3763ad496a4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Stufful.Name$$$",
+    "10190": 69,
+    "200260": 536,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Stufful",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.GameText$$$",
+        "abilityID": "9d92daa7-46fe-4b69-9186-ed7d4182e5f9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "7c0bf736-6134-439a-b91e-b99cd9439715",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "670fe2b1-7629-4cdd-8bcd-32d19438df2b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.AlolanRaichu.Name$$$",
+    "10190": 69,
+    "200260": 27,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pikachu.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "TK10B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Metal",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "AlolanRaichu",
+    "200640": "Pikachu",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY2.QuickAttack30.GameText$$$",
+        "abilityID": "1db310b1-06ed-4a5f-b729-ecf0a5d3211c",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Lightning": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ElectricSurfer.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "601d84bf-1ace-4519-9e57-924de46f3ac7",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "94d4b664-1c09-4b11-86f9-0a21b8d9e18c",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6b66abfb-3853-48d0-9e41-b009ed50c2f3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 69,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK10B",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "89bde478-f412-4636-9909-9328b2f36fbd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicLightningEnergy.Name$$$",
+    "10190": 69,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK10B",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "tk10"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5c4496a4-a5e3-4342-ac19-59189821248d",
+    "10020": "TK10",
+    "10060": "$$$tpci.product.trainer-kit.10.Lycanroc.AlolanRaichu.description$$$",
+    "10090": false,
+    "10140": "$$$tpci.product.tk10.deck.name$$$",
+    "10190": 69,
+    "10540": "Bundles",
+    "200580": "TK10B",
+    "200871": "TK10Bundle",
+    "201507": "ThemeDeck",
+    "201640": "6e6e8472-a95d-428c-a6a2-26a68c8f790c"
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "10000": "996a307f-0538-4caa-81f2-95fee52fbd5b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicpsychicenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "b4d11e73-fc41-4ac4-b4b9-10e01212fe74",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicgrassenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "7d1adefe-c60f-4ce1-8230-a54c5b5ded29",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicwaterenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "b1ba83b8-fa46-49c7-a6b5-1ca9e3ba56d5",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicfairyenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "86e5f7a4-82d5-47ce-95b3-5129e80c2c05",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicdarknessenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "590d57cc-64b2-4283-9b59-0b051c7acf79",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicmetalenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "6afd5fe1-eafa-4ad1-bc41-0cc1de6e6aa1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicfireenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "75c201bc-8666-443f-b380-29c636598a7b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basiclightningenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "202080": 201,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "ee299761-d03b-4fcf-a78f-37c893245d55",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.freeenergy.energy.basicfightingenergy.name$$$",
+    "10190": 109,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "SWSH_Energy",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "202080": 201,
+    "202220": 1581011100000
+  }
+]

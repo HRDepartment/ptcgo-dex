@@ -1,0 +1,624 @@
+{
+  "expansion": "TK-Latios",
+  "items": {
+    "325058561": {
+      "id": 325058561,
+      "name": "Skitty",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 212,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Charm",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tail Smack",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058562": {
+      "id": 325058562,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058563": {
+      "id": 325058563,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058564": {
+      "id": 325058564,
+      "name": "Rhydon",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 389,
+      "preevo": "Rhyhorn",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Take Down",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 50,
+          "cost": [
+            7,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Horn Drill",
+          "damage": 70,
+          "cost": [
+            7,
+            7,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058565": {
+      "id": 325058565,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058566": {
+      "id": 325058566,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058567": {
+      "id": 325058567,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058568": {
+      "id": 325058568,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058569": {
+      "id": 325058569,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058570": {
+      "id": 325058570,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058571": {
+      "id": 325058571,
+      "name": "Machop",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 65,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "325058572": {
+      "id": 325058572,
+      "name": "Solrock",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 257,
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Solar Generator",
+          "text": "Search your deck for up to 2 Special Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Knock Away",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "325058573": {
+      "id": 325058573,
+      "name": "Latios",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 3,
+      "family": 317,
+      "hp": 110,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic Flight",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Psyburn",
+          "damage": 70,
+          "cost": [
+            6,
+            6,
+            1
+          ]
+        }
+      ]
+    },
+    "325058574": {
+      "id": 325058574,
+      "name": "Machoke",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 2,
+      "family": 65,
+      "preevo": "Machop",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": 40,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "325058575": {
+      "id": 325058575,
+      "name": "Rhyhorn",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 389,
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Take Down",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 40,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "325058576": {
+      "id": 325058576,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 16,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325058577": {
+      "id": 325058577,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "325058578": {
+      "id": 325058578,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325058579": {
+      "id": 325058579,
+      "name": "Delcatty",
+      "cat": 1,
+      "kind": 2,
+      "no": 19,
+      "rarity": 3,
+      "family": 212,
+      "preevo": "Skitty",
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Replace",
+          "text": "Move as many Energy attached to your Pokémon to your other Pokémon in any way you like.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Play Rough",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058580": {
+      "id": 325058580,
+      "name": "Acro Bike",
+      "cat": 2,
+      "kind": 40,
+      "no": 20,
+      "rarity": 2,
+      "text": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card."
+    },
+    "325058581": {
+      "id": 325058581,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "325058582": {
+      "id": 325058582,
+      "name": "Machoke",
+      "cat": 1,
+      "kind": 2,
+      "no": 22,
+      "rarity": 2,
+      "family": 65,
+      "preevo": "Machop",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": 40,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "325058583": {
+      "id": 325058583,
+      "name": "Rhyhorn",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 389,
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Take Down",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 40,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "325058584": {
+      "id": 325058584,
+      "name": "Delcatty",
+      "cat": 1,
+      "kind": 2,
+      "no": 24,
+      "rarity": 3,
+      "family": 212,
+      "preevo": "Skitty",
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Replace",
+          "text": "Move as many Energy attached to your Pokémon to your other Pokémon in any way you like.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Play Rough",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058585": {
+      "id": 325058585,
+      "name": "Rhydon",
+      "cat": 1,
+      "kind": 2,
+      "no": 25,
+      "rarity": 2,
+      "family": 389,
+      "preevo": "Rhyhorn",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Take Down",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 50,
+          "cost": [
+            7,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Horn Drill",
+          "damage": 70,
+          "cost": [
+            7,
+            7,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058586": {
+      "id": 325058586,
+      "name": "Solrock",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 257,
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Solar Generator",
+          "text": "Search your deck for up to 2 Special Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Knock Away",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "325058587": {
+      "id": 325058587,
+      "name": "Skitty",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 212,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Charm",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tail Smack",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325058588": {
+      "id": 325058588,
+      "name": "Machop",
+      "cat": 1,
+      "kind": 1,
+      "no": 28,
+      "rarity": 1,
+      "family": 65,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "325058589": {
+      "id": 325058589,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 29,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325061662": {
+      "id": 325061662,
+      "name": "Latios",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 4,
+      "family": 317,
+      "hp": 110,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic Flight",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Psyburn",
+          "damage": 70,
+          "cost": [
+            6,
+            6,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "TK8Bundle": {
+      "id": 325115904,
+      "name": "Eon Strike",
+      "cat": 15,
+      "asset": "TK8Bundle",
+      "description": "Latios and Latias lead the way in the Eon Strike Deck, combining their strength and speed to soar past the opposition! This deck brings together Fighting types like Machoke and Solrock, Grass types like Tangrowth and Lombre, and handy Trainer cards like Acro Bike into a team fully trained for battle. When the Eon Pokémon join forces, they are ready to strike down your opponent!"
+    },
+    "TK8PCD": {
+      "id": 325115904,
+      "name": "Eon Strike",
+      "cat": 15,
+      "asset": "TK8PCD",
+      "description": "Latios and Latias lead the way in the Eon Strike Deck, combining their strength and speed to soar past the opposition! This deck brings together Fighting types like Machoke and Solrock, Grass types like Tangrowth and Lombre, and handy Trainer cards like Acro Bike into a team fully trained for battle. When the Eon Pokémon join forces, they are ready to strike down your opponent!"
+    }
+  }
+}

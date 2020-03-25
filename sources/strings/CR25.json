@@ -1,0 +1,22 @@
+{
+  "com.direwolfdigital.cake.data.decks.pcds.tcxybasicblue.tcxybasicblue.deckname": "XY: Basic Blue",
+  "com.direwolfdigital.cake.data.decks.pcds.tcxybasicgreen.tcxybasicgreen.deckname": "XY: Basic Green",
+  "com.direwolfdigital.cake.data.decks.pcds.tcxybasicred.tcxybasicred.deckname": "XY: Basic Red",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicblue.tcxybasicblue.deckname": "XY: Basic Blue",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicblue.xybasicblue.deckname": "XY: Basic Blue",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicgreen.tcxybasicgreen.deckname": "XY: Basic Green",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicgreen.xybasicgreen.deckname": "XY: Basic Green",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicred.tcxybasicred.deckname": "XY: Basic Red",
+  "com.direwolfdigital.cake.data.decks.pcds.xybasicred.xybasicred.deckname": "XY: Basic Red",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicbluecompletedreward": "Completed XY: Basic Blue Reward",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicbluereward": "Won with XY: Basic Blue Reward",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicgreencompletedreward": "Completed XY Basic Green Reward",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicgreenreward": "Won with XY Basic Green Reward",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicredcompletedreward": "Completed XY: Basic Red Reward",
+  "com.direwolfdigital.cake.data.eventtriggers.xybasicredreward": "Won with XY: Basic Red Reward",
+  "playmat.prompt.select2energyfighting": "Select 2 {F} Energy cards.",
+  "playmat.prompt.select3energywater": "Select 3 {W} Energy cards.",
+  "product.promo.xybasicblue.name": "XY: Basic Blue",
+  "product.promo.xybasicgreen.name": "XY: Basic Green",
+  "product.promo.xybasicred.name": "XY: Basic Red"
+}

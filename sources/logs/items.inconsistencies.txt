@@ -1,0 +1,197 @@
+Expansion PR-SW: Collection count 3 => 17
+Card Rillaboom is issue="op" but does not have tags:League
+Card Cinderace is issue="op" but does not have tags:League
+Expansion SSH: Secret count 0 => 14
+Expansion CEC: Secret count 9 => 35
+Expansion UNB: Secret count 0 => 20
+Card Metal Frying Pan has tags:League but is not issue="op"
+Expansion UPR: Secret count 0 => 17
+Expansion CIN: Secret count 0 => 13
+issue=yaa card Entei-GX (#10) from expansion SLG lacks tags:YellowA
+Expansion SLG: Secret count 0 => 5
+issue=std card Charmeleon (#19) from expansion BUS is a Holo (Un)common but its primary print does not refer to itself (should be ’alt’)
+issue=std card Charmander (#18) from expansion BUS is a Holo (Un)common but its primary print does not refer to itself (should be ’alt’)
+Expansion BUS: Secret count 0 => 22
+Card Max Potion has tags:League but is not issue="op"
+Card Rescue Stretcher has tags:League but is not issue="op"
+Card Enhanced Hammer has tags:League but is not issue="op"
+Card Field Blower has tags:League but is not issue="op"
+Expansion GRI: Secret count 0 => 24
+Expansion SMEnergy: Collection count 9 => 18
+Expansion SUM: Secret count 0 => 14
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Expansion PR-SM: Collection count 4 => 236
+Product XY—Evolutions Elite Trainer Box: Mega Charizard Y (#XY12EliteTrainerMCharizardYBox) from expansion EVO has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY12EliteTrainerMCharizardYBox.Description$$$'
+}
+Product XY—Evolutions Elite Trainer Box: Mega Blastoise (#XY12EliteTrainerMBlastoiseBox) from expansion EVO has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY12EliteTrainerMBlastoiseBox.Description$$$'
+}
+Expansion EVO: Secret count 0 => 5
+Product Legendary Battle Deck: Articuno (#ArticunoBundle) from expansion STS has missing description text { key: '$$$product.pcd.articuno.description$$$' }
+Product XY—Steam Siege Elite Trainer Box: Volcanion (#XY11EliteTrainerBox) from expansion STS has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY11EliteTrainerBox.Description$$$'
+}
+Product Legendary Battle Deck: Moltres (#MoltresBundle) from expansion STS has missing description text { key: '$$$product.pcd.moltres.description$$$' }
+Product Legendary Battle Deck: Zapdos (#ZapdosBundle) from expansion STS has missing description text { key: '$$$product.pcd.zapdos.description$$$' }
+Expansion STS: Secret count 0 => 2
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Card Pikachu has tags:League but is not issue="op"
+Card Gym Badge has tags:League but is not issue="op"
+Expansion PR-XY: Collection count 176 => 211
+Expansion FCO: Secret count 0 => 1
+Product Generations Elite Trainer Box (#GenerationsEliteTrainerBox) from expansion GEN has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.GenerationsEliteTrainerBox.Description$$$'
+}
+Expansion GEN: Secret count 0 => 32
+Expansion BKP: Secret count 0 => 1
+Product XY8BundleCoinPackB from release XY8 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY8BundleCoinPackB.Name$$$)
+Product XY8BundleCoinPackB (#XY8BundleCoinPackB) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8BundleCoinPackB.Description$$$'
+}
+Product XY8BundleCoinPackA from release XY8 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY8BundleCoinPackA.Name$$$)
+Product XY8BundleCoinPackA (#XY8BundleCoinPackA) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8BundleCoinPackA.Description$$$'
+}
+Product XY8Bundle3PackB from release XY8 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY8Bundle3PackB.Name$$$)
+Product XY8Bundle3PackB (#XY8Bundle3PackB) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8Bundle3PackB.Description$$$'
+}
+Product XY8Bundle3PackA from release XY8 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY8Bundle3PackA.Name$$$)
+Product XY8Bundle3PackA (#XY8Bundle3PackA) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8Bundle3PackA.Description$$$'
+}
+Product XY—BREAKthrough Elite Trainer Box: Mega Mewtwo X (#XY8EliteTrainerBundleX) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8EliteTrainerBundleX.Description$$$'
+}
+Product XY—BREAKthrough Elite Trainer Box: Mega Mewtwo Y (#XY8EliteTrainerBundleY) from expansion BKT has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY8EliteTrainerBundleY.Description$$$'
+}
+Expansion BKT: Secret count 0 => 2
+Product XY7Bundle3PackA from release XY7 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY7Bundle3PackA.Name$$$)
+Product XY7Bundle3PackA (#XY7Bundle3PackA) from expansion AOR has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY7Bundle3PackA.Description$$$'
+}
+Product XY7BundleCoinPackB from release XY7 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY7BundleCoinPackB.Name$$$)
+Product XY7BundleCoinPackB (#XY7BundleCoinPackB) from expansion AOR has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY7BundleCoinPackB.Description$$$'
+}
+Product XY7Bundle3PackB from release XY7 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY7Bundle3PackB.Name$$$)
+Product XY7Bundle3PackB (#XY7Bundle3PackB) from expansion AOR has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY7Bundle3PackB.Description$$$'
+}
+Product XY7BundleCoinPackA from release XY7 has a missing translation for its ’name’ ($$$com.direwolfdigital.cake.data.products.bundles.XY7BundleCoinPackA.Name$$$)
+Product XY7BundleCoinPackA (#XY7BundleCoinPackA) from expansion AOR has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.XY7BundleCoinPackA.Description$$$'
+}
+Expansion AOR: Collection count 98 => 95
+Expansion AOR: Secret count 0 => 5
+Product Aurora Blast (#AuroraBlastPCD) from expansion ROS has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.decks.PCDs.AuroraBlast.AuroraBlast.Description$$$'
+}
+Expansion ROS: Secret count 0 => 2
+Expansion PRC: Secret count 0 => 4
+Expansion PHF: Secret count 0 => 3
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Expansion RSP: Collection count 13 => 14
+Expansion FFI: Secret count 0 => 2
+Card Ultra Ball (#99) from expansion FLF has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Expansion FLF: Secret count 0 => 3
+Product XY: Basic Blue (#XYBasicBluePCD) from expansion XY has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.decks.PCDs.XYBasicBlue.XYBasicBlue.Description$$$'
+}
+Product XY: Basic Red (#XYBasicRedPCD) from expansion XY has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.decks.PCDs.XYBasicRed.XYBasicRed.Description$$$'
+}
+Product XY: Basic Green (#XYBasicGreenPCD) from expansion XY has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.decks.PCDs.XYBasicGreen.XYBasicGreen.Description$$$'
+}
+Encountered true duplicate item 330302468 (GUID: f5e5fe04-1d45-4d09-8512-5556d4f843ac) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302468 (GUID: fc16fd75-d66c-4731-8c7c-a709e5042123) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302473 (GUID: 6cec317a-beb8-47b3-86bc-084aaea22b77) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302465 (GUID: 00a5b19b-d201-44db-be78-ab5e67b68078) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302472 (GUID: 7b8cd4eb-4694-4b7d-9b2f-76e3584dbaac) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302470 (GUID: 16964ea8-d554-43bd-a898-3fbc474e8345) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302465 (GUID: ab98f8d0-09f5-4694-a27e-e34939d21e1d) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302466 (GUID: f63e01e8-32ab-4918-bba5-4095fc6f5bc7) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302467 (GUID: 655ca130-c91d-484d-b955-52cf7fa67511) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302473 (GUID: 6711f2a7-aff6-4753-bb59-bc1c520fff4d) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302471 (GUID: fc33013d-ff7d-4add-a4c8-b436b6f7a1bb) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302470 (GUID: 00788929-3a37-44c6-921d-45ec94895f82) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302469 (GUID: b433e041-41fd-4a6b-abfa-d039c720aab8) [this message should appear twice for this itemid]
+Encountered true duplicate item 330302472 (GUID: 8aeb3a12-bb82-410d-a879-ded7529cae50) [this message should appear twice for this itemid]
+Expansion LTR: Secret count 0 => 27
+Product Mind Wipe (#BW10MindWipePCD) from expansion PLB has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.decks.PCDs.MindWipe.MindWipe.Description$$$'
+}
+Expansion PLB: Secret count 0 => 4
+Expansion PLF: Secret count 0 => 6
+Expansion PLS: Secret count 0 => 3
+Expansion BCR: Secret count 0 => 4
+Expansion DRX: Secret count 0 => 4
+Expansion DEX: Secret count 0 => 3
+Expansion NXD: Secret count 0 => 4
+Expansion NVI: Secret count 0 => 1
+Card Tropical Beach is issue="op" but does not have tags:League
+Card Tropical Beach is issue="op" but does not have tags:League
+Card Champions Festival is issue="op" but does not have tags:League
+Expansion PR-BLW: Collection count 37 => 101
+Expansion DRV: Collection count 20 => 21
+Expansion BLW: Secret count 0 => 1
+Card Metal Energy (#95) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Fire Energy (#89) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Darkness Energy (#94) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Water Energy (#90) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Lightning Energy (#91) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Psychic Energy (#92) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Fighting Energy (#93) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Grass Energy (#88) from expansion CL has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Expansion CL: Secret count 0 => 11
+Expansion TM: Secret count 0 => 1
+Expansion UD: Secret count 0 => 1
+Expansion UL: Secret count 0 => 1
+Expansion HS: Collection count 123 => 122
+Expansion HS: Secret count 0 => 2
+Product Winter Bonus (#December2014Bundle) from expansion NoSet has missing description text {
+  key: '$$$com.direwolfdigital.cake.data.products.bundles.December2014Bundle.Description$$$'
+}

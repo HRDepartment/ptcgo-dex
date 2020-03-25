@@ -1,0 +1,1393 @@
+[
+  {
+    "10000": "1e474378-1a3e-4166-b277-22f35032d72c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "3b33c5dd-5ab3-46ae-bc54-1ec067dcfbc8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "55355dd2-3f5f-4c03-98c2-808f3ff56dc3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Gourgeist.Name$$$",
+    "10190": 42,
+    "200260": 386,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pumpkaboo.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Darkness"
+    ],
+    "200600": "Fighting",
+    "200630": "Gourgeist",
+    "200640": "Pumpkaboo",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.EerieVoice.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.EerieVoice.GameText$$$",
+        "abilityID": "337967e8-9dec-461f-b573-bf09eb875c26",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 2
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SpiritScream.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SpiritScream.GameText$$$",
+        "abilityID": "2d0db0ac-b721-43c8-8c05-f6e0a9f8e020",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "34e63727-ecab-4153-8999-626495168749",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8165155f-8bec-4dd5-a294-66edcf57cfd0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_38.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_38.GameText$$$",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "Switch",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "c705ea80-85de-4af1-b06b-a17f7f50dd85",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200871": "std",
+    "201710": "780c5e46-8af6-4383-8670-c815a32689f3",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c7d736aa-e9d4-4fa2-a8f0-85a291677b04",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "cd74243b-ced1-49e4-b403-008ddf668eee",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicDarknessEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xytrainerkit",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4bfa9dff-0810-4f17-b65b-9222ca097d5a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bunnelby.Name$$$",
+    "10190": 42,
+    "200260": 370,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Bunnelby",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.GameText$$$",
+        "abilityID": "0940bad1-ef44-4001-abbd-d48b0133d26e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ec001b1e-524b-4016-80b2-7bf48c9d224c",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "08f35c27-6c63-4290-8f81-f2c6abfc9638",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicDarknessEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xytrainerkit",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e5ad9f6c-85c6-4324-9fd4-8740f30280cf",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "72a37bc8-c61d-48f3-9741-f8dd33731bed",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_35.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_35.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK6A",
+    "200630": "PokeBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "a71371f9-10a9-492e-aa4f-d7ec520c95dd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200871": "std",
+    "201710": "068f971b-b0ec-4e76-b739-5b8452c32acb",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "1f0b0ef6-eaed-48a1-916a-af99f3c454f9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noibat.Name$$$",
+    "10190": 42,
+    "200260": 368,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Noibat",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Supersonic.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5Supersonic.GameText$$$",
+        "abilityID": "c0ee5cdd-8e5a-45e2-99e0-3772097bc0cb",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.GameText$$$",
+        "abilityID": "a3fc14bd-b48a-4c22-b77d-edf4b710b3dc",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7597e09c-3ce8-48bc-946c-7da823167fcb",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "26767d4b-959a-49a0-8c08-a2e531a32be4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f01cd4fe-f64b-41dd-b846-55ec8cf0f741",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Furfrou.Name$$$",
+    "10190": 42,
+    "200260": 375,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Furfrou",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.TightJaw.GameText$$$",
+        "abilityID": "a30f16d8-2342-4cad-bc22-a517165eddce",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "c73a9c0a-1e7f-4625-8d14-29856bd3f6e1",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a492016f-8e42-4a90-a7d5-3ced434176cd",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "876298b4-73a2-42fb-b29f-a83d523a81cc",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW10.trainercards.PokmonCatcher_BW10_83.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.PokmonCatcherErrata.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK6A",
+    "200630": "PokemonCatcher",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "8acbcced-226f-4a36-a8b6-baec9ffe82e8",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200871": "std",
+    "201620": 1383868800,
+    "201710": "c6690f13-f077-4196-9f58-bd984eaff330",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "69198071-a373-4056-9f7f-04dcb0806629",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY1.trainercards.XY1_123.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY1.trainercards.XY1_123.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK6A",
+    "200630": "ProfessorsLetter",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "005a0c29-0e28-4f56-bf14-a25e47021c8b",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "std",
+    "201710": "8e777946-aa3d-454f-8d44-aa77dc5cc07e",
+    "201730": [
+      "xytrainerkit",
+      "newAliDeck",
+      "newPlayerDeck",
+      "newOtisDeck",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "50dc8922-ec20-4ce4-b2f9-2ae487e4367b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Arbok.Name$$$",
+    "10190": 42,
+    "200260": 380,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ekans.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Arbok",
+    "200640": "Ekans",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.GastroAcid.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.GastroAcid.GameText$$$",
+        "abilityID": "91575a40-1656-407a-bb8f-cc68075e46cf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.PoisonJab.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.PoisonJab.GameText$$$",
+        "abilityID": "2fe82439-ea08-46fa-b752-9675d5b52cca",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a9c12625-6873-4461-bf11-d53d3fed588d",
+    "201730": [
+      "xytrainerkit",
+      "newAliDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8dfde7b4-b1ec-4312-b8a9-9e0c5d952c93",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noibat.Name$$$",
+    "10190": 42,
+    "200260": 368,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Noibat",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Supersonic.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5Supersonic.GameText$$$",
+        "abilityID": "c0ee5cdd-8e5a-45e2-99e0-3772097bc0cb",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.GameText$$$",
+        "abilityID": "a3fc14bd-b48a-4c22-b77d-edf4b710b3dc",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7597e09c-3ce8-48bc-946c-7da823167fcb",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6077c290-9932-48ea-9e2d-71d146945ffc",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Spoink.Name$$$",
+    "10190": 42,
+    "200260": 222,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Spoink",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Splash.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Splash.GameText$$$",
+        "abilityID": "d813e803-cc82-4471-9f4a-4a6ec2076ee0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "fc57dbf7-125c-40e3-8f4b-f762df64113d",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b97e5b4c-d65f-4767-85c4-6ab8292991aa",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b73016fa-704e-4c5d-9b79-0a3fca93d4d9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pumpkaboo.Name$$$",
+    "10190": 42,
+    "200260": 386,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Darkness"
+    ],
+    "200600": "Fighting",
+    "200630": "Pumpkaboo",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.ConfuseRay.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.ConfuseRay.GameText$$$",
+        "abilityID": "9f184bfa-9ff2-4be5-8e3e-fd439c65088e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "074e153d-f102-48cb-860e-1798b4612b1a",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "db227636-b415-49c6-b15f-7ebd16119bb5",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noivern.Name$$$",
+    "10190": 42,
+    "200260": 368,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noibat.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Fairy"
+    ],
+    "200600": "NoColor",
+    "200630": "Noivern",
+    "200640": "Noibat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.SecondBite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_XY.SecondBite.GameText$$$",
+        "abilityID": "23a13940-e0da-4336-b6ff-a1cb0e5387cb",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1,
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SonicBazooka.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SonicBazooka.GameText$$$",
+        "abilityID": "666269c6-28b1-4939-825c-ba35992b567b",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "77885516-740d-40be-9b0f-ccfb537d08ca",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b85f1187-922d-4ecc-ab51-d6a4b09d2732",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.GameText$$$",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "xytrainerkit",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "dc0fd95b-b715-411d-8605-d3a3f932db01",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ekans.Name$$$",
+    "10190": 42,
+    "200260": 380,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Ekans",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Bite.GameText$$$",
+        "abilityID": "ca5460ad-1990-4bca-b421-af9c5d7880e6",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "958251ae-43de-4d5c-ad5e-48f4b3f30836",
+    "201730": [
+      "xytrainerkit",
+      "newAliDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5dfdfb84-5dcb-4add-a17c-83e1d3e3fc94",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pumpkaboo.Name$$$",
+    "10190": 42,
+    "200260": 386,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Darkness"
+    ],
+    "200600": "Fighting",
+    "200630": "Pumpkaboo",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.ConfuseRay.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.ConfuseRay.GameText$$$",
+        "abilityID": "9f184bfa-9ff2-4be5-8e3e-fd439c65088e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "074e153d-f102-48cb-860e-1798b4612b1a",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7ed42ae0-1a78-4db7-916e-1adb122615dd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicDarknessEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xytrainerkit",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8fd1af29-4f73-403b-bf83-e5e7992b4934",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.Name$$$",
+    "10190": 42,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.GameText$$$",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "xytrainerkit",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6e8655df-f032-487c-bead-adb67be94f53",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicDarknessEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xytrainerkit",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b5679a85-1660-4cd1-a704-6601a48bcc9d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "51ce3ecf-3f48-4ec5-8c9d-7a1b3e3bd4d4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noivern.Name$$$",
+    "10190": 42,
+    "200260": 368,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Noibat.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "TK6A",
+    "200590": [
+      "Fairy"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Noivern",
+    "200640": "Noibat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.SecondBite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_XY.SecondBite.GameText$$$",
+        "abilityID": "23a13940-e0da-4336-b6ff-a1cb0e5387cb",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1,
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SonicBazooka.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.SonicBazooka.GameText$$$",
+        "abilityID": "666269c6-28b1-4939-825c-ba35992b567b",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "77885516-740d-40be-9b0f-ccfb537d08ca",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b48622b4-7ceb-4e81-96b7-678b1f8f22af",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 42,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK6A",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xytrainerkit"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "eca6f8a8-2260-4966-89cc-b47ed782fbcb",
+    "10020": "xytrainerkit",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.XYTrainerKitBundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.XYTrainerKitBundle.Name$$$",
+    "10190": 42,
+    "10540": "Bundles",
+    "200580": "TK6A",
+    "200871": "MindbindBundle",
+    "201507": "ThemeDeck",
+    "201640": "57230df0-3466-45cd-af22-18a6080aa52b"
+  },
+  {
+    "10000": "57230df0-3466-45cd-af22-18a6080aa52b",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.XY_TrainerKitPCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.tk6A.xytrainerkit.name$$$",
+    "10190": 42,
+    "10540": "Decks",
+    "200580": "TK6A",
+    "200871": "MindbindPCD",
+    "201270": "xytrainerkit"
+  }
+]

@@ -1,0 +1,655 @@
+{
+  "expansion": "TK-PikachuLibre",
+  "items": {
+    "326107137": {
+      "id": 326107137,
+      "name": "Glameow",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 469,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Act Cute",
+          "text": "Your opponent puts a card from his or her hand on the bottom of his or her deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Scratch",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107138": {
+      "id": 326107138,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107139": {
+      "id": 326107139,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107140": {
+      "id": 326107140,
+      "name": "Electivire",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 216,
+      "preevo": "Electabuzz",
+      "hp": 110,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Electroslug",
+          "damage": 90,
+          "cost": [
+            1,
+            5,
+            5
+          ]
+        }
+      ]
+    },
+    "326107141": {
+      "id": 326107141,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107142": {
+      "id": 326107142,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107143": {
+      "id": 326107143,
+      "name": "Taillow",
+      "cat": 1,
+      "kind": 1,
+      "no": 7,
+      "rarity": 1,
+      "family": 233,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Double Peck",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107144": {
+      "id": 326107144,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107145": {
+      "id": 326107145,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107146": {
+      "id": 326107146,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107147": {
+      "id": 326107147,
+      "name": "Electrike",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 186,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107148": {
+      "id": 326107148,
+      "name": "Blitzle",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 3,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107149": {
+      "id": 326107149,
+      "name": "Manectric",
+      "cat": 1,
+      "kind": 2,
+      "no": 13,
+      "rarity": 2,
+      "family": 186,
+      "preevo": "Electrike",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107150": {
+      "id": 326107150,
+      "name": "Pikachu Libre",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 3,
+      "family": 496,
+      "hp": 80,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Flying Elekick",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            5
+          ]
+        }
+      ]
+    },
+    "326107151": {
+      "id": 326107151,
+      "name": "Electabuzz",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 216,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107152": {
+      "id": 326107152,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 373,
+      "hp": 40,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Acrobatics",
+          "text": "Flip 2 coins. This attack does 10 more damage for each heads.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107153": {
+      "id": 326107153,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107154": {
+      "id": 326107154,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326107155": {
+      "id": 326107155,
+      "name": "Purugly",
+      "cat": 1,
+      "kind": 2,
+      "no": 19,
+      "rarity": 2,
+      "family": 469,
+      "preevo": "Glameow",
+      "hp": 100,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Nyan Press",
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107156": {
+      "id": 326107156,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 20,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "326107157": {
+      "id": 326107157,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 2,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "326107158": {
+      "id": 326107158,
+      "name": "Manectric",
+      "cat": 1,
+      "kind": 2,
+      "no": 22,
+      "rarity": 2,
+      "family": 186,
+      "preevo": "Electrike",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107159": {
+      "id": 326107159,
+      "name": "Electabuzz",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 216,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107160": {
+      "id": 326107160,
+      "name": "Purugly",
+      "cat": 1,
+      "kind": 2,
+      "no": 24,
+      "rarity": 2,
+      "family": 469,
+      "preevo": "Glameow",
+      "hp": 100,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Nyan Press",
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107161": {
+      "id": 326107161,
+      "name": "Electivire",
+      "cat": 1,
+      "kind": 2,
+      "no": 25,
+      "rarity": 2,
+      "family": 216,
+      "preevo": "Electabuzz",
+      "hp": 110,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Electroslug",
+          "damage": 90,
+          "cost": [
+            1,
+            5,
+            5
+          ]
+        }
+      ]
+    },
+    "326107162": {
+      "id": 326107162,
+      "name": "Blitzle",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 3,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107163": {
+      "id": 326107163,
+      "name": "Glameow",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 469,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Act Cute",
+          "text": "Your opponent puts a card from his or her hand on the bottom of his or her deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Scratch",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326107164": {
+      "id": 326107164,
+      "name": "Electrike",
+      "cat": 1,
+      "kind": 1,
+      "no": 28,
+      "rarity": 1,
+      "family": 186,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326107165": {
+      "id": 326107165,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 29,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "326110238": {
+      "id": 326110238,
+      "name": "Pikachu Libre",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 4,
+      "family": 496,
+      "hp": 80,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Flying Elekick",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            5
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "TK9Bundle": {
+      "id": 326164480,
+      "name": "Swift Current",
+      "cat": 15,
+      "asset": "TK9Bundle",
+      "description": "Master the art of Pokémon battling with your favorite Pokémon—one card at a time! The Pokémon TCG: XY Trainer Kit—Pikachu Libre and Suicune gets you playing from the very first card you draw. And with fun and powerful Pokémon at your side, you'll be a Pokémon Trainer before you know it!\nThis kit contains everything you need to learn, train, and win! Play both decks against each other, then combine them to create one bigger deck where Pikachu Libre and Suicune battle side by side! Or test your deck at a Pokémon League near you and in the Pokémon TCG Online!\nThis step-by-step Trainer Kit includes:\n• Two 30-card decks, each with a specially selected foil card\n• Two guided game booklets to teach you how to play—card by card, step by step!\n• 2-player playmat with great game tips and rules on the reverse side\n• Damage counters and Special Condition markers\n• A game coin with a cool Pokémon design\n• An illustrated deck box to keep your new cards in\n• A code card for the Pokémon TCG Online!"
+    }
+  }
+}

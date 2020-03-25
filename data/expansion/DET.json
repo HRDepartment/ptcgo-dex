@@ -1,0 +1,500 @@
+{
+  "expansion": "DET",
+  "items": {
+    "341835777": {
+      "id": 341835777,
+      "name": "Bulbasaur",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 170,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "text": "Search your deck for a {G} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "341835778": {
+      "id": 341835778,
+      "name": "Ludicolo",
+      "cat": 1,
+      "kind": 3,
+      "no": 2,
+      "rarity": 3,
+      "family": 250,
+      "preevo": "Lombre",
+      "hp": 140,
+      "weakness": 3,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Table Service",
+          "text": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Punch and Run",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "341835779": {
+      "id": 341835779,
+      "name": "Morelull",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "rarity": 1,
+      "family": 514,
+      "hp": 50,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sleep Spore",
+          "text": "Your opponent’s Active Pokémon is now Asleep.",
+          "damage": 10,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "341835780": {
+      "id": 341835780,
+      "name": "Charmander",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 84,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "341835781": {
+      "id": 341835781,
+      "name": "Charizard",
+      "cat": 1,
+      "kind": 3,
+      "no": 5,
+      "rarity": 5,
+      "family": 84,
+      "preevo": "Charmeleon",
+      "hp": 180,
+      "weakness": 4,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            3
+          ]
+        },
+        {
+          "name": "Wild Tackle",
+          "text": "This Pokémon does 50 damage to itself.",
+          "damage": 180,
+          "cost": [
+            1,
+            1,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "341835782": {
+      "id": 341835782,
+      "name": "Arcanine",
+      "cat": 1,
+      "kind": 2,
+      "no": 6,
+      "rarity": 3,
+      "family": 99,
+      "preevo": "Growlithe",
+      "hp": 120,
+      "weakness": 4,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Security Guard",
+          "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": 90,
+          "cost": [
+            1,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "341835783": {
+      "id": 341835783,
+      "name": "Psyduck",
+      "cat": 1,
+      "kind": 1,
+      "no": 7,
+      "rarity": 1,
+      "family": 221,
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Panic",
+          "text": "This Pokémon is now Confused.",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "341835784": {
+      "id": 341835784,
+      "name": "Magikarp",
+      "cat": 1,
+      "kind": 1,
+      "no": 8,
+      "rarity": 1,
+      "family": 100,
+      "hp": 30,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hold Still",
+          "text": "Heal 10 damage from this Pokémon.",
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "341835785": {
+      "id": 341835785,
+      "name": "Greninja",
+      "cat": 1,
+      "kind": 3,
+      "no": 9,
+      "rarity": 5,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 140,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Evasion Jutsu",
+          "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Furious Shurikens",
+          "text": "This attack does 50 damage to 2 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "341835786": {
+      "id": 341835786,
+      "name": "Detective Pikachu",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "rarity": 3,
+      "family": 647,
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scout",
+          "text": "Your opponent reveals their hand.",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "341835787": {
+      "id": 341835787,
+      "name": "Mr. Mime",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 3,
+      "family": 275,
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Pantomime",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Juggling",
+          "text": "Flip 4 coins. This attack does 20 damage for each heads.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "341835788": {
+      "id": 341835788,
+      "name": "Mewtwo",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 5,
+      "family": 111,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Psyjack",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "damage": 30,
+          "cost": [
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Break Burn",
+          "text": "Discard 2 {P} Energy from this Pokémon.",
+          "damage": 130,
+          "cost": [
+            1,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "341835789": {
+      "id": 341835789,
+      "name": "Machamp",
+      "cat": 1,
+      "kind": 3,
+      "no": 13,
+      "rarity": 3,
+      "family": 65,
+      "preevo": "Machoke",
+      "hp": 160,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Directing Traffic",
+          "text": "Look at the top 5 cards of your deck and put them back in any order.",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Cross Chop",
+          "text": "Flip a coin. If heads, this attack does 60 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "341835790": {
+      "id": 341835790,
+      "name": "Jigglypuff",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 160,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Healing Melody",
+          "text": "Heal 10 damage from each of your Pokémon.",
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "341835791": {
+      "id": 341835791,
+      "name": "Snubbull",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 291,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Play Rough",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "341835792": {
+      "id": 341835792,
+      "name": "Lickitung",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 356,
+      "hp": 100,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Continuous Lick",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "341835793": {
+      "id": 341835793,
+      "name": "Ditto",
+      "cat": 1,
+      "kind": 1,
+      "no": 17,
+      "rarity": 5,
+      "family": 214,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Copy Anything",
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "341835794": {
+      "id": 341835794,
+      "name": "Slaking",
+      "cat": 1,
+      "kind": 3,
+      "no": 18,
+      "rarity": 3,
+      "family": 200,
+      "preevo": "Vigoroth",
+      "hp": 180,
+      "weakness": 7,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Pitch",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {
+    "341892098": {
+      "id": 341892098,
+      "name": "Detective Pikachu",
+      "cat": 10,
+      "cards": 4,
+      "description": "Contains 4 cards from the Pokémon TCG: Detective Pikachu expansion."
+    }
+  },
+  "products": {}
+}

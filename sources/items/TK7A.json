@@ -1,0 +1,1481 @@
+[
+  {
+    "10000": "ff476bd6-7b1f-43a9-88c7-48d29891b324",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Vigoroth.Name$$$",
+    "10190": 47,
+    "200260": 200,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Slakoth.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Vigoroth",
+    "200640": "Slakoth",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.Scratch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.Scratch.GameText$$$",
+        "abilityID": "ff490c3a-1c02-47ef-9bef-cd7fcc164b52",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.RecklessCharge.GameText$$$",
+        "abilityID": "2078d8de-d292-467d-a8c9-81f9f0b57f2d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "c1b44171-bad6-4cac-90d9-23e4afc6dbbd",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2f77bb78-e451-43d4-b627-4c300a551977",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Doublade.Name$$$",
+    "10190": 47,
+    "200260": 376,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Honedge.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Doublade",
+    "200640": "Honedge",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Metal": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.DualBlades.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.DualBlades.GameText$$$",
+        "abilityID": "25a61d4f-648b-415a-8330-bbc1284ac935",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6a3ccbe0-1543-4d42-aa18-59135be60012",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6557aee4-e5fd-49e4-84c3-7a933dc00d0f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.Name$$$",
+    "10190": 47,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.GameText$$$",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "tk7",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "14fc1cac-66d3-4bd0-89ec-540c018ae2c9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Honedge.Name$$$",
+    "10190": 47,
+    "200260": 376,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Honedge",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Pierce.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Pierce.GameText$$$",
+        "abilityID": "f29206c9-4e09-4f86-a879-2d08394557a5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8c20090a-06d8-4742-a598-b004370df0bf",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "1c2e4ccf-7049-47d2-b8c3-45dd8c422ea3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Honedge.Name$$$",
+    "10190": 47,
+    "200260": 376,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Honedge",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Pierce.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Pierce.GameText$$$",
+        "abilityID": "f29206c9-4e09-4f86-a879-2d08394557a5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8c20090a-06d8-4742-a598-b004370df0bf",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5f9c05c6-7b0f-4528-ba72-1f9a602ded03",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bisharp.Name$$$",
+    "10190": 47,
+    "200260": 145,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Rare",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Bisharp",
+    "200640": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.WickedJab.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WickedJab.GameText$$$",
+        "abilityID": "e5646cb9-9c0f-45c5-b921-e0a213c4e76e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Metal": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "8cdd9037-e5a2-4dfd-ae07-90ff6ae9ce3f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8e272088-943b-492b-beae-42a25abc2ebc",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "83b66453-f6e9-4a5b-b7dc-8806da3a199e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Slakoth.Name$$$",
+    "10190": 47,
+    "200260": 200,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Slakoth",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.BigYawn.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.BigYawn.GameText$$$",
+        "abilityID": "4d31ca6f-9ab3-40bb-8fa2-33aa232114c8",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e7b43a2b-b5a4-41e8-ba87-bd51f6a107df",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "78d52017-1753-4cb8-8135-a4764bc0fb92",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "10190": 47,
+    "200260": 145,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.GameText$$$",
+        "abilityID": "d70e07eb-16e8-4d28-8cca-84763f373410",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.GameText$$$",
+        "abilityID": "04bb7119-0ece-43af-a321-7911747a6860",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8da5713c-fcf4-4645-9613-af1ab407c272",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "9b4a6bed-5801-41ef-bc63-e8a253703baa",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Vigoroth.Name$$$",
+    "10190": 47,
+    "200260": 200,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Slakoth.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Vigoroth",
+    "200640": "Slakoth",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.Scratch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.Scratch.GameText$$$",
+        "abilityID": "ff490c3a-1c02-47ef-9bef-cd7fcc164b52",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.RecklessCharge.GameText$$$",
+        "abilityID": "2078d8de-d292-467d-a8c9-81f9f0b57f2d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "c1b44171-bad6-4cac-90d9-23e4afc6dbbd",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "84fc44d6-a58e-4958-a05e-1cdcdaebd3ac",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bisharp.Name$$$",
+    "10190": 47,
+    "200260": 145,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Bisharp",
+    "200640": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.WickedJab.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WickedJab.GameText$$$",
+        "abilityID": "e5646cb9-9c0f-45c5-b921-e0a213c4e76e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Metal": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "8cdd9037-e5a2-4dfd-ae07-90ff6ae9ce3f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "8e272088-943b-492b-beae-42a25abc2ebc",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "36ac9e72-2786-44bc-82be-6dff72b9cf22",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fletchling.Name$$$",
+    "10190": 47,
+    "200260": 373,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Fletchling",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Peck.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.Peck.GameText$$$",
+        "abilityID": "ebf8d5e5-8c73-4979-9d28-41e891430195",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.MeFirst.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.MeFirst.GameText$$$",
+        "abilityID": "05484dc7-75b0-49d9-9817-58ac55ffb33c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "13f5173b-8bc7-4b32-bc7e-74a2fd2e1475",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "81977858-a5db-4e64-af75-69551a586c4a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2bc14e17-cd8b-4da8-b985-543f8b001805",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d64a9278-23cb-416c-a815-5085f3791c03",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5450da4a-7bad-4689-8e8b-e32b23b7987c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d9312874-3892-41dd-9d95-f4504e493165",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "bfc29a07-e989-4b91-b0dd-0a77b3249b95",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d210147d-f9a5-4212-99a0-cf610a8842d5",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.Promo_XY.trainercards.Trevor_Promo_XY_33.Name$$$",
+    "10190": 47,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.Promo_XY.trainercards.Trevor_Promo_XY_33.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK7A",
+    "200630": "Trevor",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "f02d2933-abcc-43ad-a80d-93d5d7ddcae1",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200790": "20",
+    "200871": "std",
+    "201710": "68479a94-91f5-4c00-8221-54c23a755fe9",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f45ffbdc-6e0e-4fc9-b019-de218e95cf74",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "21af1d57-8ff2-43dd-a717-98b75e812fc7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Doublade.Name$$$",
+    "10190": 47,
+    "200260": 376,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Honedge.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Doublade",
+    "200640": "Honedge",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Metal": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.DualBlades.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.DualBlades.GameText$$$",
+        "abilityID": "25a61d4f-648b-415a-8330-bbc1284ac935",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6a3ccbe0-1543-4d42-aa18-59135be60012",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d5a842c3-e68f-4636-9726-28fc11c07a4b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Slakoth.Name$$$",
+    "10190": 47,
+    "200260": 200,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Slakoth",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.BigYawn.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.BigYawn.GameText$$$",
+        "abilityID": "4d31ca6f-9ab3-40bb-8fa2-33aa232114c8",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e7b43a2b-b5a4-41e8-ba87-bd51f6a107df",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2a3039ef-3bdc-4292-a1d6-a5924d0fbea2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "10190": 47,
+    "200260": 145,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.GameText$$$",
+        "abilityID": "d70e07eb-16e8-4d28-8cca-84763f373410",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.GameText$$$",
+        "abilityID": "04bb7119-0ece-43af-a321-7911747a6860",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8da5713c-fcf4-4645-9613-af1ab407c272",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "99e25ef2-a553-4eed-935d-8d324522ba01",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5b69cca2-edb7-4e65-8ec6-810205500061",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.Name$$$",
+    "10190": 47,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.GameText$$$",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "tk7",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "91efe281-af03-41e1-bc3d-073af26bcb09",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a73a85de-6f82-497f-9c7a-e08337b9c871",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bidoof.Name$$$",
+    "10190": 47,
+    "200260": 183,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Bidoof",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.HyperFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY1.HyperFang.GameText$$$",
+        "abilityID": "ae702ac4-c963-445d-925d-d900ff69921a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "75cb121c-bc2f-4002-8252-1b967a0b1784",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d0055615-d6b2-4073-b309-ad0ada7f3236",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Patrat.Name$$$",
+    "10190": 47,
+    "200260": 25,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK7A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Patrat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.SafetyCheck.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY3.SafetyCheck.GameText$$$",
+        "abilityID": "022d4373-e878-497e-a2bb-9bda0dedab81",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "eb0239e4-4caa-4651-9c17-726003f2643b",
+    "201730": [
+      "tk7"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b1eb0791-31d6-4915-9979-9b313379a4fb",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.Name$$$",
+    "10190": 47,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK7A",
+    "200630": "Tierno",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200871": "std",
+    "201710": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "201730": [
+      "tk7",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f0a52bf9-8a0c-4bce-8231-1fd6ec6231f8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5a2ee9c4-dd98-4761-8422-6f1091484d43",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 47,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK7A",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "tk7",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c7fcedc3-fb9b-454b-94dd-0dd3bb5db1d3",
+    "10020": "tk7",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.TK7Bundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.TK7Bundle.Name$$$",
+    "10190": 47,
+    "10540": "Bundles",
+    "200580": "TK7A",
+    "200871": "TK7Bundle",
+    "201507": "ThemeDeck",
+    "201640": "4383b994-4b89-4600-a125-3e095c8d1ef5"
+  },
+  {
+    "10000": "4383b994-4b89-4600-a125-3e095c8d1ef5",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.TK7PCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.tk7A.xytrainerkit.name$$$",
+    "10190": 47,
+    "10540": "Decks",
+    "200580": "TK7A",
+    "200871": "TK7PCD",
+    "201270": "tk7"
+  }
+]

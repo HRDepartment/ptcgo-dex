@@ -1,0 +1,27 @@
+[
+  {
+    "10000": "7bbeaa61-3587-464f-b309-8d0575510cb2",
+    "10020": "packs/TreasureBoxPackHolo",
+    "10060": "$$$product.treasureboxpackholo.description$$$",
+    "10090": false,
+    "10140": "$$$product.treasureboxpackholo.name$$$",
+    "10190": 3,
+    "10510": "treasureBoxPackHolo",
+    "10540": "Packs",
+    "200550": "RareHolo",
+    "200580": "RewardItems",
+    "200871": "TreasureBoxPack_Shiny"
+  },
+  {
+    "10000": "1be84bb0-754a-4fb9-b069-08e91baa5c13",
+    "10020": "packs/TreasureBoxPack",
+    "10060": "$$$product.treasureboxpack.description$$$",
+    "10090": false,
+    "10140": "$$$product.treasureboxpack.name$$$",
+    "10190": 3,
+    "10510": "treasureBoxPack",
+    "10540": "Packs",
+    "200580": "RewardItems",
+    "200871": "TreasureBoxPack"
+  }
+]

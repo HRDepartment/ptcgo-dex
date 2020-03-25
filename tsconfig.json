@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "target": "es2018",
+    "lib": ["esnext", "dom"]
+  },
+  // Directories which Intellisense shouldn't try to pick up
+  "exclude": ["assets", "assets-overrides", "sources"]
+}

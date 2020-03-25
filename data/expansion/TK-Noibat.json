@@ -1,0 +1,552 @@
+{
+  "expansion": "TK-Noibat",
+  "items": {
+    "322961409": {
+      "id": 322961409,
+      "name": "Spoink",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 222,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": 10,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "322961410": {
+      "id": 322961410,
+      "name": "Gourgeist",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 3,
+      "family": 386,
+      "preevo": "Pumpkaboo",
+      "hp": 100,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Eerie Voice",
+          "text": "Put 2 damage counters on each of your opponent's Pokémon.",
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Spirit Scream",
+          "text": "Put damage counters on both Active Pokémon until the remaining HP of each Pokémon is 10.",
+          "cost": [
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "322961411": {
+      "id": 322961411,
+      "name": "Arbok",
+      "cat": 1,
+      "kind": 2,
+      "no": 3,
+      "rarity": 3,
+      "family": 380,
+      "preevo": "Ekans",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gastro Acid",
+          "text": "The Defending Pokémon has no Abilities until the end of your next turn.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "322961412": {
+      "id": 322961412,
+      "name": "Bunnelby",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 370,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "322961413": {
+      "id": 322961413,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961414": {
+      "id": 322961414,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961415": {
+      "id": 322961415,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961416": {
+      "id": 322961416,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961417": {
+      "id": 322961417,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961418": {
+      "id": 322961418,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961419": {
+      "id": 322961419,
+      "name": "Pumpkaboo",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 386,
+      "hp": 60,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "322961420": {
+      "id": 322961420,
+      "name": "Noibat",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 368,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Wing Attack",
+          "damage": 30,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "322961421": {
+      "id": 322961421,
+      "name": "Noivern",
+      "cat": 1,
+      "kind": 2,
+      "no": 13,
+      "rarity": 3,
+      "family": 368,
+      "preevo": "Noibat",
+      "hp": 110,
+      "weakness": 10,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Second Bite",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sonic Bazooka",
+          "text": "Flip a coin. If heads, this attack does 30 more damage and your opponent's Active Pokémon is now Confused.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            6,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "322961422": {
+      "id": 322961422,
+      "name": "Pokémon Catcher",
+      "cat": 2,
+      "kind": 40,
+      "no": 14,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+    },
+    "322961423": {
+      "id": 322961423,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "322961424": {
+      "id": 322961424,
+      "name": "Ekans",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 380,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "322961425": {
+      "id": 322961425,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961426": {
+      "id": 322961426,
+      "name": "Pumpkaboo",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 386,
+      "hp": 60,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "322961427": {
+      "id": 322961427,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 19,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "322961428": {
+      "id": 322961428,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 20,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "322961429": {
+      "id": 322961429,
+      "name": "Poké Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "322961430": {
+      "id": 322961430,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "322961431": {
+      "id": 322961431,
+      "name": "Noibat",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 368,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Wing Attack",
+          "damage": 30,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "322961432": {
+      "id": 322961432,
+      "name": "Professor's Letter",
+      "cat": 2,
+      "kind": 40,
+      "no": 24,
+      "rarity": 2,
+      "text": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+    },
+    "322961433": {
+      "id": 322961433,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 25,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "322961434": {
+      "id": 322961434,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 26,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "322961435": {
+      "id": 322961435,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 27,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "322961436": {
+      "id": 322961436,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 28,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "322961437": {
+      "id": 322961437,
+      "name": "Switch",
+      "cat": 2,
+      "kind": 40,
+      "no": 29,
+      "rarity": 1,
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    "322964510": {
+      "id": 322964510,
+      "name": "Noivern",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 368,
+      "preevo": "Noibat",
+      "hp": 110,
+      "weakness": 10,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Second Bite",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sonic Bazooka",
+          "text": "Flip a coin. If heads, this attack does 30 more damage and your opponent's Active Pokémon is now Confused.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            6,
+            8,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "MindbindBundle": {
+      "id": 323018752,
+      "name": "Mindbind",
+      "cat": 15,
+      "asset": "MindbindBundle",
+      "description": "Mindbind"
+    },
+    "MindbindPCD": {
+      "id": 323018752,
+      "name": "Mindbind",
+      "cat": 15,
+      "asset": "MindbindPCD",
+      "description": "Play the Mindbind theme deck and watch your opponents as their dreams are crushed and their minds are broken! As the Intertwining Pokémon Sylveon leaves foes in a tangle with its Fairy Wind attack, Noivern will wait in the wings with the second wave before unleashing its Second Bite attack. Ensnare your opposition with the Mindbind theme deck!"
+    }
+  }
+}

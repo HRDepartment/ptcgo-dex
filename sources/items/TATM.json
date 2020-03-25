@@ -1,0 +1,3708 @@
+[
+  {
+    "10000": "a233a2ab-43ee-4766-a93c-d14875655239",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaAdmin_TATM_25.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaAdmin_TATM_25.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamAquaAdmin",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "aa6f1db1-6116-4c03-9276-ec246de1c764",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200871": "std",
+    "201710": "a233a2ab-43ee-4766-a93c-d14875655239",
+    "202080": 201
+  },
+  {
+    "10000": "27b4a69c-839e-4cc7-aa94-a6401bff86c8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasWalrein.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSealeo.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasWalrein",
+    "200640": "TeamAquasSealeo",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 3
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.DualBlizzard.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.DualBlizzard.GameText$$$",
+        "abilityID": "b659409f-5fd1-4473-9a10-93c4f8abcdc2",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBlow.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBlow.GameText$$$",
+        "abilityID": "e48b839f-5310-4d7e-88a8-280070c31bd6",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "a4eb5a6c-05dd-4a1e-b379-3fa4362353ea",
+    "202080": 201
+  },
+  {
+    "10000": "e56863c2-7884-4083-9a63-d9f2f107a000",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasCarvanha.Name$$$",
+    "10190": 50,
+    "200260": 441,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamAquasCarvanha",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FinSmack.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FinSmack.GameText$$$",
+        "abilityID": "7fa7d906-53e3-400f-93b0-2a5db5d6e598",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e56863c2-7884-4083-9a63-d9f2f107a000",
+    "202080": 201
+  },
+  {
+    "10000": "eac44256-b74c-45aa-87b0-acefacc85a63",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasCamerupt.Name$$$",
+    "10190": 50,
+    "200260": 152,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasNumel.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasCamerupt",
+    "200640": "TeamMagmasNumel",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FlameBall.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FlameBall.GameText$$$",
+        "abilityID": "f659599f-140e-4e34-9660-b08b024a90b5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityBurningDraft.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityBurningDraft.GameText$$$",
+        "abilityID": "7bba602e-07d8-4062-b330-540f71429cbe",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "8f56f9d8-7f08-4276-bc5d-4aad3c4d4610",
+    "202080": 201
+  },
+  {
+    "10000": "fcdc1c2e-2c11-4205-8fb6-f04ac359e622",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasMightyena.Name$$$",
+    "10190": 50,
+    "200260": 439,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasPoochyena.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "TeamMagmasMightyena",
+    "200640": "TeamMagmasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "718216b5-dc5f-477b-ac5d-290b4637bdff",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 2,
+          "Colorless": 1
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HostileFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HostileFang.GameText$$$",
+        "abilityID": "6b82cd85-05b7-494d-8400-c6a5bf618152",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "fcdc1c2e-2c11-4205-8fb6-f04ac359e622",
+    "202080": 201
+  },
+  {
+    "10000": "6d4a66b7-45d1-420e-90f3-981872e5ed9d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.Name$$$",
+    "10190": 50,
+    "200200": "$$$common.rulesText.trainercards.poketoolshort$$$",
+    "200270": "PokemonTool",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MagmaPointer.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "MagmaPointer",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.GameText$$$",
+        "abilityID": "27afd487-778a-4e1d-8081-3852b1e396dd",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e08954dd-69ff-4f33-afb7-9a7e6c899fff",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "std",
+    "201710": "6d4a66b7-45d1-420e-90f3-981872e5ed9d",
+    "202080": 201
+  },
+  {
+    "10000": "d1b757fd-1be7-4731-aabe-08dd5aebb802",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasCamerupt.Name$$$",
+    "10190": 50,
+    "200260": 152,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasNumel.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamMagmasCamerupt",
+    "200640": "TeamMagmasNumel",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FlameBall.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FlameBall.GameText$$$",
+        "abilityID": "f659599f-140e-4e34-9660-b08b024a90b5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityBurningDraft.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityBurningDraft.GameText$$$",
+        "abilityID": "7bba602e-07d8-4062-b330-540f71429cbe",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8f56f9d8-7f08-4276-bc5d-4aad3c4d4610",
+    "202080": 201
+  },
+  {
+    "10000": "ccee9934-64ea-49a1-9f6b-5a9b23bb5e42",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasBaltoy.Name$$$",
+    "10190": 50,
+    "200260": 435,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamMagmasBaltoy",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Telekinesis.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Telekinesis.GameText$$$",
+        "abilityID": "6b58dd9d-9ecb-4f6d-8ab3-83ebe796c007",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ccee9934-64ea-49a1-9f6b-5a9b23bb5e42",
+    "202080": 201
+  },
+  {
+    "10000": "0b78fab2-0037-46f2-bfce-0d456f354577",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaAdmin_TATM_25.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaAdmin_TATM_25.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquaAdmin",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "aa6f1db1-6116-4c03-9276-ec246de1c764",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200871": "ph",
+    "201710": "a233a2ab-43ee-4766-a93c-d14875655239",
+    "202080": 201
+  },
+  {
+    "10000": "416e88ef-6e9e-4425-99e9-282d03b6e6d4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSharpedo.Name$$$",
+    "10190": 50,
+    "200260": 441,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasCarvanha.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamAquasSharpedo",
+    "200640": "TeamAquasCarvanha",
+    "200660": "x",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaSearch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaSearch.GameText$$$",
+        "abilityID": "04765234-c4a8-4c88-994b-42b6e18758ad",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 2
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.GameText$$$",
+        "abilityID": "3cede204-84ea-450d-9dbb-88e0f9b1476f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 0,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "0a5abf65-4949-4599-ae46-e98031ea289a",
+    "202080": 201
+  },
+  {
+    "10000": "548617be-e469-4030-b97c-9e930641efee",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasZangoose.Name$$$",
+    "10190": 50,
+    "200260": 442,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasZangoose",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.CallforFamily.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.CallforFamily.GameText$$$",
+        "abilityID": "4936a0e9-5af2-4d6c-9686-6f1990ba4b5b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TeamPlay.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TeamPlay.GameText$$$",
+        "abilityID": "1f597433-ff0d-4077-a227-296771a26b32",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "ff673594-1036-43d4-8a03-fec41f011fbe",
+    "202080": 201
+  },
+  {
+    "10000": "14b43b5f-e06a-4235-89d0-ecda887dcaec",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSeviper.Name$$$",
+    "10190": 50,
+    "200260": 434,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamAquasSeviper",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomTail.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomTail.GameText$$$",
+        "abilityID": "a91db89e-419e-4ef2-bf21-c32184098659",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomousFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomousFang.GameText$$$",
+        "abilityID": "ed9c1655-103d-45bf-a0b1-2e89194ac9ec",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "14b43b5f-e06a-4235-89d0-ecda887dcaec",
+    "202080": 201
+  },
+  {
+    "10000": "b62860c8-07bc-4a36-83dd-4c2d75ccbe4b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasLairon.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAron.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamMagmasLairon",
+    "200640": "TeamMagmasAron",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.GameText$$$",
+        "abilityID": "34e08642-fda3-4164-b48c-660ec738e21b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TakeDown.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TakeDown.GameText$$$",
+        "abilityID": "d4ab3e0a-7b19-42f6-83b8-b87434138eba",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "b62860c8-07bc-4a36-83dd-4c2d75ccbe4b",
+    "202080": 201
+  },
+  {
+    "10000": "ac40eba2-f40d-4d5d-925b-251f1ee90847",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasSecretBase_TATM_28.Name$$$",
+    "10190": 50,
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasSecretBase_TATM_28.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasSecretBase",
+    "200740": [
+      {
+        "title": "$$$$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "0cd5a68d-e864-4a7c-bdf5-d554ee50d2c6",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "ph",
+    "201710": "2ffd3a88-a5fa-446c-888d-e7c90d53cd33",
+    "202080": 201
+  },
+  {
+    "10000": "95a89865-17df-4449-b070-bbce92ed5f31",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasLairon.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAron.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasLairon",
+    "200640": "TeamMagmasAron",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.GameText$$$",
+        "abilityID": "34e08642-fda3-4164-b48c-660ec738e21b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TakeDown.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TakeDown.GameText$$$",
+        "abilityID": "d4ab3e0a-7b19-42f6-83b8-b87434138eba",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "b62860c8-07bc-4a36-83dd-4c2d75ccbe4b",
+    "202080": 201
+  },
+  {
+    "10000": "5d576364-2bf9-415d-8d82-22efc50603ba",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaGrunt_TATM_26.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaGrunt_TATM_26.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquaGrunt",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "ebd56f53-d78d-442c-8540-be5c9dcc03a0",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200871": "ph",
+    "201710": "6ef45c64-6564-4faa-a388-928d6db9a0be",
+    "202080": 201
+  },
+  {
+    "10000": "ff673594-1036-43d4-8a03-fec41f011fbe",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasZangoose.Name$$$",
+    "10190": 50,
+    "200260": 442,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamMagmasZangoose",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.CallforFamily.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.CallforFamily.GameText$$$",
+        "abilityID": "4936a0e9-5af2-4d6c-9686-6f1990ba4b5b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TeamPlay.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.TeamPlay.GameText$$$",
+        "abilityID": "1f597433-ff0d-4077-a227-296771a26b32",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ff673594-1036-43d4-8a03-fec41f011fbe",
+    "202080": 201
+  },
+  {
+    "10000": "a557a2c0-08da-4681-822d-539b0944b3a1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasPoochyena.Name$$$",
+    "10190": 50,
+    "200260": 438,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "TeamAquasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Roar.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Roar.GameText$$$",
+        "abilityID": "8b3f29cd-b280-4cf2-83f5-349459825f75",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "012a7b2f-f38c-4b12-b20f-b83bdc57cda9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a557a2c0-08da-4681-822d-539b0944b3a1",
+    "202080": 201
+  },
+  {
+    "10000": "349b6b57-d332-494a-b63f-e358e701e787",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasPoochyena.Name$$$",
+    "10190": 50,
+    "200260": 439,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "TeamMagmasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "fbec93da-4cf5-4fd7-be03-e4c50b3554b0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Infiltrate.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Infiltrate.GameText$$$",
+        "abilityID": "96f8f58e-d321-482c-9bf7-1a75ac5d0d1d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "349b6b57-d332-494a-b63f-e358e701e787",
+    "202080": 201
+  },
+  {
+    "10000": "2ffd3a88-a5fa-446c-888d-e7c90d53cd33",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasSecretBase_TATM_28.Name$$$",
+    "10190": 50,
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasSecretBase_TATM_28.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamAquasSecretBase",
+    "200740": [
+      {
+        "title": "$$$$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "0cd5a68d-e864-4a7c-bdf5-d554ee50d2c6",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "std",
+    "201710": "2ffd3a88-a5fa-446c-888d-e7c90d53cd33",
+    "202080": 201
+  },
+  {
+    "10000": "86b842e6-b5d3-4bf6-a193-561898f9842d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleMagmaEnergy_TATM_34.Name$$$",
+    "10190": 50,
+    "200300": "Energy",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleMagmaEnergy_TATM_34.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "DoubleMagmaEnergy",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.GameText$$$",
+        "abilityID": "e8bb7a9f-8769-476e-ad8a-f530c5f182d9",
+        "abilityType": "EnergyAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "9846adf1-2453-4019-ab67-f1ec6a5bdccd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 34,
+    "200871": "ph",
+    "200970": true,
+    "201040": {
+      "options": [
+        []
+      ]
+    },
+    "201710": "9359b0c6-0c7d-4bbe-860b-ac23e5b00aa6",
+    "202080": 201
+  },
+  {
+    "10000": "0a451dde-ce78-4fe6-a54a-f42d5c62b99e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasGrimer.Name$$$",
+    "10190": 50,
+    "200260": 431,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamAquasGrimer",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MudSlap.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MudSlap.GameText$$$",
+        "abilityID": "6bafc944-e57d-4fa0-a097-80f5977a5dba",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pound.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pound.GameText$$$",
+        "abilityID": "2e56ee46-f7ee-4fcb-831e-10f8c5751cbf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "0a451dde-ce78-4fe6-a54a-f42d5c62b99e",
+    "202080": 201
+  },
+  {
+    "10000": "ab394546-ce22-4c69-bdf6-7a33d29668da",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSealeo.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSpheal.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamAquasSealeo",
+    "200640": "TeamAquasSpheal",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Splatter.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Splatter.GameText$$$",
+        "abilityID": "152afbc5-324f-48fd-bc8b-96ec1cd3ad25",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Water": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HailStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HailStorm.GameText$$$",
+        "abilityID": "50f348c6-e09f-4bc7-abb3-b26b19541c7c",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ab394546-ce22-4c69-bdf6-7a33d29668da",
+    "202080": 201
+  },
+  {
+    "10000": "00c51d42-5696-4f55-9e47-e56a94dd4e9f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasNumel.Name$$$",
+    "10190": 50,
+    "200260": 152,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamMagmasNumel",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Ember.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Ember.GameText$$$",
+        "abilityID": "63c2e4fc-844d-437c-a26e-df5f979babce",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "00c51d42-5696-4f55-9e47-e56a94dd4e9f",
+    "202080": 201
+  },
+  {
+    "10000": "a5469ada-9117-4755-94ea-1e0d62c76e21",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasMuk.Name$$$",
+    "10190": 50,
+    "200260": 431,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasGrimer.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamAquasMuk",
+    "200640": "TeamAquasGrimer",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pester.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pester.GameText$$$",
+        "abilityID": "7347a90e-2819-4042-9d22-8b0132bae4e0",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilitySludgeFestival.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilitySludgeFestival.GameText$$$",
+        "abilityID": "13240ec7-4227-4d62-b0b2-10ac20720560",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "88f9acc9-7a84-421d-8e39-b83120fe7f89",
+    "202080": 201
+  },
+  {
+    "10000": "2f588859-dbf3-4cb0-82a1-57e22c36bb38",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaAdmin_TATM_29.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaAdmin_TATM_29.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamMagmaAdmin",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "3ca5ea7f-5485-4808-b273-a21e1e2c6eb0",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200871": "std",
+    "201710": "2f588859-dbf3-4cb0-82a1-57e22c36bb38",
+    "202080": 201
+  },
+  {
+    "10000": "aea33177-3ff6-49bc-b515-1b605efde496",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasWalrein.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSealeo.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamAquasWalrein",
+    "200640": "TeamAquasSealeo",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 3
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.DualBlizzard.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.DualBlizzard.GameText$$$",
+        "abilityID": "b659409f-5fd1-4473-9a10-93c4f8abcdc2",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBlow.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBlow.GameText$$$",
+        "abilityID": "e48b839f-5310-4d7e-88a8-280070c31bd6",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a4eb5a6c-05dd-4a1e-b379-3fa4362353ea",
+    "202080": 201
+  },
+  {
+    "10000": "5004f305-a404-4465-a039-5dcd097737e2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasMightyena.Name$$$",
+    "10190": 50,
+    "200260": 438,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasPoochyena.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "TeamAquasMightyena",
+    "200640": "TeamAquasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Teampact.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Teampact.GameText$$$",
+        "abilityID": "ffa7c647-c1b4-4ffc-b716-81a937bf0d73",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Crunch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Crunch.GameText$$$",
+        "abilityID": "b0e1d4bb-8808-45ed-bf5c-ce9491df2e0e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "5004f305-a404-4465-a039-5dcd097737e2",
+    "202080": 201
+  },
+  {
+    "10000": "7fd0c781-8cf7-4f84-8d98-28ab26b646a7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasBaltoy.Name$$$",
+    "10190": 50,
+    "200260": 435,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasBaltoy",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Psychic": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Telekinesis.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Telekinesis.GameText$$$",
+        "abilityID": "6b58dd9d-9ecb-4f6d-8ab3-83ebe796c007",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "ccee9934-64ea-49a1-9f6b-5a9b23bb5e42",
+    "202080": 201
+  },
+  {
+    "10000": "cee15453-3a78-4a79-926e-350a142129bd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.Name$$$",
+    "10190": 50,
+    "200200": "$$$common.rulesText.trainercards.poketoolshort$$$",
+    "200270": "PokemonTool",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "AquaDiffuser",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.GameText$$$",
+        "abilityID": "95b9e5d0-801b-4cc1-a90c-1db642288e32",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e08954dd-69ff-4f33-afb7-9a7e6c899fff",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200871": "ph",
+    "201710": "ad841eb9-1891-4dcc-ba43-a6571e009307",
+    "202080": 201
+  },
+  {
+    "10000": "470e82a4-24d7-4e55-bd2c-0f03c288ebc1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleAquaEnergy_TATM_33.Name$$$",
+    "10190": 50,
+    "200300": "Energy",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleAquaEnergy_TATM_33.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "DoubleAquaEnergy",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.GameText$$$",
+        "abilityID": "adb96621-0d08-408d-9e7a-1e2c5a638f99",
+        "abilityType": "EnergyAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "9846adf1-2453-4019-ab67-f1ec6a5bdccd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 33,
+    "200871": "ph",
+    "200970": true,
+    "201040": {
+      "options": [
+        []
+      ]
+    },
+    "201710": "d18c6441-65be-4a0d-8156-807a1241fdc6",
+    "202080": 201
+  },
+  {
+    "10000": "fbaa999f-b4e9-4932-be13-5e2fe4a1fe28",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasPoochyena.Name$$$",
+    "10190": 50,
+    "200260": 438,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Roar.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Roar.GameText$$$",
+        "abilityID": "8b3f29cd-b280-4cf2-83f5-349459825f75",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "012a7b2f-f38c-4b12-b20f-b83bdc57cda9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "a557a2c0-08da-4681-822d-539b0944b3a1",
+    "202080": 201
+  },
+  {
+    "10000": "10f47c8b-64fc-4f56-9d27-d5f653ef9552",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAron.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasAron",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.GameText$$$",
+        "abilityID": "78c1d4bd-7851-46f8-abc7-d5b2f7cbe13f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "762d9646-d856-45e1-ad43-5c9a89555116",
+    "202080": 201
+  },
+  {
+    "10000": "d26cb216-7ba0-4bd7-9287-336b24e496d9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaGrunt_TATM_30.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaGrunt_TATM_30.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmaGrunt",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "bb17e0b5-e47b-4ede-a9e0-0b069afdbadc",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200871": "ph",
+    "201710": "2f8687a2-1444-403e-a06d-9c6e0f117f1a",
+    "202080": 201
+  },
+  {
+    "10000": "d18c6441-65be-4a0d-8156-807a1241fdc6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleAquaEnergy_TATM_33.Name$$$",
+    "10190": 50,
+    "200300": "Energy",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleAquaEnergy_TATM_33.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "DoubleAquaEnergy",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.GameText$$$",
+        "abilityID": "adb96621-0d08-408d-9e7a-1e2c5a638f99",
+        "abilityType": "EnergyAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "9846adf1-2453-4019-ab67-f1ec6a5bdccd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 33,
+    "200871": "std",
+    "200970": true,
+    "201040": {
+      "options": [
+        []
+      ]
+    },
+    "201710": "d18c6441-65be-4a0d-8156-807a1241fdc6",
+    "202080": 201
+  },
+  {
+    "10000": "e1b25f33-64b7-4921-8ddb-c92f4f1d78bf",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasMightyena.Name$$$",
+    "10190": 50,
+    "200260": 439,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasPoochyena.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasMightyena",
+    "200640": "TeamMagmasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "718216b5-dc5f-477b-ac5d-290b4637bdff",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 2,
+          "Colorless": 1
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HostileFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HostileFang.GameText$$$",
+        "abilityID": "6b82cd85-05b7-494d-8400-c6a5bf618152",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "fcdc1c2e-2c11-4205-8fb6-f04ac359e622",
+    "202080": 201
+  },
+  {
+    "10000": "762d9646-d856-45e1-ad43-5c9a89555116",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAron.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamMagmasAron",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Gnaw.GameText$$$",
+        "abilityID": "78c1d4bd-7851-46f8-abc7-d5b2f7cbe13f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "762d9646-d856-45e1-ad43-5c9a89555116",
+    "202080": 201
+  },
+  {
+    "10000": "491add42-3476-427f-89b6-c34b428bb130",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasSecretBase_TATM_32.Name$$$",
+    "10190": 50,
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasSecretBase_TATM_32.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamMagmasSecretBase",
+    "200740": [
+      {
+        "title": "$$$$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "678baf59-18d2-41a3-8698-1f7cdc05b31b",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 32,
+    "200871": "std",
+    "201710": "491add42-3476-427f-89b6-c34b428bb130",
+    "202080": 201
+  },
+  {
+    "10000": "2f8687a2-1444-403e-a06d-9c6e0f117f1a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaGrunt_TATM_30.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaGrunt_TATM_30.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamMagmaGrunt",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "bb17e0b5-e47b-4ede-a9e0-0b069afdbadc",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200871": "std",
+    "201710": "2f8687a2-1444-403e-a06d-9c6e0f117f1a",
+    "202080": 201
+  },
+  {
+    "10000": "0772de90-89a9-4a46-8d98-bddcecb17522",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAggron.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasLairon.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasAggron",
+    "200640": "TeamMagmasLairon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.RockStomp.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.RockStomp.GameText$$$",
+        "abilityID": "9416ff78-1fa7-4ca2-8460-68b8518a72d0",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 3,
+          "Colorless": 1
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.BoulderStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.BoulderStorm.GameText$$$",
+        "abilityID": "1a3c5596-a98a-4c51-ab9a-94bdbbce9700",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "13ffef00-2f87-4396-9de6-39655628b10e",
+    "202080": 201
+  },
+  {
+    "10000": "0907130f-155c-46bb-a419-dbaeb97efe9e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSeviper.Name$$$",
+    "10190": 50,
+    "200260": 434,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasSeviper",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomTail.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomTail.GameText$$$",
+        "abilityID": "a91db89e-419e-4ef2-bf21-c32184098659",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomousFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.VenomousFang.GameText$$$",
+        "abilityID": "ed9c1655-103d-45bf-a0b1-2e89194ac9ec",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "14b43b5f-e06a-4235-89d0-ecda887dcaec",
+    "202080": 201
+  },
+  {
+    "10000": "b18a2523-935c-44c8-84e6-9fc359e8d8ac",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSharpedo.Name$$$",
+    "10190": 50,
+    "200260": 441,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasCarvanha.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasSharpedo",
+    "200640": "TeamAquasCarvanha",
+    "200660": "x",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaSearch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaSearch.GameText$$$",
+        "abilityID": "04765234-c4a8-4c88-994b-42b6e18758ad",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 2
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.GameText$$$",
+        "abilityID": "3cede204-84ea-450d-9dbb-88e0f9b1476f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 0,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "0a5abf65-4949-4599-ae46-e98031ea289a",
+    "202080": 201
+  },
+  {
+    "10000": "f07f1941-49e2-4294-8057-68439136cc3a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasGrimer.Name$$$",
+    "10190": 50,
+    "200260": 431,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasGrimer",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MudSlap.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MudSlap.GameText$$$",
+        "abilityID": "6bafc944-e57d-4fa0-a097-80f5977a5dba",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pound.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pound.GameText$$$",
+        "abilityID": "2e56ee46-f7ee-4fcb-831e-10f8c5751cbf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "0a451dde-ce78-4fe6-a54a-f42d5c62b99e",
+    "202080": 201
+  },
+  {
+    "10000": "df86c875-948c-4157-98ec-454f20ffad76",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasClaydol.Name$$$",
+    "10190": 50,
+    "200260": 435,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasBaltoy.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamMagmasClaydol",
+    "200640": "TeamMagmasBaltoy",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBeam.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBeam.GameText$$$",
+        "abilityID": "7e3ced30-2bfc-44b2-88ff-67e2da26f8d7",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaSwitch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaSwitch.GameText$$$",
+        "abilityID": "ffee3cf2-3ced-442e-9ed0-98c38b3f8781",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e3fbb9f1-ad47-4a9a-873a-2008840b43d6",
+    "202080": 201
+  },
+  {
+    "10000": "cac45f99-8730-4b2a-8537-b26d04847ad9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSpheal.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasSpheal",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.WaterGun.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.WaterGun.GameText$$$",
+        "abilityID": "a206d531-2748-4b99-ab8e-1cd3777f7fa0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "f8b18a46-122d-4012-b734-d2a60401fb67",
+    "202080": 201
+  },
+  {
+    "10000": "9359b0c6-0c7d-4bbe-860b-ac23e5b00aa6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleMagmaEnergy_TATM_34.Name$$$",
+    "10190": 50,
+    "200300": "Energy",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.energy.DoubleMagmaEnergy_TATM_34.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "DoubleMagmaEnergy",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.SameTeamEnergyAbility.GameText$$$",
+        "abilityID": "e8bb7a9f-8769-476e-ad8a-f530c5f182d9",
+        "abilityType": "EnergyAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "9846adf1-2453-4019-ab67-f1ec6a5bdccd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 34,
+    "200871": "std",
+    "200970": true,
+    "201040": {
+      "options": [
+        []
+      ]
+    },
+    "201710": "9359b0c6-0c7d-4bbe-860b-ac23e5b00aa6",
+    "202080": 201
+  },
+  {
+    "10000": "ad841eb9-1891-4dcc-ba43-a6571e009307",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.Name$$$",
+    "10190": 50,
+    "200200": "$$$common.rulesText.trainercards.poketoolshort$$$",
+    "200270": "PokemonTool",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "AquaDiffuser",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.AquaDiffuser_TATM_23.GameText$$$",
+        "abilityID": "95b9e5d0-801b-4cc1-a90c-1db642288e32",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e08954dd-69ff-4f33-afb7-9a7e6c899fff",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200871": "std",
+    "201710": "ad841eb9-1891-4dcc-ba43-a6571e009307",
+    "202080": 201
+  },
+  {
+    "10000": "81bfd41b-95b5-46c4-a0b7-d358413ad876",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasMuk.Name$$$",
+    "10190": 50,
+    "200260": 431,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasGrimer.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasMuk",
+    "200640": "TeamAquasGrimer",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pester.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Pester.GameText$$$",
+        "abilityID": "7347a90e-2819-4042-9d22-8b0132bae4e0",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilitySludgeFestival.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilitySludgeFestival.GameText$$$",
+        "abilityID": "13240ec7-4227-4d62-b0b2-10ac20720560",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "88f9acc9-7a84-421d-8e39-b83120fe7f89",
+    "202080": 201
+  },
+  {
+    "10000": "3db550e4-933f-44c4-af37-baeefc7bd4e0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasSecretBase_TATM_32.Name$$$",
+    "10190": 50,
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasSecretBase_TATM_32.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasSecretBase",
+    "200740": [
+      {
+        "title": "$$$$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "678baf59-18d2-41a3-8698-1f7cdc05b31b",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 32,
+    "200871": "ph",
+    "201710": "491add42-3476-427f-89b6-c34b428bb130",
+    "202080": 201
+  },
+  {
+    "10000": "6c73dc63-b784-4625-9647-8379824674ce",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaAdmin_TATM_29.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmaAdmin_TATM_29.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmaAdmin",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "3ca5ea7f-5485-4808-b273-a21e1e2c6eb0",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200871": "ph",
+    "201710": "2f588859-dbf3-4cb0-82a1-57e22c36bb38",
+    "202080": 201
+  },
+  {
+    "10000": "b5809e2d-f28d-48b1-8ca0-08926ad55c8d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasNumel.Name$$$",
+    "10190": 50,
+    "200260": 152,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasNumel",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Ember.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Ember.GameText$$$",
+        "abilityID": "63c2e4fc-844d-437c-a26e-df5f979babce",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "00c51d42-5696-4f55-9e47-e56a94dd4e9f",
+    "202080": 201
+  },
+  {
+    "10000": "51eee30b-3a1b-4cfa-ae4d-671940f0cceb",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasCarvanha.Name$$$",
+    "10190": 50,
+    "200260": 441,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasCarvanha",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FinSmack.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.FinSmack.GameText$$$",
+        "abilityID": "7fa7d906-53e3-400f-93b0-2a5db5d6e598",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "e56863c2-7884-4083-9a63-d9f2f107a000",
+    "202080": 201
+  },
+  {
+    "10000": "8c6d4052-c351-4fa9-a7c5-43c213cd37fe",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasGreatBall_TATM_31.Name$$$",
+    "10190": 50,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasGreatBall_TATM_31.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasGreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "50883c9d-72d3-41e9-85a4-17fa348c3af6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 31,
+    "200871": "ph",
+    "201710": "3a29ce52-3d18-4167-b508-77e4deedf0ff",
+    "202080": 201
+  },
+  {
+    "10000": "13dd6c58-d504-4221-a9ad-e85f63bc4a95",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasGroudonEX.Name$$$",
+    "10190": 50,
+    "200260": 437,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 190,
+    "200540": "Basic",
+    "200550": "RareUltra",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "TeamMagmasGroudonEX",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 3,
+          "Colorless": 1
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MagmaQuake.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MagmaQuake.GameText$$$",
+        "abilityID": "d9833313-21fe-4bd4-a94d-9ee9da57bbd0",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaPowerSaver.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaPowerSaver.GameText$$$",
+        "abilityID": "a76372c4-5d13-416b-9267-44367245a18f",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": true,
+    "201010": true,
+    "201610": 1,
+    "201710": "c3fbdb5b-0575-4252-82ea-51d0412bea57",
+    "202080": 201
+  },
+  {
+    "10000": "93a8e884-7cbb-4d6b-97b0-24a0755eb092",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasGreatBall_TATM_27.Name$$$",
+    "10190": 50,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasGreatBall_TATM_27.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasGreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "2e49ba27-8562-4d95-bec4-1c19d527d2e4",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200871": "ph",
+    "201710": "09461dd5-57bf-4a2d-aa85-73178454fbc4",
+    "202080": 201
+  },
+  {
+    "10000": "1b71022b-26cf-4f98-b6f9-6d4c4e85f097",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.Name$$$",
+    "10190": 50,
+    "200200": "$$$common.rulesText.trainercards.poketoolshort$$$",
+    "200270": "PokemonTool",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.MagmaPointer.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "MagmaPointer",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.MagmaPointer_TATM_24.GameText$$$",
+        "abilityID": "27afd487-778a-4e1d-8081-3852b1e396dd",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e08954dd-69ff-4f33-afb7-9a7e6c899fff",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "ph",
+    "201710": "6d4a66b7-45d1-420e-90f3-981872e5ed9d",
+    "202080": 201
+  },
+  {
+    "10000": "6ef45c64-6564-4faa-a388-928d6db9a0be",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaGrunt_TATM_26.Name$$$",
+    "10190": 50,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquaGrunt_TATM_26.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamAquaGrunt",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "ebd56f53-d78d-442c-8540-be5c9dcc03a0",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200871": "std",
+    "201710": "6ef45c64-6564-4faa-a388-928d6db9a0be",
+    "202080": 201
+  },
+  {
+    "10000": "f8b18a46-122d-4012-b734-d2a60401fb67",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSpheal.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200630": "TeamAquasSpheal",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.WaterGun.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.WaterGun.GameText$$$",
+        "abilityID": "a206d531-2748-4b99-ab8e-1cd3777f7fa0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "f8b18a46-122d-4012-b734-d2a60401fb67",
+    "202080": 201
+  },
+  {
+    "10000": "075d5c69-3d85-4b02-a165-6c30289e221c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasKyogreEX.Name$$$",
+    "10190": 50,
+    "200260": 413,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 190,
+    "200540": "Basic",
+    "200550": "RareUltra",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "TeamAquasKyogreEX",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.AquaImpact.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.AquaImpact.GameText$$$",
+        "abilityID": "4c69a016-4229-428f-b5a7-ccbf5a7b2794",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaPowerSaver.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityAquaPowerSaver.GameText$$$",
+        "abilityID": "34a82dc0-bbb1-11e4-bb52-0800200c9a66",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": true,
+    "201010": true,
+    "201610": 1,
+    "201710": "d56012c4-1e28-41a8-a5a9-543504f53204",
+    "202080": 201
+  },
+  {
+    "10000": "23137804-614a-43b5-a61b-d5857df5b1c9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasPoochyena.Name$$$",
+    "10190": 50,
+    "200260": 439,
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Bite.GameText$$$",
+        "abilityID": "fbec93da-4cf5-4fd7-be03-e4c50b3554b0",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Infiltrate.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Infiltrate.GameText$$$",
+        "abilityID": "96f8f58e-d321-482c-9bf7-1a75ac5d0d1d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "349b6b57-d332-494a-b63f-e358e701e787",
+    "202080": 201
+  },
+  {
+    "10000": "46da3ff9-b180-4a04-9fe2-6e0131b9fd2e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasAggron.Name$$$",
+    "10190": 50,
+    "200260": 436,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasLairon.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "TeamMagmasAggron",
+    "200640": "TeamMagmasLairon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.RockStomp.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.RockStomp.GameText$$$",
+        "abilityID": "9416ff78-1fa7-4ca2-8460-68b8518a72d0",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 3,
+          "Colorless": 1
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.BoulderStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.BoulderStorm.GameText$$$",
+        "abilityID": "1a3c5596-a98a-4c51-ab9a-94bdbbce9700",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "13ffef00-2f87-4396-9de6-39655628b10e",
+    "202080": 201
+  },
+  {
+    "10000": "a5d53eba-d178-4d02-8c39-fc174bd22fc8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSealeo.Name$$$",
+    "10190": 50,
+    "200260": 168,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasSpheal.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasSealeo",
+    "200640": "TeamAquasSpheal",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Splatter.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Splatter.GameText$$$",
+        "abilityID": "152afbc5-324f-48fd-bc8b-96ec1cd3ad25",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Water": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HailStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.HailStorm.GameText$$$",
+        "abilityID": "50f348c6-e09f-4bc7-abb3-b26b19541c7c",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "ab394546-ce22-4c69-bdf6-7a33d29668da",
+    "202080": 201
+  },
+  {
+    "10000": "09461dd5-57bf-4a2d-aa85-73178454fbc4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasGreatBall_TATM_27.Name$$$",
+    "10190": 50,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamAquasGreatBall_TATM_27.GameText$$$",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamAquasGreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "2e49ba27-8562-4d95-bec4-1c19d527d2e4",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200871": "std",
+    "201710": "09461dd5-57bf-4a2d-aa85-73178454fbc4",
+    "202080": 201
+  },
+  {
+    "10000": "3a29ce52-3d18-4167-b508-77e4deedf0ff",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasGreatBall_TATM_31.Name$$$",
+    "10190": 50,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.TATM.trainercards.TeamMagmasGreatBall_TATM_31.GameText$$$",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200550": "Uncommon",
+    "200580": "TATM",
+    "200630": "TeamMagmasGreatBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "50883c9d-72d3-41e9-85a4-17fa348c3af6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 31,
+    "200871": "std",
+    "201710": "3a29ce52-3d18-4167-b508-77e4deedf0ff",
+    "202080": 201
+  },
+  {
+    "10000": "5c10682b-8a8e-4cf9-9dbd-b83e01ba01a4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasClaydol.Name$$$",
+    "10190": 50,
+    "200260": 435,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamMagmasBaltoy.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamMagma"
+    ],
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamMagmasClaydol",
+    "200640": "TeamMagmasBaltoy",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Psychic": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBeam.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.PowerBeam.GameText$$$",
+        "abilityID": "7e3ced30-2bfc-44b2-88ff-67e2da26f8d7",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaSwitch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.TATM.AbilityMagmaSwitch.GameText$$$",
+        "abilityID": "ffee3cf2-3ced-442e-9ed0-98c38b3f8781",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "e3fbb9f1-ad47-4a9a-873a-2008840b43d6",
+    "202080": 201
+  },
+  {
+    "10000": "679d77a7-13c5-47c8-b72a-532466f818e0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasMightyena.Name$$$",
+    "10190": 50,
+    "200260": 438,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.TeamAquasPoochyena.Name$$$",
+    "200300": "Pokemon",
+    "200360": [
+      "TeamAqua"
+    ],
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TATM",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "TeamAquasMightyena",
+    "200640": "TeamAquasPoochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Teampact.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Teampact.GameText$$$",
+        "abilityID": "ffa7c647-c1b4-4ffc-b716-81a937bf0d73",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Crunch.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.Crunch.GameText$$$",
+        "abilityID": "b0e1d4bb-8808-45ed-bf5c-ce9491df2e0e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "ph",
+    "201610": 1,
+    "201710": "5004f305-a404-4465-a039-5dcd097737e2",
+    "202080": 201
+  },
+  {
+    "10000": "c9076087-dffc-43d7-ab2a-96506cb4dee4",
+    "10020": "packs/TATMTeamAquaTeamMagma",
+    "10060": "$$$product.tatm.booster.description$$$",
+    "10090": false,
+    "10140": "$$$product.tatm.booster$$$",
+    "10190": 50,
+    "10200": 7,
+    "10540": "Packs",
+    "200580": "TATM",
+    "200871": "TATMTeamAquaTeamMagma"
+  }
+]

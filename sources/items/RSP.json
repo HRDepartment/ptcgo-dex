@@ -1,0 +1,756 @@
+[
+  {
+    "10000": "d67c9ce4-a856-4db4-86e5-9844acd64499",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "EN",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200790": "S15 02",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "38b0ef09-bcd6-4e6f-a618-d4bbd1cc6e3d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Delibird.Name$$$",
+    "10190": 45,
+    "200260": 213,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "RSP",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "Cracked_Ice",
+    "200620": "Holo",
+    "200630": "Delibird",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.Present.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.Present.GameText$$$",
+        "abilityID": "ba876d5c-4399-4e8b-9d50-ecffb2adf3db",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Water": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.IcyWind.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.IcyWind.GameText$$$",
+        "abilityID": "16c8a2c8-78fb-4ff4-9b5b-6c124684d746",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200790": "S15 09",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "13620989-4055-4821-8319-e18e88dca528",
+    "202080": 201
+  },
+  {
+    "10000": "67b0562e-96a9-40cd-8047-7383479ebce3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "IT",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200790": "S15 04",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "98856098-7c2f-422e-925a-cdd730a25243",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "IT",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200790": "S14 10",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "11a5415d-a54d-4373-bd87-8d20d882a790",
+    "10020": "005xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "ES",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200790": "S16 05",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "4126be18-43eb-4a03-9700-f0f844b3dc42",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "PTBR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200790": "S14 13",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "426e127d-9266-4ea2-b039-a1c68076e564",
+    "10020": "003xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "IT",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200790": "S16 03",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "c705bf0e-a18f-43f2-a05e-6dcbb65cafed",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "EN",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200790": "S14 8",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "50e3e295-5233-4199-b491-3a0024e0ed4b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "FR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200790": "S14 9",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "9f1f4f1a-4dc3-4664-afcc-6b1ad3fd0c61",
+    "10020": "001xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "EN",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200790": "S16 01",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "a24c46fe-4f74-4695-9d57-c7fb1a2f7d18",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "ES",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200790": "S15 06",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "984851e2-21e5-457a-b2ea-a1f2800183cf",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.MaxiesHiddenBallTrick_RSP_S15_01.Name$$$",
+    "10190": 45,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.MaxiesHiddenBallTrick_RSP_S15_01.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "MaxiesHiddenBallTrick",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "d723ce93-fca9-4fa5-9035-dd681904709b",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200790": "S15 01",
+    "200871": "std",
+    "201710": "66a719c1-0ea0-40b6-aaab-bc77cde1f4ba",
+    "202080": 201
+  },
+  {
+    "10000": "4c4009d6-4753-4941-9ab2-59844b2ad509",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "FR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200790": "S15 03",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "2ae97758-1cec-41e4-8a2d-f82a8ad3d7f8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "PTBR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200790": "S15 07",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "f8178d4e-5a9e-4b85-9bd3-257adcfcef37",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "DE",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200790": "S15 05",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "e700cda0-86e4-40f6-bdbd-4949904a7bf9",
+    "10020": "006xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "PTBR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200790": "S16 06",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "142a7423-7344-4d70-b157-9c6f006fbb64",
+    "10020": "004xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "DE",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200790": "S16 04",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "826854cf-60cb-43f5-8c74-e8e96671b8d1",
+    "10020": "002xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "FR",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200790": "S16 02",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "179c04d9-f728-43b4-a106-28ec5ef8be90",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "DE",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200790": "S14 11",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  },
+  {
+    "10000": "3415ece8-dfdf-4fcb-8278-7d2872ba95c0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.Name$$$",
+    "10190": 45,
+    "10300": "ES",
+    "200270": "Stadium",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.RSP.trainercards.ChampionsFestival_RSP_Generic.GameText$$$",
+    "200520": true,
+    "200550": "RarePromo",
+    "200580": "RSP",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "ChampionsFestival",
+    "200740": [
+      {
+        "title": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.data.archetypes.Promo_BW.trainercards.ChampionsFestival_Promo_BW_95.GameText$$$",
+        "abilityID": "a0f848bf-ef46-47eb-bdc5-1a51539280bb",
+        "abilityType": "StadiumAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "51a1fcbe-1f78-4028-b0dc-17061cb86350",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200790": "S14 12",
+    "200871": "op",
+    "201710": "862013b4-6a75-4744-8591-9d4eed232bd0",
+    "202080": 201
+  }
+]

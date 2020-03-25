@@ -1,0 +1,403 @@
+{
+  "expansion": "SMEnergy",
+  "items": {
+    "363855873": {
+      "id": 363855873,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 1,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "363857921": {
+      "id": 363857921,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 1,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "363855874": {
+      "id": 363855874,
+      "name": "Fire Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        3
+      ]
+    },
+    "363857922": {
+      "id": 363857922,
+      "name": "Fire Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        3
+      ]
+    },
+    "363855875": {
+      "id": 363855875,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "363857923": {
+      "id": 363857923,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "363855876": {
+      "id": 363855876,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 4,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "363857924": {
+      "id": 363857924,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 4,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "363855877": {
+      "id": 363855877,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "363857925": {
+      "id": 363857925,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "363855878": {
+      "id": 363855878,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "363857926": {
+      "id": 363857926,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "363855879": {
+      "id": 363855879,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "363857927": {
+      "id": 363857927,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "363855880": {
+      "id": 363855880,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "363857928": {
+      "id": 363857928,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "363855881": {
+      "id": 363855881,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "363857929": {
+      "id": 363857929,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "363855882": {
+      "id": 363855882,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "363857930": {
+      "id": 363857930,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "363855883": {
+      "id": 363855883,
+      "name": "Fire Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 11,
+      "rarity": 1,
+      "energy": [
+        3
+      ]
+    },
+    "363857931": {
+      "id": 363857931,
+      "name": "Fire Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 11,
+      "rarity": 1,
+      "energy": [
+        3
+      ]
+    },
+    "363855884": {
+      "id": 363855884,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 12,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "363857932": {
+      "id": 363857932,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 12,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "363855885": {
+      "id": 363855885,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 13,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "363857933": {
+      "id": 363857933,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 13,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "363855886": {
+      "id": 363855886,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 14,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "363857934": {
+      "id": 363857934,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 14,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "363855887": {
+      "id": 363855887,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 15,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "363857935": {
+      "id": 363857935,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 15,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "363855888": {
+      "id": 363855888,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 16,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "363857936": {
+      "id": 363857936,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 16,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "363855889": {
+      "id": 363855889,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "363857937": {
+      "id": 363857937,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "363855890": {
+      "id": 363855890,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "363857938": {
+      "id": 363857938,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

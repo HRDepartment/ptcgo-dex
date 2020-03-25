@@ -1,0 +1,1542 @@
+{
+  "expansion": "KSS",
+  "items": {
+    "317718529": {
+      "id": 317718529,
+      "name": "Weedle",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 260,
+      "hp": 40,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 10,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "317718530": {
+      "id": 317718530,
+      "name": "Pansage",
+      "cat": 1,
+      "kind": 1,
+      "no": 2,
+      "rarity": 1,
+      "family": 23,
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718531": {
+      "id": 317718531,
+      "name": "Chespin",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "rarity": 1,
+      "family": 371,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": 10,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Seed Bomb",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "317721603": {
+      "id": 317721603,
+      "name": "Chespin",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "rarity": 1,
+      "family": 371,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": 10,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Seed Bomb",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "317718532": {
+      "id": 317718532,
+      "name": "Quilladin",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 371,
+      "preevo": "Chespin",
+      "hp": 90,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Needle Arm",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "317721604": {
+      "id": 317721604,
+      "name": "Quilladin",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 371,
+      "preevo": "Chespin",
+      "hp": 90,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Needle Arm",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "317718533": {
+      "id": 317718533,
+      "name": "Chesnaught",
+      "cat": 1,
+      "kind": 3,
+      "no": 5,
+      "rarity": 3,
+      "family": 371,
+      "preevo": "Quilladin",
+      "hp": 150,
+      "weakness": 3,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Needle Arm",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Tumbling Attack",
+          "text": "Flip a coin. If heads, this attack does 40 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "317721605": {
+      "id": 317721605,
+      "name": "Chesnaught",
+      "cat": 1,
+      "kind": 3,
+      "no": 5,
+      "rarity": 4,
+      "family": 371,
+      "preevo": "Quilladin",
+      "hp": 150,
+      "weakness": 3,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Needle Arm",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Tumbling Attack",
+          "text": "Flip a coin. If heads, this attack does 40 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "317718534": {
+      "id": 317718534,
+      "name": "Slugma",
+      "cat": 1,
+      "kind": 1,
+      "no": 6,
+      "rarity": 1,
+      "family": 345,
+      "hp": 80,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": 20,
+          "cost": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "317718535": {
+      "id": 317718535,
+      "name": "Pansear",
+      "cat": 1,
+      "kind": 1,
+      "no": 7,
+      "rarity": 1,
+      "family": 24,
+      "hp": 70,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718536": {
+      "id": 317718536,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 8,
+      "rarity": 1,
+      "family": 369,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Live Coal",
+          "damage": 20,
+          "cost": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "317721608": {
+      "id": 317721608,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 8,
+      "rarity": 1,
+      "family": 369,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Live Coal",
+          "damage": 20,
+          "cost": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "317718537": {
+      "id": 317718537,
+      "name": "Braixen",
+      "cat": 1,
+      "kind": 2,
+      "no": 9,
+      "rarity": 2,
+      "family": 369,
+      "preevo": "Fennekin",
+      "hp": 80,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            3,
+            1
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": 60,
+          "cost": [
+            3,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317721609": {
+      "id": 317721609,
+      "name": "Braixen",
+      "cat": 1,
+      "kind": 2,
+      "no": 9,
+      "rarity": 2,
+      "family": 369,
+      "preevo": "Fennekin",
+      "hp": 80,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            3,
+            1
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": 60,
+          "cost": [
+            3,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718538": {
+      "id": 317718538,
+      "name": "Delphox",
+      "cat": 1,
+      "kind": 3,
+      "no": 10,
+      "rarity": 3,
+      "family": 369,
+      "preevo": "Braixen",
+      "hp": 140,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": 30,
+          "cost": [
+            3,
+            1
+          ]
+        },
+        {
+          "name": "Fire Blast",
+          "text": "Discard an Energy attached to this Pokémon.",
+          "damage": 120,
+          "cost": [
+            3,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317721610": {
+      "id": 317721610,
+      "name": "Delphox",
+      "cat": 1,
+      "kind": 3,
+      "no": 10,
+      "rarity": 4,
+      "family": 369,
+      "preevo": "Braixen",
+      "hp": 140,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": 30,
+          "cost": [
+            3,
+            1
+          ]
+        },
+        {
+          "name": "Fire Blast",
+          "text": "Discard an Energy attached to this Pokémon.",
+          "damage": 120,
+          "cost": [
+            3,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718539": {
+      "id": 317718539,
+      "name": "Panpour",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 22,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718540": {
+      "id": 317718540,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 374,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "317721612": {
+      "id": 317721612,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 374,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "317718541": {
+      "id": 317718541,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 13,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aqua Wave",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "317721613": {
+      "id": 317721613,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 13,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aqua Wave",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "317718542": {
+      "id": 317718542,
+      "name": "Greninja",
+      "cat": 1,
+      "kind": 3,
+      "no": 14,
+      "rarity": 3,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 140,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Mat Block",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+          "damage": 40,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aqua Edge",
+          "damage": 80,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "317721614": {
+      "id": 317721614,
+      "name": "Greninja",
+      "cat": 1,
+      "kind": 3,
+      "no": 14,
+      "rarity": 4,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 140,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Mat Block",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+          "damage": 40,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aqua Edge",
+          "damage": 80,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "317718543": {
+      "id": 317718543,
+      "name": "Clauncher",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 372,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "317718544": {
+      "id": 317718544,
+      "name": "Poochyena",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 378,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "317722640": {
+      "id": 317722640,
+      "name": "Poochyena",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 378,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "317718545": {
+      "id": 317718545,
+      "name": "Mightyena",
+      "cat": 1,
+      "kind": 2,
+      "no": 17,
+      "rarity": 1,
+      "family": 378,
+      "preevo": "Poochyena",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hard Bite",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "317722641": {
+      "id": 317722641,
+      "name": "Mightyena",
+      "cat": 1,
+      "kind": 2,
+      "no": 17,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 378,
+      "preevo": "Poochyena",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hard Bite",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "317718546": {
+      "id": 317718546,
+      "name": "Inkay",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 377,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": 10,
+          "cost": [
+            8
+          ]
+        }
+      ]
+    },
+    "317718547": {
+      "id": 317718547,
+      "name": "Pawniard",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "rarity": 1,
+      "family": 145,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317722643": {
+      "id": 317722643,
+      "name": "Pawniard",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 145,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718548": {
+      "id": 317718548,
+      "name": "Bisharp",
+      "cat": 1,
+      "kind": 2,
+      "no": 20,
+      "rarity": 1,
+      "family": 145,
+      "preevo": "Pawniard",
+      "hp": 90,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wicked Jab",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "317722644": {
+      "id": 317722644,
+      "name": "Bisharp",
+      "cat": 1,
+      "kind": 2,
+      "no": 20,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 145,
+      "preevo": "Pawniard",
+      "hp": 90,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wicked Jab",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "317718549": {
+      "id": 317718549,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 376,
+      "hp": 60,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Continuous Slash",
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "317718550": {
+      "id": 317718550,
+      "name": "Snubbull",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "family": 291,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "317722646": {
+      "id": 317722646,
+      "name": "Snubbull",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 291,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "317718551": {
+      "id": 317718551,
+      "name": "Granbull",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 1,
+      "family": 291,
+      "preevo": "Snubbull",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "317722647": {
+      "id": 317722647,
+      "name": "Granbull",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 1,
+      "flags": 2056,
+      "family": 291,
+      "preevo": "Snubbull",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "317718552": {
+      "id": 317718552,
+      "name": "Swirlix",
+      "cat": 1,
+      "kind": 1,
+      "no": 24,
+      "rarity": 1,
+      "family": 379,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "317718553": {
+      "id": 317718553,
+      "name": "Farfetch'd",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 1,
+      "family": 218,
+      "hp": 70,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 30,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "317718554": {
+      "id": 317718554,
+      "name": "Snorlax",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 231,
+      "hp": 120,
+      "weakness": 7,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Strength",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718555": {
+      "id": 317718555,
+      "name": "Miltank",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 274,
+      "hp": 100,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Sitdown Splash",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718556": {
+      "id": 317718556,
+      "name": "Skitty",
+      "cat": 1,
+      "kind": 1,
+      "no": 28,
+      "rarity": 1,
+      "family": 212,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Jump On",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718557": {
+      "id": 317718557,
+      "name": "Bidoof",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 183,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": 60,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718558": {
+      "id": 317718558,
+      "name": "Bunnelby",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 1,
+      "family": 370,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718559": {
+      "id": 317718559,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 31,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Razor Wind",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "317718560": {
+      "id": 317718560,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 32,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718561": {
+      "id": 317718561,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 33,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "317718562": {
+      "id": 317718562,
+      "name": "Crushing Hammer",
+      "cat": 2,
+      "kind": 40,
+      "no": 34,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon."
+    },
+    "317722658": {
+      "id": 317722658,
+      "name": "Crushing Hammer",
+      "cat": 2,
+      "kind": 40,
+      "no": 34,
+      "rarity": 2,
+      "flags": 2056,
+      "text": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon."
+    },
+    "317718563": {
+      "id": 317718563,
+      "name": "Poké Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 35,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "317718564": {
+      "id": 317718564,
+      "name": "Pokémon Catcher",
+      "cat": 2,
+      "kind": 40,
+      "no": 36,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+    },
+    "317722660": {
+      "id": 317722660,
+      "name": "Pokémon Catcher",
+      "cat": 2,
+      "kind": 40,
+      "no": 36,
+      "rarity": 2,
+      "flags": 2056,
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+    },
+    "317718565": {
+      "id": 317718565,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 37,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "317718566": {
+      "id": 317718566,
+      "name": "Switch",
+      "cat": 2,
+      "kind": 40,
+      "no": 38,
+      "rarity": 1,
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    "317718567": {
+      "id": 317718567,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 39,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "317722663": {
+      "id": 317722663,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 39,
+      "rarity": 2,
+      "flags": 2056,
+      "text": "Draw 3 cards."
+    }
+  },
+  "packs": {},
+  "products": {
+    "ChespinDeck": {
+      "id": 317775872,
+      "name": "Chespin Deck",
+      "cat": 15,
+      "asset": "ChespinDeck",
+      "description": "Start your adventure in the Kalos region with the Grass-type Pokémon Chespin and this 60-card ready-to-play deck! With spikes, toughness, and resilient Grass-type moves, this new deck is perfect for the small but fierce competitor who never gives up! With quiet strength, it grows and grows to outperform and outlast the competition! Plant the seeds of your future victory—start with the Chespin deck!"
+    },
+    "FennekinDeck": {
+      "id": 317775872,
+      "name": "Fennekin Deck",
+      "cat": 15,
+      "asset": "FennekinDeck",
+      "description": "Start your adventure in the Kalos region with the Fire-type Pokémon Fennekin and this 60-card ready-to-play deck! This new deck unlocks a world of exciting Pokémon battles and gives you the head-start you need to battle and win in the Pokémon Trading Card Game! As a Fire-type deck, the Fennekin deck is full of powerful moves—grab it and blaze your path to victory!"
+    },
+    "FroakieDeck": {
+      "id": 317775872,
+      "name": "Froakie Deck",
+      "cat": 15,
+      "asset": "FroakieDeck",
+      "description": "Start your adventure in the Kalos region with the Water-type Pokémon Froakie and this 60-card ready-to-play deck! This new deck leaps over the competition with Froakie's unexpected powers, including all the shifting speed and thrilling moves that Water-type Pokémon are famous for! Move like a roaring river and carve your channel to victory—grab the Froakie deck and get ready to play!"
+    },
+    "XY0Card12PCD": {
+      "id": 317775872,
+      "name": "Froakie Deck",
+      "cat": 15,
+      "asset": "XY0Card12PCD",
+      "description": "Start your adventure in the Kalos region with the Water-type Pokémon Froakie and this 60-card ready-to-play deck! This new deck leaps over the competition with Froakie's unexpected powers, including all the shifting speed and thrilling moves that Water-type Pokémon are famous for! Move like a roaring river and carve your channel to victory—grab the Froakie deck and get ready to play!"
+    },
+    "XY0Card3PCD": {
+      "id": 317775872,
+      "name": "Chespin Deck",
+      "cat": 15,
+      "asset": "XY0Card3PCD",
+      "description": "Start your adventure in the Kalos region with the Grass-type Pokémon Chespin and this 60-card ready-to-play deck! With spikes, toughness, and resilient Grass-type moves, this new deck is perfect for the small but fierce competitor who never gives up! With quiet strength, it grows and grows to outperform and outlast the competition! Plant the seeds of your future victory—start with the Chespin deck!"
+    },
+    "XY0Card8PCD": {
+      "id": 317775872,
+      "name": "Fennekin Deck",
+      "cat": 15,
+      "asset": "XY0Card8PCD",
+      "description": "Start your adventure in the Kalos region with the Fire-type Pokémon Fennekin and this 60-card ready-to-play deck! This new deck unlocks a world of exciting Pokémon battles and gives you the head-start you need to battle and win in the Pokémon Trading Card Game! As a Fire-type deck, the Fennekin deck is full of powerful moves—grab it and blaze your path to victory!"
+    }
+  }
+}

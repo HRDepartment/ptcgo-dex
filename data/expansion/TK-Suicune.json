@@ -1,0 +1,581 @@
+{
+  "expansion": "TK-Suicune",
+  "items": {
+    "326631425": {
+      "id": 326631425,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 1,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631426": {
+      "id": 326631426,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631427": {
+      "id": 326631427,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631428": {
+      "id": 326631428,
+      "name": "Eevee",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 91,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326631429": {
+      "id": 326631429,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631430": {
+      "id": 326631430,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 6,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326631431": {
+      "id": 326631431,
+      "name": "Ducklett",
+      "cat": 1,
+      "kind": 1,
+      "no": 7,
+      "rarity": 1,
+      "family": 9,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631432": {
+      "id": 326631432,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631433": {
+      "id": 326631433,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631434": {
+      "id": 326631434,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631435": {
+      "id": 326631435,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 374,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631436": {
+      "id": 326631436,
+      "name": "Seaking",
+      "cat": 1,
+      "kind": 2,
+      "no": 12,
+      "rarity": 2,
+      "family": 453,
+      "preevo": "Goldeen",
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Soaking Horn",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 40,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631437": {
+      "id": 326631437,
+      "name": "Goldeen",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 453,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631438": {
+      "id": 326631438,
+      "name": "Suicune",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 3,
+      "family": 73,
+      "hp": 100,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": 80,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "326631439": {
+      "id": 326631439,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 2,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "326631440": {
+      "id": 326631440,
+      "name": "Piplup",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 93,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "326631441": {
+      "id": 326631441,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631442": {
+      "id": 326631442,
+      "name": "Swanna",
+      "cat": 1,
+      "kind": 2,
+      "no": 18,
+      "rarity": 2,
+      "family": 9,
+      "preevo": "Ducklett",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Brave Bird",
+          "text": "This Pokémon does 20 damage to itself.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326631443": {
+      "id": 326631443,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 19,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631444": {
+      "id": 326631444,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 20,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "326631445": {
+      "id": 326631445,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 21,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326631446": {
+      "id": 326631446,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631447": {
+      "id": 326631447,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 374,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631448": {
+      "id": 326631448,
+      "name": "Ducklett",
+      "cat": 1,
+      "kind": 1,
+      "no": 24,
+      "rarity": 1,
+      "family": 9,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631449": {
+      "id": 326631449,
+      "name": "Seaking",
+      "cat": 1,
+      "kind": 2,
+      "no": 25,
+      "rarity": 2,
+      "family": 453,
+      "preevo": "Goldeen",
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Soaking Horn",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 40,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631450": {
+      "id": 326631450,
+      "name": "Goldeen",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 453,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "326631451": {
+      "id": 326631451,
+      "name": "Swanna",
+      "cat": 1,
+      "kind": 2,
+      "no": 27,
+      "rarity": 2,
+      "family": 9,
+      "preevo": "Ducklett",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Brave Bird",
+          "text": "This Pokémon does 20 damage to itself.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "326631452": {
+      "id": 326631452,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 28,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    },
+    "326631453": {
+      "id": 326631453,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 29,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "326634526": {
+      "id": 326634526,
+      "name": "Suicune",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 4,
+      "family": 73,
+      "hp": 100,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": 80,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

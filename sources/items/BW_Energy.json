@@ -1,0 +1,317 @@
+[
+  {
+    "10000": "e83b4f15-8d07-43e6-af5a-f3abc90fdb7b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicPsychicEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "bw1greentornado",
+      "bw2toxictricks",
+      "bw5raiders",
+      "bw6dragonsnarl",
+      "bw8plasmashadow",
+      "bw9psycrusher",
+      "mindwipe",
+      "newAliDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5951d28c-e803-47ef-af9c-64c9a9f7831e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicDarknessEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "bw4voltagevortex",
+      "bw5raiders",
+      "bw5shadows",
+      "bw6dragonsnarl"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e15515b9-589c-40cc-8ffc-e1db75eead02",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicGrassEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "bw1greentornado",
+      "bw3fastdaze",
+      "bw8plasmashadow",
+      "bw9psycrusher",
+      "bwbasicgreen",
+      "mindwipe"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8c0e1b46-46a2-4363-85d6-84eb61f570e7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicFireEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "bw1redfrenzy",
+      "bw2toxictricks",
+      "bw3fastdaze",
+      "bw4explosiveedge",
+      "bw7coldfire",
+      "bw8plasmaclaw",
+      "bwbasicred",
+      "solarstrike"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8b487197-00da-442a-8953-a10aaf5a5b60",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicLightningEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "bw1blueassault",
+      "bw3furiousknights",
+      "bw4voltagevortex",
+      "bw7iceshock",
+      "bw9frostray",
+      "mcdpromo"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "eccebd2f-9aaf-4d45-91a1-83b698289c43",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicWaterEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "bw1blueassault",
+      "bw2powerplay",
+      "bw4explosiveedge",
+      "bw5shadows",
+      "bw6dragonspeed",
+      "bw7coldfire",
+      "bw7iceshock",
+      "bw8plasmaclaw",
+      "bw9frostray",
+      "bwbasicblue",
+      "rallyingcry",
+      "solarstrike",
+      "tutorialdecks",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "eccfc7a2-761a-4943-9b22-fffb29c0788c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicMetalEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "bw3furiousknights"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "681eddc8-9c43-496f-89d0-354e5301b4df",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW_Energy.energy.BasicFightingEnergy_BW.Name$$$",
+    "10190": 38,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "BW_Energy",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "basicorange",
+      "bw1redfrenzy",
+      "bw2powerplay",
+      "bw6dragonspeed"
+    ],
+    "202080": 201
+  }
+]

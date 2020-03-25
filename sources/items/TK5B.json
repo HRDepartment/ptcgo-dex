@@ -1,0 +1,1395 @@
+[
+  {
+    "10000": "2fe9e4da-9d86-41d0-9933-8699e51c83f8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Drilbur.Name$$$",
+    "10190": 23,
+    "200260": 141,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200520": true,
+    "200540": "Basic",
+    "200550": "Uncommon",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Water"
+    ],
+    "200600": "Lightning",
+    "200630": "Drilbur",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "4a41fd7b-48b3-4a33-b10b-2b641918229a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HoneClaws.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HoneClaws.GameText$$$",
+        "abilityID": "1d1dd999-a1e1-4e18-89ae-777b3cb8392d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "106b0841-878c-4936-a72b-11274ff3fc06",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "933283fe-eab8-4b71-8ec7-018a401593d1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Lillipup.Name$$$",
+    "10190": 23,
+    "200260": 14,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Lillipup",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "b6b4d41f-032f-4e43-8aef-eea664e117b6",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Pickup.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Pickup.GameText$$$",
+        "abilityID": "d32ad462-cdde-44c5-899c-f420bc0d4a86",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 0,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7c82b071-b6d1-437d-a0d9-4bac5787ac6b",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "61017a00-d700-420f-8aaf-4cc3e036f4e9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySearch_BW1_93.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySearch_BW1_93.GameText$$$",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "EnergySearch",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "346df2ab-8a40-426f-b85c-30a2f1212292",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200871": "std",
+    "201710": "74c97932-f306-46a9-9c07-36494d77ca25",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6811d2be-1c39-4589-8b12-0881934fbbf7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Audino.Name$$$",
+    "10190": 23,
+    "200260": 1,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Basic",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Audino",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Doubleslap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DoubleSlap30.GameText$$$",
+        "abilityID": "20f4fb77-5f21-40e4-9b9a-646f749e0cc6",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4290e526-e7a9-4fa6-bf3b-ef8981d85849",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "bedf3629-82b8-48ef-bef2-198fd846b7be",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "67779a7e-3238-460f-973b-f92dc4ef7115",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Gurdurr.Name$$$",
+    "10190": 23,
+    "200260": 13,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Timburr.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Gurdurr",
+    "200640": "Timburr",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BulkUp.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BulkUp20.GameText$$$",
+        "abilityID": "fd50c00e-aa18-44d8-9eb4-14b8846b8503",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 2,
+          "Colorless": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.GameText$$$",
+        "abilityID": "5dcb6da8-2cce-4b9f-8793-39dbac147f87",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4a8d9ac6-2c1a-48b6-b5dd-939ba6249356",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "be5b9418-7eea-4dba-b228-743afceb05e8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Excadrill.Name$$$",
+    "10190": 23,
+    "200260": 141,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Drilbur.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Water"
+    ],
+    "200600": "Lightning",
+    "200610": "Tinsel",
+    "200620": "Holo",
+    "200630": "Excadrill",
+    "200640": "Drilbur",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "7e988bf7-ff61-44dd-92e8-140497eb0c57",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.DrillRun.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.DrillRun.GameText$$$",
+        "abilityID": "c5850337-7fa3-42d6-b590-8a4013f00a1f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "6e08cb2f-3804-4c80-b1e6-e246be914fe4",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "79b85584-3bd1-4f92-b0b2-fde983070a5e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a2e2669d-0b23-4af0-b173-7902d635efa6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Lillipup.Name$$$",
+    "10190": 23,
+    "200260": 14,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Lillipup",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "b6b4d41f-032f-4e43-8aef-eea664e117b6",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Pickup.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Pickup.GameText$$$",
+        "abilityID": "d32ad462-cdde-44c5-899c-f420bc0d4a86",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 0,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7c82b071-b6d1-437d-a0d9-4bac5787ac6b",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "30c0f641-75f8-42c4-8b19-020e3196ae6b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Herdier.Name$$$",
+    "10190": 23,
+    "200260": 14,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Lillipup.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Herdier",
+    "200640": "Lillipup",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect3.GameText$$$",
+        "abilityID": "1a8cb80d-76a7-4f86-9a22-3fc79db3f947",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "86053539-38d1-410d-9d15-067e957ae71b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "0f6d2618-1288-4ae9-a43b-10775769c739",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d0c9d8ca-80d3-438f-b15d-ae2d3735cb31",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "06fc0709-932d-4301-96b3-7156ccaf31ef",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Timburr.Name$$$",
+    "10190": 23,
+    "200260": 13,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Timburr",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.GameText$$$",
+        "abilityID": "b00fbb4b-0a87-4fd7-aff2-e58ba6b50585",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "849e5735-d7d9-47ae-90d8-7357203f1860",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "de52d87f-f52b-4c53-b108-019f4c6885c7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PokmonCommunication_BW1_99.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PokmonCommunication_BW1_99.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK5B",
+    "200630": "PokemonCommunication",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "1e8b0e75-07d2-4cac-b292-5ead01fb7e95",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "std",
+    "201710": "e7609820-e599-49b2-90aa-4dc7a7be4907",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "10022b5e-0232-460f-b7c6-6f9e40b55caa",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6e1efa4d-ce8b-407e-9695-091b5c67bb6e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.Potion_BW1_100.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.Potion_BW1_100.GameText$$$",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200871": "std",
+    "201620": 1303689600,
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "nighthunter",
+      "newEllaDeck",
+      "newAliDeck",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "90710f39-6e45-4a30-af91-7467c2ce83a0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5b48bca0-d59a-4af2-8e90-d2e42071e600",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Timburr.Name$$$",
+    "10190": 23,
+    "200260": 13,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Psychic"
+    ],
+    "200600": "NoColor",
+    "200630": "Timburr",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.GameText$$$",
+        "abilityID": "b00fbb4b-0a87-4fd7-aff2-e58ba6b50585",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "849e5735-d7d9-47ae-90d8-7357203f1860",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b9c43768-4360-4b00-9772-0e8e9f23d35d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "69ebe081-4164-4d71-b8f7-9e9ef85e28f2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Drilbur.Name$$$",
+    "10190": 23,
+    "200260": 141,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200520": true,
+    "200540": "Basic",
+    "200550": "Uncommon",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Water"
+    ],
+    "200600": "Lightning",
+    "200630": "Drilbur",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "4a41fd7b-48b3-4a33-b10b-2b641918229a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HoneClaws.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HoneClaws.GameText$$$",
+        "abilityID": "1d1dd999-a1e1-4e18-89ae-777b3cb8392d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "106b0841-878c-4936-a72b-11274ff3fc06",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "549e9835-6223-4d48-9b2c-bc2169dc8a08",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e051aeb4-a2e7-432a-966a-220641b6d685",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PlusPower_BW1_96.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PlusPower_BW1_96.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK5B",
+    "200630": "PlusPower",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e4364a4b-c684-4852-b209-8d64de7650a5",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200871": "std",
+    "201710": "dcd393e3-15d7-4a1b-8640-3191edd03ee4",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6961e73d-32d8-4c69-8935-e5834259ba23",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "22ace062-f3c0-40b9-a1fe-2bd02751137a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Excadrill.Name$$$",
+    "10190": 23,
+    "200260": 141,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Drilbur.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Fighting"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Water"
+    ],
+    "200600": "Lightning",
+    "200630": "Excadrill",
+    "200640": "Drilbur",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "7e988bf7-ff61-44dd-92e8-140497eb0c57",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.DrillRun.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.DrillRun.GameText$$$",
+        "abilityID": "c5850337-7fa3-42d6-b590-8a4013f00a1f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6e08cb2f-3804-4c80-b1e6-e246be914fe4",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "9930b63d-9d70-42c9-8974-9d0342c671e2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7676ac14-fa75-4543-9b17-ead20e495756",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "63c9d8ce-9dc3-4824-9372-771aa5f1d506",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7ef1b731-dcfd-4c79-aab3-2f904fdb78f8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySwitch_BW1_94.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySwitch_BW1_94.GameText$$$",
+    "200520": true,
+    "200550": "Uncommon",
+    "200580": "TK5B",
+    "200630": "EnergySwitch",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "d9280619-7d5c-4316-99ea-93b22d48724e",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201710": "16064e9b-6847-4650-bc10-4291e75d9e83",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "9618f44f-4c5d-48e8-9766-6c46aea4341d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.Potion_BW1_100.Name$$$",
+    "10190": 23,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.Potion_BW1_100.GameText$$$",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200871": "std",
+    "201620": 1303689600,
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "nighthunter",
+      "newEllaDeck",
+      "newAliDeck",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "594df0cf-82d7-4946-9f88-ac134a0b86b0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Audino.Name$$$",
+    "10190": 23,
+    "200260": 1,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Basic",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Audino",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Doubleslap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DoubleSlap30.GameText$$$",
+        "abilityID": "20f4fb77-5f21-40e4-9b9a-646f749e0cc6",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4290e526-e7a9-4fa6-bf3b-ef8981d85849",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2769a521-87d7-4301-bba5-59ce470c5e3b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.FightingEnergy_BW1_110.Name$$$",
+    "10190": 23,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5B",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  }
+]

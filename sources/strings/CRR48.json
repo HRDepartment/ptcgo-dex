@@ -1,0 +1,14 @@
+{
+  "deckbuilder.cardfilters.attributes.ultrabeast": "Ultra Beast",
+  "error.couldnotpatch.message": "We couldn't properly patch your client. Please relaunch the client or click \"Repair.\"",
+  "gamelog.wincondition.concession": "{0} won because {1} conceded.",
+  "gamelog.wincondition.ko": "{0} Knocked Out all of {1}'s Pokémon to win the game.",
+  "gamelog.wincondition.koprizes": "{0} Knocked Out all of {1}'s Pokémon and took all of their Prize cards to win the game.",
+  "gamelog.wincondition.nocardsindeck": "{0} won because {1} had no cards remaining in their deck.",
+  "gamelog.wincondition.prizes": "{0} took all of their Prize cards to win the game.",
+  "gamelog.wincondition.specialcard": "{0} used a special card to win the game.",
+  "gamelog.wincondition.timeout": "{0} won because {1} ran out of time.",
+  "gamelog.wincondition.walkoffhomer": "{0} used a Walk-Off Homer to win the game.",
+  "playmat.servercrash.events": "We're sorry. Your game has crashed due to a server error. One of the players in this game will be randomly chosen to move on in the tournament. If you are not chosen, your entry fee will be refunded to you.",
+  "playmat.servercrash.versus": "We're sorry. Your game has crashed due to a server error. Your win streak has not been affected, though, so you can join another game with your current win streak."
+}

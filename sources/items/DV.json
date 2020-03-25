@@ -1,0 +1,1786 @@
+[
+  {
+    "10000": "dd19f487-cca4-461e-9f13-a3561ec36ec3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Axew.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 40,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Common",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Axew",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SignsofEvolution.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SignsofEvolution.GameText$$$",
+        "abilityID": "17a54c1d-44cc-4b2c-9e91-9416ec9ce9c4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "55e0f26f-05e8-4372-86cd-c957c6ca97b4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 2,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "819a1b82-83f4-492b-b8bd-5197b1c46df9",
+    "202080": 201
+  },
+  {
+    "10000": "88c568fd-78be-4808-8e0e-0426de2399cc",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Latias.Name$$$",
+    "10190": 29,
+    "200260": 316,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "Latias",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5EnergyAssist.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5EnergyAssist.GameText$$$",
+        "abilityID": "a5ed1b86-f41e-4087-9d78-76984e27e9c8",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Psychic": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyHeal.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyHeal.GameText$$$",
+        "abilityID": "a6a2bab6-9782-46d7-ac72-04f852780447",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "9b7ceaec-acdd-41e8-8822-5cab4255d7b9",
+    "202080": 201
+  },
+  {
+    "10000": "448f5bd1-3ba4-4d7e-8491-607dea1231ed",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dratini.Name$$$",
+    "10190": 29,
+    "200260": 264,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 40,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Common",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Dratini",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Grass": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Wrap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.Wrap.GameText$$$",
+        "abilityID": "ee2a73c8-ad29-4323-b7a5-6c9b8cd70fd5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "d3622ce8-c5d0-4235-872f-05c303378f79",
+    "202080": 201
+  },
+  {
+    "10000": "352ff6e3-3f98-4df8-a627-6d99ec08cb77",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bagon.Name$$$",
+    "10190": 29,
+    "200260": 43,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Common",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Bagon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonClaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "b07b184b-7f0d-4f63-8862-2886f44fcfd8",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "b3638e4c-2a23-4850-986d-a6a34b1d2619",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "1fd3779c-3b48-42d4-98f3-b91ff786c6ad",
+    "202080": 201
+  },
+  {
+    "10000": "b5cbb530-e686-4ee1-920b-d17381b646af",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.SuperRod_DV_20.Name$$$",
+    "10190": 29,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.SuperRod_DV_20.GameText$$$",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200580": "DV",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "SuperRod",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "367f9281-34c6-4699-a9ef-d99a66d62d83",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200871": "std",
+    "201710": "47c62a77-aa20-4046-a1db-289669efb82f",
+    "201730": [
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b427e805-e95d-4ba9-89f6-5fdee98e098a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Salamence.Name$$$",
+    "10190": 29,
+    "200260": 43,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Shelgon.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Salamence",
+    "200640": "Shelgon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 90,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.GameText$$$",
+        "abilityID": "48ab0ecb-e353-4a9c-805c-e75b0cdaee65",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityScornfulStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityScornfulStorm.GameText$$$",
+        "abilityID": "81bb852f-eecc-4724-8eff-f3ae4b4b790b",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "330a33da-11e3-4bd2-bd72-5e2178a2ea5b",
+    "202080": 201
+  },
+  {
+    "10000": "09c7e5c7-4aff-4e02-a427-01903d8bd1dc",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Axew.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Common",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Axew",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Metal": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.GameText$$$",
+        "abilityID": "3f1377ca-3a93-47c2-8c6f-82bc8e140f3d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "b23051cb-71ed-4529-aaac-99a1b7d8c628",
+    "202080": 201
+  },
+  {
+    "10000": "e0c88d18-331f-45bb-90f3-db40c335d02b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.FirstTicket_DV_19.Name$$$",
+    "10190": 29,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.FirstTicket_DV_19.GameText$$$",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200580": "DV",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "FirstTicket",
+    "200780": 19,
+    "200871": "std",
+    "201710": "c2cad93f-2a4b-4edc-bb75-8ff5481f12ab",
+    "202080": 201
+  },
+  {
+    "10000": "e87810b1-e1d9-4d3d-9715-08654a684464",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Latios.Name$$$",
+    "10190": 29,
+    "200260": 317,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "Latios",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyBlade.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyBlade.GameText$$$",
+        "abilityID": "6d65ced4-3b9d-4a45-8804-8cc2fb6fc0ac",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SpeedWing.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SpeedWing.GameText$$$",
+        "abilityID": "a4591e31-5058-4d21-8207-4a1937ad1df5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "c761137f-bba7-435c-836d-6151c5dbe2a8",
+    "202080": 201
+  },
+  {
+    "10000": "dc05edf4-eb86-475c-a1af-04d276c1f96a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Haxorus.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fraxure.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "Haxorus",
+    "200640": "Fraxure",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.AxeSlugger.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.AxeSlugger.GameText$$$",
+        "abilityID": "4a63637f-8d68-40db-99bc-e2ff6f254252",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 1,
+          "Metal": 1,
+          "Colorless": 2
+        },
+        "damage": 100,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse1.GameText$$$",
+        "abilityID": "4b487760-9bc0-440f-ab91-d07428792421",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "27fbadc5-16e3-480f-a22c-aa36a09df9c2",
+    "202080": 201
+  },
+  {
+    "10000": "a7da16ca-e0e2-4128-9991-ac06b03ee43b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.ExpShare_DV_18.Name$$$",
+    "10190": 29,
+    "200200": "$$$com.direwolfdigital.cake.data.archetypes.BW5.trainercards.DarkClaw_BW5_92.PokeToolText$$$",
+    "200270": "PokemonTool",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.DV.trainercards.ExpShare_DV_18.GameText$$$",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200580": "DV",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "ExpShare",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "4527c552-495d-4bf9-9d1d-4af5c94b3da8",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200871": "std",
+    "201620": 1349395200,
+    "201710": "2aae1a23-0965-422c-bb69-f4394b2c1323",
+    "202080": 201
+  },
+  {
+    "10000": "b3716fe5-b7d9-4799-8542-f49fbfd73554",
+    "10020": "017xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Druddigon.Name$$$",
+    "10190": 29,
+    "200260": 50,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Druddigon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.DragonTail.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.DragonTail.GameText$$$",
+        "abilityID": "da1e17e8-3bad-486c-8595-26a5ebc7bbf0",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.GameText$$$",
+        "abilityID": "642966b4-8993-4a39-938d-dd3da27434ad",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "15ce1706-8cc6-4b92-a8e0-4ac112260b42",
+    "202080": 201
+  },
+  {
+    "10000": "ed1d5cb2-1c87-4d91-9e65-02a22ca5b47c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dragonair.Name$$$",
+    "10190": 29,
+    "200260": 264,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dratini.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Dragonair",
+    "200640": "Dratini",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse1.GameText$$$",
+        "abilityID": "57601b27-6b7b-41c3-8393-44cb2390e140",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.GameText$$$",
+        "abilityID": "7c508622-408e-4ffa-803d-ea0dbaadcea9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "3d648eaf-46e5-4ca0-b084-d05c8279659c",
+    "202080": 201
+  },
+  {
+    "10000": "7d2eb904-c6cc-4667-93ea-431342208e02",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fraxure.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Axew.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Fraxure",
+    "200640": "Axew",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "38dc6457-a2f2-440b-ab53-c3fcb0b5123c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 1,
+          "Colorless": 2
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "8d4e9c04-1784-4b8c-ac04-2a8616222953",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ca948be9-7b65-4e6c-8360-c1b5e766f8ba",
+    "202080": 201
+  },
+  {
+    "10000": "484a5210-9f47-44d4-9bb0-6e684226c0c4",
+    "10020": "010xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Latios.Name$$$",
+    "10190": 29,
+    "200260": 317,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Latios",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyBlade.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyBlade.GameText$$$",
+        "abilityID": "6d65ced4-3b9d-4a45-8804-8cc2fb6fc0ac",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Psychic": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SpeedWing.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SpeedWing.GameText$$$",
+        "abilityID": "a4591e31-5058-4d21-8207-4a1937ad1df5",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "c761137f-bba7-435c-836d-6151c5dbe2a8",
+    "202080": 201
+  },
+  {
+    "10000": "e6ce0873-c896-4083-b752-dd65d192dfc3",
+    "10020": "011xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Rayquaza.Name$$$",
+    "10190": 29,
+    "200260": 120,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 120,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Rayquaza",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 90,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.GameText$$$",
+        "abilityID": "90901447-4259-4a9e-8273-b8ce4d71e4ad",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.GameText$$$",
+        "abilityID": "7eac1237-78d5-4b9a-8ea0-0a9a61987547",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "23533d59-71f0-4c25-b25a-54b2496a293c",
+    "202080": 201
+  },
+  {
+    "10000": "fbf8cf0d-cddb-4aa8-b0bf-feb67683e458",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Salamence.Name$$$",
+    "10190": 29,
+    "200260": 43,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Shelgon.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Salamence",
+    "200640": "Shelgon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 90,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.GameText$$$",
+        "abilityID": "48ab0ecb-e353-4a9c-805c-e75b0cdaee65",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityScornfulStorm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityScornfulStorm.GameText$$$",
+        "abilityID": "81bb852f-eecc-4724-8eff-f3ae4b4b790b",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "330a33da-11e3-4bd2-bd72-5e2178a2ea5b",
+    "202080": 201
+  },
+  {
+    "10000": "c1105ac7-7a92-4422-9ce6-b48950ec1329",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Rayquaza.Name$$$",
+    "10190": 29,
+    "200260": 120,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 120,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "Rayquaza",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 90,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.Shred.GameText$$$",
+        "abilityID": "90901447-4259-4a9e-8273-b8ce4d71e4ad",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.GameText$$$",
+        "abilityID": "7eac1237-78d5-4b9a-8ea0-0a9a61987547",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "23533d59-71f0-4c25-b25a-54b2496a293c",
+    "202080": 201
+  },
+  {
+    "10000": "884c6539-7d46-4413-af44-4f0f1557eb8f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Shelgon.Name$$$",
+    "10190": 29,
+    "200260": 43,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bagon.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Shelgon",
+    "200640": "Bagon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.KnockAway.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.KnockAway.GameText$$$",
+        "abilityID": "45d5a7f1-e65a-417d-be9d-59c4d1fa36e6",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Rollout.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Rollout.GameText$$$",
+        "abilityID": "9e6cc4e3-1c85-4830-9472-301f5482a08a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "2fb5e2fb-0b9a-49cf-9cb7-7e7e6aaa6fd4",
+    "202080": 201
+  },
+  {
+    "10000": "5edaf604-3942-411f-8461-525accb3e4ba",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dragonair.Name$$$",
+    "10190": 29,
+    "200260": 264,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dratini.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Dragonair",
+    "200640": "Dratini",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.HealingMelody.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.HealingMelody.GameText$$$",
+        "abilityID": "104d2c48-2cf9-490a-aec3-3b79658e4ada",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slam.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.Slam.GameText$$$",
+        "abilityID": "dd3e8d58-2499-4cf8-842b-f6e177a8fa89",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6ea4a6c6-92a0-4a63-ac8f-5e6b515c0305",
+    "202080": 201
+  },
+  {
+    "10000": "aaf76242-83fd-4262-a643-d9b1abab752e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Kyurem.Name$$$",
+    "10190": 29,
+    "200260": 102,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 130,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Kyurem",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonClaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "6f809560-9b57-44dc-ade2-c4e5bef30991",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Water": 1,
+          "Psychic": 1,
+          "Colorless": 2
+        },
+        "damage": 90,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.HGSS4.Blizzard.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.Blizzard.GameText$$$",
+        "abilityID": "1b880e59-e95e-4f26-8ed9-9ae5d2075210",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7665cb3e-3d68-44f7-a6f0-08927dbea498",
+    "202080": 201
+  },
+  {
+    "10000": "63f667c2-b982-4063-9fe0-f654d998b342",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dragonite.Name$$$",
+    "10190": 29,
+    "200260": 264,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dragonair.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 150,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Dragonite",
+    "200640": "Dragonair",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Colorless": 2
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.HyperBeam.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.HyperBeam.GameText$$$",
+        "abilityID": "21148acf-2ee4-4424-bff8-7b399115ba77",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3,
+          "Grass": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.HurricaneTail.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.HurricaneTail.GameText$$$",
+        "abilityID": "0233dfa6-214f-4d53-adb6-dc1b9c257676",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "3e0f2d76-a07d-4925-b921-f3f615db8ab5",
+    "202080": 201
+  },
+  {
+    "10000": "155e3cab-4949-4118-9ba2-e38e54ee312f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Dratini.Name$$$",
+    "10190": 29,
+    "200260": 264,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 40,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Common",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Dratini",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HypnoticGaze.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.HypnoticGaze.GameText$$$",
+        "abilityID": "9d199f77-bc25-4828-a15e-c309a01ef723",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailWhap.GameText$$$",
+        "abilityID": "531daf74-8c78-41ff-a172-1bdb4496a367",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e3e2e381-ba2a-4ff1-901d-b98ace33aec2",
+    "202080": 201
+  },
+  {
+    "10000": "ce01d067-41c3-49d0-992d-18ab1b901e99",
+    "10020": "016xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Haxorus.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fraxure.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Haxorus",
+    "200640": "Fraxure",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.AxeSlugger.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.AxeSlugger.GameText$$$",
+        "abilityID": "4a63637f-8d68-40db-99bc-e2ff6f254252",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fighting": 1,
+          "Metal": 1,
+          "Colorless": 2
+        },
+        "damage": 100,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonPulse1.GameText$$$",
+        "abilityID": "4b487760-9bc0-440f-ab91-d07428792421",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "27fbadc5-16e3-480f-a22c-aa36a09df9c2",
+    "202080": 201
+  },
+  {
+    "10000": "3702cc5b-e742-40dc-ba89-6cd2da666c1c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Druddigon.Name$$$",
+    "10190": 29,
+    "200260": 50,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 110,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Rainbow",
+    "200620": "Holo",
+    "200630": "Druddigon",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1,
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.DragonTail.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.DragonTail.GameText$$$",
+        "abilityID": "da1e17e8-3bad-486c-8595-26a5ebc7bbf0",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.GameText$$$",
+        "abilityID": "642966b4-8993-4a39-938d-dd3da27434ad",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "201610": 1,
+    "201710": "15ce1706-8cc6-4b92-a8e0-4ac112260b42",
+    "202080": 201
+  },
+  {
+    "10000": "3add0daa-ae36-474b-b95b-7e304d26633a",
+    "10020": "009xy",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Latias.Name$$$",
+    "10190": 29,
+    "200260": 316,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200560": "Rare",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Latias",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5EnergyAssist.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW5EnergyAssist.GameText$$$",
+        "abilityID": "a5ed1b86-f41e-4087-9d78-76984e27e9c8",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Psychic": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyHeal.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.SkyHeal.GameText$$$",
+        "abilityID": "a6a2bab6-9782-46d7-ac72-04f852780447",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "9b7ceaec-acdd-41e8-8822-5cab4255d7b9",
+    "202080": 201
+  },
+  {
+    "10000": "d94b2b38-e088-4391-b457-07b336c971d4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fraxure.Name$$$",
+    "10190": 29,
+    "200260": 41,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Axew.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200560": "Uncommon",
+    "200570": [
+      "Dragon"
+    ],
+    "200580": "DV",
+    "200590": [
+      "Dragon"
+    ],
+    "200600": "NoColor",
+    "200610": "Tinsel",
+    "200620": "Reverse",
+    "200630": "Fraxure",
+    "200640": "Axew",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fighting": 1,
+          "Metal": 1,
+          "Colorless": 1
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.DragonClaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "474e74f5-34b0-4b5f-9dd6-959aabab51b4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityGrit.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.DV.AbilityGrit.GameText$$$",
+        "abilityID": "b5dff843-145b-480c-a225-990826e0e2ee",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4559e111-1fba-46b7-96fa-620ffd0a18df",
+    "202080": 201
+  },
+  {
+    "10000": "4bb25db6-ed64-4154-92d9-8ea9d05fe98f",
+    "10020": "packs/DragonVault",
+    "10060": "$$$product.dv.booster.description$$$",
+    "10090": false,
+    "10140": "$$$product.DV.booster$$$",
+    "10190": 29,
+    "10200": 5,
+    "10540": "Packs",
+    "200580": "DV",
+    "200871": "DragonVault"
+  }
+]

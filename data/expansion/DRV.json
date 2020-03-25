@@ -1,0 +1,806 @@
+{
+  "expansion": "DRV",
+  "items": {
+    "272105473": {
+      "id": 272105473,
+      "name": "Dratini",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 8,
+      "family": 264,
+      "hp": 40,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wrap",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            5,
+            2
+          ]
+        }
+      ]
+    },
+    "272105474": {
+      "id": 272105474,
+      "name": "Dratini",
+      "cat": 1,
+      "kind": 1,
+      "no": 2,
+      "rarity": 8,
+      "family": 264,
+      "hp": 40,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hypnotic Gaze",
+          "text": "The Defending Pokémon is now Asleep.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Tail Whap",
+          "damage": 10,
+          "cost": [
+            5
+          ]
+        }
+      ]
+    },
+    "272105475": {
+      "id": 272105475,
+      "name": "Dragonair",
+      "cat": 1,
+      "kind": 2,
+      "no": 3,
+      "rarity": 8,
+      "family": 264,
+      "preevo": "Dratini",
+      "hp": 70,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Dragon Pulse",
+          "text": "Discard the top card of your deck.",
+          "damage": 70,
+          "cost": [
+            5,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "272105476": {
+      "id": 272105476,
+      "name": "Dragonair",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 8,
+      "family": 264,
+      "preevo": "Dratini",
+      "hp": 70,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Healing Melody",
+          "text": "Heal 10 damage from each of your Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Slam",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "272105477": {
+      "id": 272105477,
+      "name": "Dragonite",
+      "cat": 1,
+      "kind": 3,
+      "no": 5,
+      "rarity": 8,
+      "family": 264,
+      "preevo": "Dragonair",
+      "hp": 150,
+      "weakness": 11,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Hyper Beam",
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+          "damage": 50,
+          "cost": [
+            5,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Hurricane Tail",
+          "text": "Flip 4 coins. This attack does 60 damage times the number of heads.",
+          "damage": 60,
+          "op": "x",
+          "cost": [
+            1,
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "272105478": {
+      "id": 272105478,
+      "name": "Bagon",
+      "cat": 1,
+      "kind": 1,
+      "no": 6,
+      "rarity": 8,
+      "family": 43,
+      "hp": 50,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": 20,
+          "cost": [
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    "272105479": {
+      "id": 272105479,
+      "name": "Shelgon",
+      "cat": 1,
+      "kind": 2,
+      "no": 7,
+      "rarity": 8,
+      "family": 43,
+      "preevo": "Bagon",
+      "hp": 80,
+      "weakness": 11,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": 50,
+          "cost": [
+            4,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "272105480": {
+      "id": 272105480,
+      "name": "Salamence",
+      "cat": 1,
+      "kind": 3,
+      "no": 8,
+      "rarity": 8,
+      "family": 43,
+      "preevo": "Shelgon",
+      "hp": 140,
+      "weakness": 11,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Scornful Storm",
+          "text": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": 90,
+          "cost": [
+            4,
+            3,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272132104": {
+      "id": 272132104,
+      "name": "Salamence",
+      "cat": 1,
+      "kind": 3,
+      "no": 8,
+      "rarity": 8,
+      "family": 43,
+      "preevo": "Shelgon",
+      "hp": 140,
+      "weakness": 11,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Scornful Storm",
+          "text": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": 90,
+          "cost": [
+            4,
+            3,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272105481": {
+      "id": 272105481,
+      "name": "Latias",
+      "cat": 1,
+      "kind": 1,
+      "no": 9,
+      "rarity": 8,
+      "flags": 4096,
+      "family": 316,
+      "hp": 100,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Sky Heal",
+          "text": "If Latios is on your Bench, heal 20 damage from this Pokémon.",
+          "damage": 40,
+          "cost": [
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    "272133129": {
+      "id": 272133129,
+      "name": "Latias",
+      "cat": 1,
+      "kind": 1,
+      "no": 9,
+      "rarity": 8,
+      "family": 316,
+      "hp": 100,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Sky Heal",
+          "text": "If Latios is on your Bench, heal 20 damage from this Pokémon.",
+          "damage": 40,
+          "cost": [
+            3,
+            6
+          ]
+        }
+      ]
+    },
+    "272105482": {
+      "id": 272105482,
+      "name": "Latios",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "rarity": 8,
+      "flags": 4096,
+      "family": 317,
+      "hp": 100,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sky Blade",
+          "text": "If Latias is on your Bench, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            4,
+            1
+          ]
+        },
+        {
+          "name": "Speed Wing",
+          "damage": 60,
+          "cost": [
+            6,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272133130": {
+      "id": 272133130,
+      "name": "Latios",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "rarity": 8,
+      "family": 317,
+      "hp": 100,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sky Blade",
+          "text": "If Latias is on your Bench, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            4,
+            1
+          ]
+        },
+        {
+          "name": "Speed Wing",
+          "damage": 60,
+          "cost": [
+            6,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272105483": {
+      "id": 272105483,
+      "name": "Rayquaza",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 8,
+      "flags": 4096,
+      "family": 120,
+      "hp": 120,
+      "weakness": 11,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "text": "Discard the top 2 cards of your deck.",
+          "damage": 40,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": 90,
+          "cost": [
+            5,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "272133131": {
+      "id": 272133131,
+      "name": "Rayquaza",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 8,
+      "family": 120,
+      "hp": 120,
+      "weakness": 11,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "text": "Discard the top 2 cards of your deck.",
+          "damage": 40,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": 90,
+          "cost": [
+            5,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "272105484": {
+      "id": 272105484,
+      "name": "Axew",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 8,
+      "family": 41,
+      "hp": 40,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "text": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand. Shuffle your deck afterward.",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            9
+          ]
+        }
+      ]
+    },
+    "272105485": {
+      "id": 272105485,
+      "name": "Axew",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 8,
+      "family": 41,
+      "hp": 50,
+      "weakness": 11,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30,
+          "cost": [
+            7,
+            9
+          ]
+        }
+      ]
+    },
+    "272105486": {
+      "id": 272105486,
+      "name": "Fraxure",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 8,
+      "family": 41,
+      "preevo": "Axew",
+      "hp": 70,
+      "weakness": 11,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Grit",
+          "text": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Claw",
+          "damage": 60,
+          "cost": [
+            7,
+            9,
+            1
+          ]
+        }
+      ]
+    },
+    "272105487": {
+      "id": 272105487,
+      "name": "Fraxure",
+      "cat": 1,
+      "kind": 2,
+      "no": 15,
+      "rarity": 8,
+      "family": 41,
+      "preevo": "Axew",
+      "hp": 80,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 20,
+          "cost": [
+            9,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 40,
+          "cost": [
+            7,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272105488": {
+      "id": 272105488,
+      "name": "Haxorus",
+      "cat": 1,
+      "kind": 3,
+      "no": 16,
+      "rarity": 8,
+      "flags": 4096,
+      "family": 41,
+      "preevo": "Fraxure",
+      "hp": 140,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Axe Slugger",
+          "text": "If the Defending Pokémon is a {C} Pokémon, this attack does 60 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Dragon Pulse",
+          "text": "Discard the top card of your deck.",
+          "damage": 100,
+          "cost": [
+            7,
+            9,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272133136": {
+      "id": 272133136,
+      "name": "Haxorus",
+      "cat": 1,
+      "kind": 3,
+      "no": 16,
+      "rarity": 8,
+      "family": 41,
+      "preevo": "Fraxure",
+      "hp": 140,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Axe Slugger",
+          "text": "If the Defending Pokémon is a {C} Pokémon, this attack does 60 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Dragon Pulse",
+          "text": "Discard the top card of your deck.",
+          "damage": 100,
+          "cost": [
+            7,
+            9,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "272105489": {
+      "id": 272105489,
+      "name": "Druddigon",
+      "cat": 1,
+      "kind": 1,
+      "no": 17,
+      "rarity": 8,
+      "flags": 4096,
+      "family": 50,
+      "hp": 110,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Dragon Tail",
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+          "damage": 80,
+          "op": "x",
+          "cost": [
+            4,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "272133137": {
+      "id": 272133137,
+      "name": "Druddigon",
+      "cat": 1,
+      "kind": 1,
+      "no": 17,
+      "rarity": 8,
+      "family": 50,
+      "hp": 110,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Dragon Tail",
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+          "damage": 80,
+          "op": "x",
+          "cost": [
+            4,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "272105490": {
+      "id": 272105490,
+      "name": "Exp. Share",
+      "cat": 2,
+      "kind": 43,
+      "no": 18,
+      "rarity": 8,
+      "text": "When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokémon to the Pokémon this card is attached to."
+    },
+    "272105491": {
+      "id": 272105491,
+      "name": "First Ticket",
+      "cat": 2,
+      "kind": 40,
+      "no": 19,
+      "rarity": 8,
+      "text": "Before you flip a coin to decide who goes first in a game, you may play this card. Don't flip that coin, and you go first. If both players play First Ticket, flip the coin as normal. (You may play only 1 First Ticket before you flip that coin.)"
+    },
+    "272105492": {
+      "id": 272105492,
+      "name": "Super Rod",
+      "cat": 2,
+      "kind": 40,
+      "no": 20,
+      "rarity": 8,
+      "text": "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck."
+    },
+    "272105493": {
+      "id": 272105493,
+      "name": "Kyurem",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 8,
+      "family": 102,
+      "hp": 130,
+      "weakness": 11,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dragon Claw",
+          "damage": 60,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Blizzard",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 90,
+          "cost": [
+            4,
+            6,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {
+    "272161794": {
+      "id": 272161794,
+      "name": "Dragon Vault",
+      "cat": 10,
+      "cards": 5,
+      "description": "The vault echoes with the roar of Dragons—can you train what you find within? Inside the Pokémon TCG: Dragon Vault, you'll discover a treasure trove you've never seen before! You'll find incredible Dragon Pokémon such as Rayquaza and Druddigon—ALL of them foil!—in special 5-card booster packs, plus a code card to unlock hoards of rewards for the Pokémon TCG Online. So, when you open the vault, be prepared to command the might of these powerful Dragon Pokémon!"
+    }
+  },
+  "products": {}
+}

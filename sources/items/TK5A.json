@@ -1,0 +1,1469 @@
+[
+  {
+    "10000": "ce90da70-0e52-40d6-b329-99c9437b2157",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6cf5ce86-6b8d-43af-b384-7ad931eab129",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pidove.Name$$$",
+    "10190": 22,
+    "200260": 26,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Pidove",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.GameText$$$",
+        "abilityID": "e3074f1c-051d-44c7-b3e4-3579133f7689",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "5a95d808-53ba-4a4c-b7d1-ab74ba5a4a54",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6a5085a4-05a6-4176-8739-d325a0817c4f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Watchog.Name$$$",
+    "10190": 22,
+    "200260": 25,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Patrat.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Watchog",
+    "200640": "Patrat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ConfuseRay.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.ConfuseRay.GameText$$$",
+        "abilityID": "bc9b7217-b57a-4b75-ba16-4fa11db8f703",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.HyperFang.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.HyperFang.GameText$$$",
+        "abilityID": "63dde8d3-7040-467a-a44e-f409315dd58d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 2,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "284330f2-2eec-42f5-aec2-a86d355479b8",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5265d16e-f512-4455-9a64-121960262e74",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d60b4b98-27f3-4b15-bdff-3ed1f8eaf86c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ff917d52-a95a-4dc2-98a6-ce41729e8922",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e6f886e5-959b-48c0-9721-3d1aa71115fe",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Patrat.Name$$$",
+    "10190": 22,
+    "200260": 25,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Patrat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "71a1780d-1c5b-409a-920c-0b38698cf2de",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.GameText$$$",
+        "abilityID": "41932e66-0ba3-4974-afb8-55198930a216",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "9c077254-0457-4fff-938f-46db398206eb",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "58d41980-7d03-4f90-beb1-d880d7ba0371",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zorua.Name$$$",
+    "10190": 22,
+    "200260": 36,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Zorua",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.GameText$$$",
+        "abilityID": "28c92295-7d97-4a91-aa56-df65446641be",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "716804e3-d096-43f1-9a73-2fb76a36c41c",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e54eb7fd-295e-4d9c-8031-6a6d0cb049a4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pidove.Name$$$",
+    "10190": 22,
+    "200260": 26,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Pidove",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.GameText$$$",
+        "abilityID": "e3074f1c-051d-44c7-b3e4-3579133f7689",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "5a95d808-53ba-4a4c-b7d1-ab74ba5a4a54",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ebdfe01d-9900-4118-9ef1-fb327deca994",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Purrloin.Name$$$",
+    "10190": 22,
+    "200260": 17,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Purrloin",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "a28bca47-cd47-48cf-97a7-087393fed2a6",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.GameText$$$",
+        "abilityID": "cc337b44-d4b8-4679-a5f5-a5f4042d1daf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "96bd62f5-495d-48bf-973c-07898932c241",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e67f7ed6-99d5-4906-9091-c03e41856c71",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Patrat.Name$$$",
+    "10190": 22,
+    "200260": 25,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Patrat",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "71a1780d-1c5b-409a-920c-0b38698cf2de",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.GameText$$$",
+        "abilityID": "41932e66-0ba3-4974-afb8-55198930a216",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "9c077254-0457-4fff-938f-46db398206eb",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c7d4e27b-bca3-44cb-a86b-82a21825acee",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Minccino.Name$$$",
+    "10190": 22,
+    "200260": 5,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200520": true,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Minccino",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.TailSlap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailSlap.GameText$$$",
+        "abilityID": "3ac9ca0c-55ce-4a1d-b77b-f98796de772e",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e8f0e72f-267c-4862-966d-4dee75618822",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "35982b0a-10d0-4be4-88e0-cadcffb89871",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySearch_BW1_93.Name$$$",
+    "10190": 22,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergySearch_BW1_93.GameText$$$",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "EnergySearch",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "346df2ab-8a40-426f-b85c-30a2f1212292",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200871": "std",
+    "201710": "74c97932-f306-46a9-9c07-36494d77ca25",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "80e2f084-7c08-4f2b-9c57-e52e0c66fe5c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8bc8babf-cb10-41fc-9dc9-09895fc25a09",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PlusPower_BW1_96.Name$$$",
+    "10190": 22,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PlusPower_BW1_96.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK5A",
+    "200630": "PlusPower",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "e4364a4b-c684-4852-b209-8d64de7650a5",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200871": "std",
+    "201710": "dcd393e3-15d7-4a1b-8640-3191edd03ee4",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ee6de144-89ca-4775-99a8-609a483f1a9b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f4c8e9c6-02c7-4ab2-a22a-dd42dee2b6ac",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0c720ee6-8c91-4be7-8bb1-e21439750ab6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Purrloin.Name$$$",
+    "10190": 22,
+    "200260": 17,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Purrloin",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "a28bca47-cd47-48cf-97a7-087393fed2a6",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.GameText$$$",
+        "abilityID": "cc337b44-d4b8-4679-a5f5-a5f4042d1daf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "96bd62f5-495d-48bf-973c-07898932c241",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8a52cf9f-a24a-4c78-8e01-b76da7f1aac7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zoroark.Name$$$",
+    "10190": 22,
+    "200260": 36,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zorua.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Zoroark",
+    "200640": "Zorua",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes20.GameText$$$",
+        "abilityID": "8153ed4c-72e5-45b8-90c2-a2418c6bab65",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.NightDaze.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.NightDaze.GameText$$$",
+        "abilityID": "e9e45017-dbd3-4a18-9e1a-3d70bca0db22",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "64d5524e-2815-458d-a08f-d7697c3d7e96",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8555cfb4-49c4-4fe3-85d2-609f3299a27c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zorua.Name$$$",
+    "10190": 22,
+    "200260": 36,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Zorua",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Lunge.GameText$$$",
+        "abilityID": "28c92295-7d97-4a91-aa56-df65446641be",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "716804e3-d096-43f1-9a73-2fb76a36c41c",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a2149421-3a24-4a2d-8073-a5a459526e15",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "dcbe8244-7bb9-46ec-9c07-4195ffb299ef",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4800dfbc-6f29-4725-a732-a64661bcd9ff",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PokmonCommunication_BW1_99.Name$$$",
+    "10190": 22,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.PokmonCommunication_BW1_99.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK5A",
+    "200630": "PokemonCommunication",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "1e8b0e75-07d2-4cac-b292-5ead01fb7e95",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200871": "std",
+    "201710": "e7609820-e599-49b2-90aa-4dc7a7be4907",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4a946495-54ff-4de4-ac82-6cc50cace3d1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Minccino.Name$$$",
+    "10190": 22,
+    "200260": 5,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200520": true,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Minccino",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.TailSlap.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TailSlap.GameText$$$",
+        "abilityID": "3ac9ca0c-55ce-4a1d-b77b-f98796de772e",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e8f0e72f-267c-4862-966d-4dee75618822",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a0ff13ff-6563-4f2a-907a-175668faee57",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "90df78af-a232-41b8-b16e-150087fbda70",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7e868a3a-6e53-4d27-8682-71715711c93b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zoroark.Name$$$",
+    "10190": 22,
+    "200260": 36,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Zorua.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Tinsel",
+    "200620": "Holo",
+    "200630": "Zoroark",
+    "200640": "Zorua",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes20.GameText$$$",
+        "abilityID": "8153ed4c-72e5-45b8-90c2-a2418c6bab65",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.NightDaze.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW2.NightDaze.GameText$$$",
+        "abilityID": "e9e45017-dbd3-4a18-9e1a-3d70bca0db22",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "64d5524e-2815-458d-a08f-d7697c3d7e96",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "72ee5930-63e8-45f7-87ff-c361d848e1c9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Tranquill.Name$$$",
+    "10190": 22,
+    "200260": 26,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pidove.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK5A",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Tranquill",
+    "200640": "Pidove",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.QuickAttack30.GameText$$$",
+        "abilityID": "a3f17ded-fd8f-4512-8aa4-4e2707fdb2d4",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Gust.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Gust.GameText$$$",
+        "abilityID": "542463d5-2895-4306-8e9e-8f2d62821443",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "c07b22b6-7a31-406c-bd5d-2efe6ec23890",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "57d8c6c3-928b-40e9-9b7c-3918d23268f8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergyRetrieval_BW1_92.Name$$$",
+    "10190": 22,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.BW1.trainercards.EnergyRetrieval_BW1_92.GameText$$$",
+    "200520": true,
+    "200550": "Uncommon",
+    "200580": "TK5A",
+    "200630": "EnergyRetrieval",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "c7eb81b4-50aa-4478-b3f1-46558434f664",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200871": "std",
+    "201710": "378fee77-0fb4-41bb-bb14-0ec41dea42ec",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "9bbbd963-e6da-4737-a6ea-d6614b21ce07",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.BW1.energy.DarknessEnergy_BW1_111.Name$$$",
+    "10190": 22,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "TK5A",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "nighthunter"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "830ecc00-cab2-11e1-9b23-0800200c9a66",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.TK5NightHunterPCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.tk5.nighthunter.name$$$",
+    "10190": 22,
+    "10540": "Decks",
+    "200580": "TK5A",
+    "200871": "TK5NightHunterPCD",
+    "201270": "tk5nighthunter"
+  },
+  {
+    "10000": "80ca2ba7-414f-4a47-8ca0-28eb3d9077da",
+    "10020": "tk5nighthunter",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.NightHunterBundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.NightHunterBundle.Name$$$",
+    "10190": 22,
+    "10540": "Bundles",
+    "200580": "TK5A",
+    "200871": "NightHunterBundle",
+    "201507": "ThemeDeck",
+    "201640": "830ecc00-cab2-11e1-9b23-0800200c9a66"
+  }
+]

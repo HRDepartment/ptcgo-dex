@@ -1,0 +1,3680 @@
+[
+  {
+    "10000": "2ff32a27-f5e6-433d-8387-f8bc3cc2892b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Mightyena.Name$$$",
+    "10190": 35,
+    "200260": 378,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Poochyena.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Mightyena",
+    "200640": "Poochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.HardBite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.HardBite.GameText$$$",
+        "abilityID": "f0f10adb-5323-4fff-8608-b3485c27a6dc",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "2ff32a27-f5e6-433d-8387-f8bc3cc2892b",
+    "201730": [
+      "xy0card8",
+      "cammie"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "371e17ec-dedd-4f05-88b5-e9b5f5ed7f4e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Greninja.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Greninja",
+    "200640": "Frogadier",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.MatBlock.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.MatBlock.GameText$$$",
+        "abilityID": "1f90c091-9279-42a0-b6e1-f715a334e26b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.AquaEdge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.AquaEdge.GameText$$$",
+        "abilityID": "4c55bd50-dba1-441b-9045-bc4d5c7adc8b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "f843f6c9-f414-48d8-86fa-a081e9ea1c79",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f7a6ba4b-5862-4302-9fe1-408eb2c54a20",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chespin.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Chespin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.VineWhip.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.VineWhip.GameText$$$",
+        "abilityID": "0a0b6577-dc34-4d8a-b3e1-898ea2d71c17",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SeedBomb.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SeedBomb.GameText$$$",
+        "abilityID": "40ed7244-3900-4d46-af3f-69eedb5d0b95",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "f0e5476b-664d-4342-b369-1b66552745cd",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c15e44ba-22f4-4be0-be0f-fcfcf2663957",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_36.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_36.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200630": "PokemonCatcher",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "8acbcced-226f-4a36-a8b6-baec9ffe82e8",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 36,
+    "200871": "std",
+    "201710": "c6690f13-f077-4196-9f58-bd984eaff330",
+    "201730": [
+      "xy0card8",
+      "brittney"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "bea50529-b4a3-49ee-ad2f-8e3d78e5eeeb",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Delphox.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Braixen.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Delphox",
+    "200640": "Braixen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WillOWisp.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WillOWisp.GameText$$$",
+        "abilityID": "a159ff32-1078-4493-8705-e9833fe2f646",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 3
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW4.FireBlast.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.FireBlast.GameText$$$",
+        "abilityID": "79855c7d-2fef-47c6-8266-7a4e262fe4b9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "7f3d0fe6-b79a-475d-a8fa-3ac8e709fb7e",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2e797be0-e068-4da9-b09b-308c3062d62a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Frogadier",
+    "200640": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.AquaWave.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.AquaWave.GameText$$$",
+        "abilityID": "a949eff8-7d54-44ca-bd65-1f5affa024d6",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WaterDrip.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "67652525-bc7c-413e-89fc-acaaa6941aff",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "2e797be0-e068-4da9-b09b-308c3062d62a",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e8b4796a-6e1f-48f2-adb6-fe3b52ebb9e7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chesnaught.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Quilladin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 150,
+    "200540": "Stage2",
+    "200550": "Rare",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Chesnaught",
+    "200640": "Quilladin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.NeedleArm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "313633fa-4dd4-4bd8-aa01-030d803567fd",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.TumblingAttack.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.TumblingAttack.GameText$$$",
+        "abilityID": "ec430b80-f9a7-4f4e-8d3c-1561045cf72e",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "e8b4796a-6e1f-48f2-adb6-fe3b52ebb9e7",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4bdd805c-8436-4ca6-b2cb-a7b098a9dbbf",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pansear.Name$$$",
+    "10190": 35,
+    "200260": 24,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "Pansear",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.GameText$$$",
+        "abilityID": "0044f9f7-2b14-4531-8570-129e5f3fcd61",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes10.GameText$$$",
+        "abilityID": "0b118581-6e2c-4c7c-985a-3478c6fe3711",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4bdd805c-8436-4ca6-b2cb-a7b098a9dbbf",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e404fc71-942b-4894-a703-1bb47341c541",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Braixen.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fennekin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Braixen",
+    "200640": "Fennekin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FlameTail.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FlameTail.GameText$$$",
+        "abilityID": "a793554c-86de-4726-b170-a4d19e4b578c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Firebreathing.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Firebreathing20.GameText$$$",
+        "abilityID": "cd4bc81e-a935-4210-a698-59d4a7c0268d",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "a2dad6ec-c760-4bd5-bd65-416ca3e9be13",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "02068792-1fa8-4718-842e-8ed4d633c3af",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.GameText$$$",
+        "abilityID": "7729b0f6-162b-4aa2-bd74-271a634ceb9b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WaterDrip.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "0daaa039-8ad8-4c72-8273-c21536bea900",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "150e58fa-9f5a-4a54-b1f4-e0acf7bfb37a",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ab332f6a-4861-4cd9-95d4-d4774acae3d7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Clauncher.Name$$$",
+    "10190": 35,
+    "200260": 372,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Clauncher",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WaterGun.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WaterGun.GameText$$$",
+        "abilityID": "13824436-8b99-4c51-a4c0-773b7a1a1721",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ab332f6a-4861-4cd9-95d4-d4774acae3d7",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "818cad51-3f3d-4cf6-a8a6-5fcafc8d0086",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Miltank.Name$$$",
+    "10190": 35,
+    "200260": 274,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Miltank",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.SitdownSplash.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.SitdownSplash.GameText$$$",
+        "abilityID": "501cb79f-ee01-4ef5-8006-a191e1c24bb3",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "818cad51-3f3d-4cf6-a8a6-5fcafc8d0086",
+    "201730": [
+      "xy0card3",
+      "zach"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7f3d0fe6-b79a-475d-a8fa-3ac8e709fb7e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Delphox.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Braixen.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "Rare",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "Delphox",
+    "200640": "Braixen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WillOWisp.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WillOWisp.GameText$$$",
+        "abilityID": "a159ff32-1078-4493-8705-e9833fe2f646",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 3
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW4.FireBlast.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.FireBlast.GameText$$$",
+        "abilityID": "79855c7d-2fef-47c6-8266-7a4e262fe4b9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7f3d0fe6-b79a-475d-a8fa-3ac8e709fb7e",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7a2619d7-9133-4aec-8fcd-682e45eaf150",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bidoof.Name$$$",
+    "10190": 35,
+    "200260": 183,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Bidoof",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Rollout.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Rollout.GameText$$$",
+        "abilityID": "8671501e-3ab9-47fd-9b8c-abcd0cef68dd",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "7a2619d7-9133-4aec-8fcd-682e45eaf150",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "38505019-d315-4dc9-9414-1b0200ad952c",
+    "10020": "023op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Granbull.Name$$$",
+    "10190": 35,
+    "200260": 291,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snubbull.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Fairy"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "Darkness",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Granbull",
+    "200640": "Snubbull",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Fairy": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "39eb731b-e04d-44b5-838c-2e40ddf9a80b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Fairy": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.DoubleStomp.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.DoubleStomp.GameText$$$",
+        "abilityID": "e2b13385-fdab-45e5-a3f0-0e9931de1cb8",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 3,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "ba085180-7002-478a-9843-9df17f869e1b",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "ce78a945-64b4-4957-a056-b41740fa9fff",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Frogadier",
+    "200640": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.AquaWave.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.AquaWave.GameText$$$",
+        "abilityID": "a949eff8-7d54-44ca-bd65-1f5affa024d6",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WaterDrip.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "67652525-bc7c-413e-89fc-acaaa6941aff",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "2e797be0-e068-4da9-b09b-308c3062d62a",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f4de997e-401d-4ade-833a-2e1dcbb98525",
+    "10020": "020op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bisharp.Name$$$",
+    "10190": 35,
+    "200260": 145,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Bisharp",
+    "200640": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.WickedJab.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WickedJab.GameText$$$",
+        "abilityID": "e5646cb9-9c0f-45c5-b921-e0a213c4e76e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Metal": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "8cdd9037-e5a2-4dfd-ae07-90ff6ae9ce3f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "8e272088-943b-492b-beae-42a25abc2ebc",
+    "201730": [
+      "xy0card12",
+      "rika"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "76b142f3-55e7-4c8a-b05c-18f6a5ffdaab",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Honedge.Name$$$",
+    "10190": 35,
+    "200260": 376,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Honedge",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Metal": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.ContinuousSlash.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.ContinuousSlash.GameText$$$",
+        "abilityID": "af1bcdee-cf74-4660-984e-da488ea9ac0f",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "76b142f3-55e7-4c8a-b05c-18f6a5ffdaab",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "76b5b37e-9dd0-48e6-bcf5-380861dd7535",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Quilladin.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chespin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Quilladin",
+    "200640": "Chespin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LeechSeed.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LeechSeed10.GameText$$$",
+        "abilityID": "606587cb-5df7-4fb2-ac2a-ab88ff559577",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.NeedleArm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "52f0b4be-a547-40a7-a7d6-9618b088d8b9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "1c0d3879-7e71-4acf-b380-75b525511e91",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e991ddd3-b2d7-4d34-88d9-d83318c05c86",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "10190": 35,
+    "200260": 145,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.GameText$$$",
+        "abilityID": "d70e07eb-16e8-4d28-8cca-84763f373410",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.GameText$$$",
+        "abilityID": "04bb7119-0ece-43af-a321-7911747a6860",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8da5713c-fcf4-4645-9613-af1ab407c272",
+    "201730": [
+      "xy0card12",
+      "rika"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "3756daf9-0cc6-4a89-a3da-288519f78813",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chesnaught.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Quilladin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 150,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Chesnaught",
+    "200640": "Quilladin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.NeedleArm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "313633fa-4dd4-4bd8-aa01-030d803567fd",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.TumblingAttack.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.TumblingAttack.GameText$$$",
+        "abilityID": "ec430b80-f9a7-4f4e-8d3c-1561045cf72e",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "e8b4796a-6e1f-48f2-adb6-fe3b52ebb9e7",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a492016f-8e42-4a90-a7d5-3ced434176cd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Furfrou.Name$$$",
+    "10190": 35,
+    "200260": 375,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Furfrou",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "ce78deb0-3891-4f77-8149-332d38f24bb9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.TightJaw.GameText$$$",
+        "abilityID": "a34a2027-cdb6-45cf-a63c-bde50e9ba638",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 33,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a492016f-8e42-4a90-a7d5-3ced434176cd",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "49bae057-8e6b-4e22-9eec-a671ae6acd8b",
+    "10020": "017op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Mightyena.Name$$$",
+    "10190": 35,
+    "200260": 378,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Poochyena.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Mightyena",
+    "200640": "Poochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.HardBite.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW8.HardBite.GameText$$$",
+        "abilityID": "f0f10adb-5323-4fff-8608-b3485c27a6dc",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "2ff32a27-f5e6-433d-8387-f8bc3cc2892b",
+    "201730": [
+      "xy0card8",
+      "cammie"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "1c0d3879-7e71-4acf-b380-75b525511e91",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Quilladin.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chespin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Quilladin",
+    "200640": "Chespin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LeechSeed.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LeechSeed10.GameText$$$",
+        "abilityID": "606587cb-5df7-4fb2-ac2a-ab88ff559577",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Grass": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.NeedleArm.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "52f0b4be-a547-40a7-a7d6-9618b088d8b9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "1c0d3879-7e71-4acf-b380-75b525511e91",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f0e5476b-664d-4342-b369-1b66552745cd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Chespin.Name$$$",
+    "10190": 35,
+    "200260": 371,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Chespin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.VineWhip.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.VineWhip.GameText$$$",
+        "abilityID": "0a0b6577-dc34-4d8a-b3e1-898ea2d71c17",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SeedBomb.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SeedBomb.GameText$$$",
+        "abilityID": "40ed7244-3900-4d46-af3f-69eedb5d0b95",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "f0e5476b-664d-4342-b369-1b66552745cd",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0146702b-46a6-436d-9409-27cbd157d51c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snubbull.Name$$$",
+    "10190": 35,
+    "200260": 291,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fairy"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "Darkness",
+    "200630": "Snubbull",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Fairy": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "19fdf071-b241-4ea4-aea5-2fa6d13b7e8f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "0146702b-46a6-436d-9409-27cbd157d51c",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6e7ad7fd-9344-4e0a-a73b-e9a9f8842c7b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Swirlix.Name$$$",
+    "10190": 35,
+    "200260": 379,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fairy"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "Darkness",
+    "200630": "Swirlix",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fairy": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.XY0.DrainingKiss.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.XY0.DrainingKiss.GameText$$$",
+        "abilityID": "059ae256-31bd-4ff4-8b4c-783882f3d159",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6e7ad7fd-9344-4e0a-a73b-e9a9f8842c7b",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "bb0058d6-6ec7-4995-94d5-cf482eceaa8d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Skitty.Name$$$",
+    "10190": 35,
+    "200260": 212,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Skitty",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.JumpOn.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.JumpOn.GameText$$$",
+        "abilityID": "8a0e3865-e71e-41ae-9f3a-c6ecaba1a67f",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "bb0058d6-6ec7-4995-94d5-cf482eceaa8d",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6542601b-25ac-44b1-ba52-06070ae3c1d4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fennekin.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "Fennekin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "c8a5c455-6272-46c6-9d4a-eae9ecb9eae4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LiveCoal.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LiveCoal.GameText$$$",
+        "abilityID": "ff884745-d749-4c6d-935b-5ae326537359",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "6542601b-25ac-44b1-ba52-06070ae3c1d4",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "986b92f6-d77b-4aa9-9b68-8cdf6c084159",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_35.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_35.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200630": "PokeBall",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "a71371f9-10a9-492e-aa4f-d7ec520c95dd",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 35,
+    "200871": "std",
+    "201710": "068f971b-b0ec-4e76-b739-5b8452c32acb",
+    "201730": [
+      "xy0card12",
+      "xy0card3",
+      "xy0card8",
+      "xy1destructionrush",
+      "xy2meowsticdeck",
+      "otis",
+      "xybasicred"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ba51b219-8935-4246-9b37-3e7cff515309",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_37.GameText$$$",
+    "200550": "Common",
+    "200580": "XY0",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 37,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "calvin",
+      "daniel",
+      "mick",
+      "xy0card3",
+      "xy1destructionrush",
+      "sylveonxy3deck",
+      "cammie",
+      "ella",
+      "juji",
+      "logan",
+      "tyson",
+      "xybasicgreen",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "150e58fa-9f5a-4a54-b1f4-e0acf7bfb37a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pound.GameText$$$",
+        "abilityID": "7729b0f6-162b-4aa2-bd74-271a634ceb9b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WaterDrip.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "0daaa039-8ad8-4c72-8273-c21536bea900",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "150e58fa-9f5a-4a54-b1f4-e0acf7bfb37a",
+    "201730": [
+      "xy0card12",
+      "xybasicblue"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5130ee05-93a9-45cc-afcd-43a6512c0613",
+    "10020": "039op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.Name$$$",
+    "10190": 35,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Tierno",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 39,
+    "200871": "op",
+    "201710": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "201730": [
+      "ali",
+      "daniel",
+      "ella",
+      "grayson",
+      "kendall",
+      "logan",
+      "nathan",
+      "tyson",
+      "xy0card12",
+      "xy0card3",
+      "xy0card8",
+      "xy1destructionrush",
+      "xy1resilientlife",
+      "zach",
+      "tutorialdecks",
+      "newOtisDeck"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "792b9b94-dc50-46e4-91be-eae0e9238d78",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fennekin.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Fennekin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Scratch.GameText$$$",
+        "abilityID": "c8a5c455-6272-46c6-9d4a-eae9ecb9eae4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LiveCoal.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.LiveCoal.GameText$$$",
+        "abilityID": "ff884745-d749-4c6d-935b-5ae326537359",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201610": 1,
+    "201710": "6542601b-25ac-44b1-ba52-06070ae3c1d4",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.Name$$$",
+    "10190": 35,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_39.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200630": "Tierno",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 39,
+    "200871": "std",
+    "201710": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "201730": [
+      "ali",
+      "daniel",
+      "ella",
+      "grayson",
+      "kendall",
+      "logan",
+      "nathan",
+      "tyson",
+      "xy0card12",
+      "xy0card3",
+      "xy0card8",
+      "xy1destructionrush",
+      "xy1resilientlife",
+      "zach",
+      "tutorialdecks",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "1825d474-67e7-4d95-8bee-3c9b572321c7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Inkay.Name$$$",
+    "10190": 35,
+    "200260": 377,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Inkay",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Peck.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Peck.GameText$$$",
+        "abilityID": "1ca4a1f3-87a9-4626-bf8c-e9addd43e8fe",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "1825d474-67e7-4d95-8bee-3c9b572321c7",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "1735d495-7ab8-4539-88aa-5425c0ba58bd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_34.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_34.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200630": "CrushingHammer",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "96b7b3c0-b9db-4592-8f3a-0b3565e9dca1",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 34,
+    "200871": "std",
+    "201710": "ba67bda3-6f18-49dd-bec6-d7aac575543e",
+    "201730": [
+      "daniel",
+      "juji",
+      "otis",
+      "xy0card12",
+      "cammie",
+      "logan",
+      "penelope"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "75b135df-ae6a-455f-af15-c7508313b47a",
+    "10020": "016op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Poochyena.Name$$$",
+    "10190": 35,
+    "200260": 378,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Poochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "d44f6340-aaf8-4067-996c-cdc4b9e6c193",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "cba8c35d-0c1d-4bf6-b659-938f36969bd3",
+    "201730": [
+      "xy0card8",
+      "cammie"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "24aa786b-d56f-4bd1-b6bd-2ac32ee0400d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Weedle.Name$$$",
+    "10190": 35,
+    "200260": 260,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 40,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Weedle",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.StringShot.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.StringShot.GameText$$$",
+        "abilityID": "f64df754-2bb0-45cc-ba36-9982d9a8e4cb",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "24aa786b-d56f-4bd1-b6bd-2ac32ee0400d",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5a7d7eed-f40f-4b32-9717-c435f342ab2c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Farfetchd.Name$$$",
+    "10190": 35,
+    "200260": 218,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Farfetchd",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Slash.GameText$$$",
+        "abilityID": "d1320eff-8b7f-4abf-a2a0-449d9573442e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "5a7d7eed-f40f-4b32-9717-c435f342ab2c",
+    "201730": [
+      "xy0card12",
+      "zach"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4ed7110b-9a30-4df3-8121-2ce8c6c381ba",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snorlax.Name$$$",
+    "10190": 35,
+    "200260": 231,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 120,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Snorlax",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 4
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Strength.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Strength.GameText$$$",
+        "abilityID": "3b30ccad-9dd4-4137-819a-6e5a2b53713c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.RockSmash.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.RockSmash.GameText$$$",
+        "abilityID": "8d4c8992-8823-4d7b-8f3a-7d01670c3126",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200800": 4,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4ed7110b-9a30-4df3-8121-2ce8c6c381ba",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "cba8c35d-0c1d-4bf6-b659-938f36969bd3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Poochyena.Name$$$",
+    "10190": 35,
+    "200260": 378,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Darkness"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "Psychic",
+    "200630": "Poochyena",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Darkness": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Bite.GameText$$$",
+        "abilityID": "d44f6340-aaf8-4067-996c-cdc4b9e6c193",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "cba8c35d-0c1d-4bf6-b659-938f36969bd3",
+    "201730": [
+      "xy0card8",
+      "cammie"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ec001b1e-524b-4016-80b2-7bf48c9d224c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bunnelby.Name$$$",
+    "10190": 35,
+    "200260": 370,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Bunnelby",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Tackle.GameText$$$",
+        "abilityID": "0940bad1-ef44-4001-abbd-d48b0133d26e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ec001b1e-524b-4016-80b2-7bf48c9d224c",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "75fbb2f3-bd8e-49e2-8c00-4db6dfdd621f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_38.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_38.GameText$$$",
+    "200550": "Common",
+    "200580": "XY0",
+    "200630": "Switch",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "c705ea80-85de-4af1-b06b-a17f7f50dd85",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 38,
+    "200871": "std",
+    "201710": "780c5e46-8af6-4383-8670-c815a32689f3",
+    "201730": [
+      "xy0card12",
+      "xy0card3",
+      "xy0card8",
+      "ella",
+      "mick",
+      "xybasicgreen"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0c0f2a87-d923-49b7-b1ec-9338137ccaa0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Slugma.Name$$$",
+    "10190": 35,
+    "200260": 345,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "Slugma",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.Combustion.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Combustion.GameText$$$",
+        "abilityID": "b0a4ff94-6828-4709-bf39-79500be8a534",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "0c0f2a87-d923-49b7-b1ec-9338137ccaa0",
+    "201730": [
+      "xy0card8",
+      "xybasicred"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8e272088-943b-492b-beae-42a25abc2ebc",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Bisharp.Name$$$",
+    "10190": 35,
+    "200260": 145,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200630": "Bisharp",
+    "200640": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.WickedJab.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.WickedJab.GameText$$$",
+        "abilityID": "e5646cb9-9c0f-45c5-b921-e0a213c4e76e",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Metal": 1
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.MetalClaw.GameText$$$",
+        "abilityID": "8cdd9037-e5a2-4dfd-ae07-90ff6ae9ce3f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "8e272088-943b-492b-beae-42a25abc2ebc",
+    "201730": [
+      "xy0card12",
+      "rika"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ba085180-7002-478a-9843-9df17f869e1b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Granbull.Name$$$",
+    "10190": 35,
+    "200260": 291,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snubbull.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Stage1",
+    "200550": "Common",
+    "200570": [
+      "Fairy"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "Darkness",
+    "200630": "Granbull",
+    "200640": "Snubbull",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Fairy": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "39eb731b-e04d-44b5-838c-2e40ddf9a80b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2,
+          "Fairy": 1
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.DoubleStomp.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW1.DoubleStomp.GameText$$$",
+        "abilityID": "e2b13385-fdab-45e5-a3f0-0e9931de1cb8",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 3,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ba085180-7002-478a-9843-9df17f869e1b",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "80eeff3e-c882-4b01-b9a9-12f0a4b263d7",
+    "10020": "034op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_34.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_34.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "CrushingHammer",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "96b7b3c0-b9db-4592-8f3a-0b3565e9dca1",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 34,
+    "200871": "op",
+    "201710": "ba67bda3-6f18-49dd-bec6-d7aac575543e",
+    "201730": [
+      "daniel",
+      "juji",
+      "otis",
+      "xy0card12",
+      "cammie",
+      "logan",
+      "penelope"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "e19ff9af-3374-4fbc-a561-e21c63a5639b",
+    "10020": "019op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pawniard.Name$$$",
+    "10190": 35,
+    "200260": 145,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Psychic",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Pawniard",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Metal": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Pierce.GameText$$$",
+        "abilityID": "d70e07eb-16e8-4d28-8cca-84763f373410",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Cut.GameText$$$",
+        "abilityID": "04bb7119-0ece-43af-a321-7911747a6860",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "8da5713c-fcf4-4645-9613-af1ab407c272",
+    "201730": [
+      "xy0card12",
+      "rika"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "a2dad6ec-c760-4bd5-bd65-416ca3e9be13",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Braixen.Name$$$",
+    "10190": 35,
+    "200260": 369,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fennekin.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200630": "Braixen",
+    "200640": "Fennekin",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FlameTail.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FlameTail.GameText$$$",
+        "abilityID": "a793554c-86de-4726-b170-a4d19e4b578c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Fire": 1,
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Firebreathing.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Firebreathing20.GameText$$$",
+        "abilityID": "cd4bc81e-a935-4210-a698-59d4a7c0268d",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a2dad6ec-c760-4bd5-bd65-416ca3e9be13",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f843f6c9-f414-48d8-86fa-a081e9ea1c79",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Greninja.Name$$$",
+    "10190": 35,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 140,
+    "200540": "Stage2",
+    "200550": "Rare",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Greninja",
+    "200640": "Frogadier",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.MatBlock.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.MatBlock.GameText$$$",
+        "abilityID": "1f90c091-9279-42a0-b6e1-f715a334e26b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.AquaEdge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SM1.AquaEdge.GameText$$$",
+        "abilityID": "4c55bd50-dba1-441b-9045-bc4d5c7adc8b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "f843f6c9-f414-48d8-86fa-a081e9ea1c79",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "9311104c-3810-47b0-a852-ab139d677528",
+    "10020": "036op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_36.Name$$$",
+    "10190": 35,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY0.trainercards.XY0_36.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "XY0",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "PokemonCatcher",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "8acbcced-226f-4a36-a8b6-baec9ffe82e8",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 36,
+    "200871": "op",
+    "201710": "c6690f13-f077-4196-9f58-bd984eaff330",
+    "201730": [
+      "xy0card8",
+      "brittney"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "5df93c07-3dcb-47c4-ad47-cc781e033a93",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Fletchling.Name$$$",
+    "10190": 35,
+    "200260": 373,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Fletchling",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.RazorWind.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW7.RazorWind.GameText$$$",
+        "abilityID": "9d7dc5e4-0415-4a48-ad3e-3135e3150fcc",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 31,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201610": 1,
+    "201710": "5df93c07-3dcb-47c4-ad47-cc781e033a93",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0689c890-4b12-4172-a7af-cfcfacae22b6",
+    "10020": "022op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snubbull.Name$$$",
+    "10190": 35,
+    "200260": 291,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fairy"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "Darkness",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "Snubbull",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Fairy": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Headbutt.GameText$$$",
+        "abilityID": "19fdf071-b241-4ea4-aea5-2fa6d13b7e8f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200800": 2,
+    "200820": 2,
+    "200830": 20,
+    "200871": "op",
+    "201610": 1,
+    "201710": "0146702b-46a6-436d-9409-27cbd157d51c",
+    "201730": [
+      "xy0card3"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "4efeceaa-3295-4bcb-b5c7-b48bebf2edf1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Furfrou.Name$$$",
+    "10190": 35,
+    "200260": 375,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Furfrou",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.DV.TightJaw.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY0.TightJaw.GameText$$$",
+        "abilityID": "a30f16d8-2342-4cad-bc22-a517165eddce",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 50,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TATM.SharpFang.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "c73a9c0a-1e7f-4625-8d14-29856bd3f6e1",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 32,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "a492016f-8e42-4a90-a7d5-3ced434176cd",
+    "201730": [
+      "xy0card8"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "55a2a838-4bb6-42fa-b77c-b769708fff43",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Panpour.Name$$$",
+    "10190": 35,
+    "200260": 22,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Panpour",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.GameText$$$",
+        "abilityID": "c89866ee-2417-4075-9dd4-eeb22ab33eb9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes10.GameText$$$",
+        "abilityID": "9ea3aac0-ccce-4a37-9905-432ea49e7589",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "55a2a838-4bb6-42fa-b77c-b769708fff43",
+    "201730": [
+      "xy0card12"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "cffc58e1-9784-485e-9b9e-df22ce3a9008",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Pansage.Name$$$",
+    "10190": 35,
+    "200260": 23,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "XY0",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200630": "Pansage",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Collect.GameText$$$",
+        "abilityID": "7f2c50b2-c483-4107-98bc-67d2e4ea37d3",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.FurySwipes10.GameText$$$",
+        "abilityID": "af91ccd7-64de-499c-b168-6b57f5e04311",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "cffc58e1-9784-485e-9b9e-df22ce3a9008",
+    "201730": [
+      "xy0card3",
+      "xybasicgreen"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "cc6e4638-8717-4647-b676-54e007f0d089",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.XY0Card3PCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.xy0.pcd.card3.name$$$",
+    "10190": 35,
+    "10540": "Decks",
+    "200580": "XY0",
+    "200871": "XY0Card3PCD",
+    "201270": "xy0card3"
+  },
+  {
+    "10000": "7ed34dab-a4ce-45dc-85f4-30108a6816a1",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.XY0Card12PCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.xy0.pcd.card12.name$$$",
+    "10190": 35,
+    "10540": "Decks",
+    "200580": "XY0",
+    "200871": "XY0Card12PCD",
+    "201270": "xy0card12"
+  },
+  {
+    "10000": "f1ca0823-9c17-487c-8e52-fa3524796aae",
+    "10060": "$$$com.direwolfdigital.cake.data.products.pcds.XY0Card8PCD.Description$$$",
+    "10090": false,
+    "10140": "$$$product.xy0.pcd.card8.name$$$",
+    "10190": 35,
+    "10540": "Decks",
+    "200580": "XY0",
+    "200871": "XY0Card8PCD",
+    "201270": "xy0card8"
+  },
+  {
+    "10000": "06593221-de42-4310-9150-3838dcd27127",
+    "10020": "xy0card12",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card12Bundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card12Bundle.Name$$$",
+    "10190": 35,
+    "10540": "Bundles",
+    "200580": "XY0",
+    "200871": "FroakieDeck",
+    "201507": "ThemeDeck",
+    "201640": "7ed34dab-a4ce-45dc-85f4-30108a6816a1"
+  },
+  {
+    "10000": "f0b65bf1-e9cb-4013-96bf-3b475a5b6c5d",
+    "10020": "xy0card3",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card3Bundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card3Bundle.Name$$$",
+    "10190": 35,
+    "10540": "Bundles",
+    "200580": "XY0",
+    "200871": "ChespinDeck",
+    "201507": "ThemeDeck",
+    "201640": "cc6e4638-8717-4647-b676-54e007f0d089"
+  },
+  {
+    "10000": "594a13a1-9aac-40bc-8922-e792e09b8fa5",
+    "10020": "xy0card8",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card8Bundle.Description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.XY0Card8Bundle.Name$$$",
+    "10190": 35,
+    "10540": "Bundles",
+    "200580": "XY0",
+    "200871": "FennekinDeck",
+    "201507": "ThemeDeck",
+    "201640": "f1ca0823-9c17-487c-8e52-fa3524796aae"
+  }
+]

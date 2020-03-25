@@ -1,0 +1,533 @@
+{
+  "expansion": "TK-Excadrill",
+  "items": {
+    "289931265": {
+      "id": 289931265,
+      "name": "Lillipup",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 14,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Pickup",
+          "text": "Put an Item card from your discard pile into your hand.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289931266": {
+      "id": 289931266,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931267": {
+      "id": 289931267,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931268": {
+      "id": 289931268,
+      "name": "Energy Switch",
+      "cat": 2,
+      "kind": 40,
+      "no": 4,
+      "rarity": 2,
+      "text": "Move a basic Energy from 1 of your Pokémon to another of your Pokémon."
+    },
+    "289931269": {
+      "id": 289931269,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931270": {
+      "id": 289931270,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931271": {
+      "id": 289931271,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931272": {
+      "id": 289931272,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931273": {
+      "id": 289931273,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931274": {
+      "id": 289931274,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931275": {
+      "id": 289931275,
+      "name": "Timburr",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 13,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 30,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "289931276": {
+      "id": 289931276,
+      "name": "Audino",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 2,
+      "family": 1,
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289931277": {
+      "id": 289931277,
+      "name": "Drilbur",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 2,
+      "family": 141,
+      "hp": 70,
+      "weakness": 4,
+      "resistance": 5,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Hone Claws",
+          "text": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289931278": {
+      "id": 289931278,
+      "name": "Gurdurr",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 2,
+      "family": 13,
+      "preevo": "Timburr",
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Bulk Up",
+          "text": "During your next turn, each of this Pokémon's attacks does 20 more damage (before applying Weakness and Resistance).",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Pound",
+          "damage": 60,
+          "cost": [
+            7,
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "289931279": {
+      "id": 289931279,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "289931280": {
+      "id": 289931280,
+      "name": "PlusPower",
+      "cat": 2,
+      "kind": 40,
+      "no": 16,
+      "rarity": 2,
+      "text": "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+    },
+    "289932305": {
+      "id": 289932305,
+      "name": "Excadrill",
+      "cat": 1,
+      "kind": 2,
+      "no": 17,
+      "rarity": 4,
+      "family": 141,
+      "preevo": "Drilbur",
+      "hp": 110,
+      "weakness": 4,
+      "resistance": 5,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": 30,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Drill Run",
+          "text": "Discard an Energy attached to the Defending Pokémon.",
+          "damage": 80,
+          "cost": [
+            7,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "289931282": {
+      "id": 289931282,
+      "name": "Audino",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 2,
+      "family": 1,
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289931283": {
+      "id": 289931283,
+      "name": "Herdier",
+      "cat": 1,
+      "kind": 2,
+      "no": 19,
+      "rarity": 2,
+      "family": 14,
+      "preevo": "Lillipup",
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw 3 cards.",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289931284": {
+      "id": 289931284,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 20,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931285": {
+      "id": 289931285,
+      "name": "Energy Search",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 1,
+      "text": "Search your deck for a basic Energy card, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "289931286": {
+      "id": 289931286,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931287": {
+      "id": 289931287,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 23,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "289931288": {
+      "id": 289931288,
+      "name": "Pokémon Communication",
+      "cat": 2,
+      "kind": 40,
+      "no": 24,
+      "rarity": 2,
+      "text": "Reveal a Pokémon in your hand and put it on top of your deck. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "289931289": {
+      "id": 289931289,
+      "name": "Drilbur",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 2,
+      "family": 141,
+      "hp": 70,
+      "weakness": 4,
+      "resistance": 5,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Hone Claws",
+          "text": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289931290": {
+      "id": 289931290,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 26,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931291": {
+      "id": 289931291,
+      "name": "Lillipup",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 14,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Pickup",
+          "text": "Put an Item card from your discard pile into your hand.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289931292": {
+      "id": 289931292,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 28,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "289931293": {
+      "id": 289931293,
+      "name": "Timburr",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 13,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 30,
+          "cost": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "289934366": {
+      "id": 289934366,
+      "name": "Excadrill",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 141,
+      "preevo": "Drilbur",
+      "hp": 110,
+      "weakness": 4,
+      "resistance": 5,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": 30,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Drill Run",
+          "text": "Discard an Energy attached to the Defending Pokémon.",
+          "damage": 80,
+          "cost": [
+            7,
+            7,
+            7
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

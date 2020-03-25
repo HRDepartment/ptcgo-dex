@@ -1,0 +1,291 @@
+[
+  {
+    "10000": "56b279e8-d76c-43a1-9976-0036f1c417d9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicFireEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "basicred",
+      "hgss1emberspark"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "5dad5503-a478-4f18-868b-975561bda637",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicWaterEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "basicblue",
+      "hgss1mindflood",
+      "hgss4verdantfrost",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e7de0d05-4678-43eb-9bb6-0c95b7a274f1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicLightningEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "basicyellow",
+      "hgss1emberspark"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "3e811816-e5bb-495c-a79d-fa5e7abb5143",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicMetalEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "hgss2steelsentinel",
+      "hgss3nightfall"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "519ec4e7-6fd1-4981-b083-ede11760a74d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicGrassEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "basicgreen",
+      "hgss1growthclash",
+      "hgss2steelsentinel",
+      "hgss3daybreak",
+      "hgss4verdantfrost"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "300ab13a-62a5-463c-bab4-7e4e5bfc9894",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicPsychicEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "hgss1mindflood",
+      "hgss2chaoscontrol",
+      "hgss3daybreak",
+      "hgss4royalguard"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "005df635-cbcb-4a84-88e2-3873d044a02c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicFightingEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "hgss1growthclash",
+      "hgss2chaoscontrol",
+      "hgss2steelsentinel",
+      "hgss4royalguard"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "dc37ef32-c57b-4f9a-87ab-e24afec6dc5b",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.HGSS_Energy.energy.BasicDarknessEnergy_HGSS.Name$$$",
+    "10190": 37,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "HGSS_Energy",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "hgss2chaoscontrol",
+      "hgss3nightfall"
+    ],
+    "202080": 201
+  }
+]

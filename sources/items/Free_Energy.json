@@ -1,0 +1,333 @@
+[
+  {
+    "10000": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicFairyEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "201730": [
+      "zach"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicPsychicEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "ali",
+      "penelope",
+      "zach"
+    ],
+    "202080": 200
+  },
+  {
+    "10000": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "basicblue",
+      "calvin",
+      "cammie",
+      "penelope",
+      "zach",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicLightningEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "daniel",
+      "grayson",
+      "kendall",
+      "zach",
+      "newPlayerDeck"
+    ],
+    "202080": 200
+  },
+  {
+    "10000": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicFightingEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "basicorange",
+      "daniel",
+      "ella",
+      "juji",
+      "nathan",
+      "tutorialdecks",
+      "zach",
+      "newEllaDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d5e419e3-86db-4794-a839-057a367a5986",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicMetalEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "rika",
+      "zach",
+      "tutorialdecks",
+      "newZachDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicGrassEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "logan",
+      "nathan",
+      "otis",
+      "tyson",
+      "zach",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicFireEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "brittney",
+      "mick",
+      "rika",
+      "tyson",
+      "zach"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicDarknessEnergy.Name$$$",
+    "10190": 1,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "Free_Energy",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "cammie",
+      "kendall",
+      "otis",
+      "zach",
+      "newOtisDeck"
+    ],
+    "202080": 201
+  }
+]

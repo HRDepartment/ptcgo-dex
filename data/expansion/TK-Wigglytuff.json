@@ -1,0 +1,618 @@
+{
+  "expansion": "TK-Wigglytuff",
+  "items": {
+    "324534273": {
+      "id": 324534273,
+      "name": "Swirlix",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 379,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "324534274": {
+      "id": 324534274,
+      "name": "Pidgeotto",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 2,
+      "family": 303,
+      "preevo": "Pidgey",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sand-Attack",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Ambush",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324534275": {
+      "id": 324534275,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534276": {
+      "id": 324534276,
+      "name": "Sentret",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 324,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tail Smack",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324534277": {
+      "id": 324534277,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534278": {
+      "id": 324534278,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534279": {
+      "id": 324534279,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534280": {
+      "id": 324534280,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534281": {
+      "id": 324534281,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534282": {
+      "id": 324534282,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534283": {
+      "id": 324534283,
+      "name": "Pidgey",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 303,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Peck Off",
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "324534284": {
+      "id": 324534284,
+      "name": "Jigglypuff",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 160,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Heartfelt Song",
+          "text": "Discard a {D} Energy attached to your opponent's Active Pokémon.",
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "324534285": {
+      "id": 324534285,
+      "name": "Clefairy",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 240,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Moonlight",
+          "text": "Heal 30 damage from this Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Pound",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "324534286": {
+      "id": 324534286,
+      "name": "Wigglytuff",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 3,
+      "family": 160,
+      "preevo": "Jigglypuff",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Balloon Barrage",
+          "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Double-edge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 90,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "324534287": {
+      "id": 324534287,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "324534288": {
+      "id": 324534288,
+      "name": "Clefable",
+      "cat": 1,
+      "kind": 2,
+      "no": 16,
+      "rarity": 2,
+      "family": 240,
+      "preevo": "Clefairy",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Follow Me",
+          "text": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Moonblast",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "324534289": {
+      "id": 324534289,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534290": {
+      "id": 324534290,
+      "name": "Swirlix",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 379,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "324534291": {
+      "id": 324534291,
+      "name": "Clefairy",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "rarity": 1,
+      "family": 240,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Moonlight",
+          "text": "Heal 30 damage from this Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Pound",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "324534292": {
+      "id": 324534292,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 20,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "324534293": {
+      "id": 324534293,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 21,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534294": {
+      "id": 324534294,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534295": {
+      "id": 324534295,
+      "name": "Pidgeotto",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 2,
+      "family": 303,
+      "preevo": "Pidgey",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sand-Attack",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Ambush",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "324534296": {
+      "id": 324534296,
+      "name": "Trevor",
+      "cat": 2,
+      "kind": 41,
+      "no": 24,
+      "colNo": "24",
+      "rarity": 2,
+      "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "324534297": {
+      "id": 324534297,
+      "name": "Jigglypuff",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 1,
+      "family": 160,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Heartfelt Song",
+          "text": "Discard a {D} Energy attached to your opponent's Active Pokémon.",
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "324534298": {
+      "id": 324534298,
+      "name": "Tierno",
+      "cat": 2,
+      "kind": 41,
+      "no": 26,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "324534299": {
+      "id": 324534299,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 27,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "324534300": {
+      "id": 324534300,
+      "name": "Clefable",
+      "cat": 1,
+      "kind": 2,
+      "no": 28,
+      "rarity": 2,
+      "family": 240,
+      "preevo": "Clefairy",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Follow Me",
+          "text": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Moonblast",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "324534301": {
+      "id": 324534301,
+      "name": "Pidgey",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 303,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Peck Off",
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "324537374": {
+      "id": 324537374,
+      "name": "Wigglytuff",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 160,
+      "preevo": "Jigglypuff",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Balloon Barrage",
+          "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Double-edge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": 90,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

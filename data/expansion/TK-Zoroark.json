@@ -1,0 +1,592 @@
+{
+  "expansion": "TK-Zoroark",
+  "items": {
+    "289406977": {
+      "id": 289406977,
+      "name": "Purrloin",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 17,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Slash",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406978": {
+      "id": 289406978,
+      "name": "Watchog",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 2,
+      "family": 25,
+      "preevo": "Patrat",
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "text": "The Defending Pokémon is now Confused.",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Hyper Fang",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 60,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406979": {
+      "id": 289406979,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406980": {
+      "id": 289406980,
+      "name": "Minccino",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 5,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289406981": {
+      "id": 289406981,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406982": {
+      "id": 289406982,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406983": {
+      "id": 289406983,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406984": {
+      "id": 289406984,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406985": {
+      "id": 289406985,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406986": {
+      "id": 289406986,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406987": {
+      "id": 289406987,
+      "name": "PlusPower",
+      "cat": 2,
+      "kind": 40,
+      "no": 11,
+      "rarity": 2,
+      "text": "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+    },
+    "289406988": {
+      "id": 289406988,
+      "name": "Patrat",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 25,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406989": {
+      "id": 289406989,
+      "name": "Zorua",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 36,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406990": {
+      "id": 289406990,
+      "name": "Pidove",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 26,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289406991": {
+      "id": 289406991,
+      "name": "Tranquill",
+      "cat": 1,
+      "kind": 2,
+      "no": 15,
+      "rarity": 2,
+      "family": 26,
+      "preevo": "Pidove",
+      "hp": 70,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gust",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406992": {
+      "id": 289406992,
+      "name": "Energy Retrieval",
+      "cat": 2,
+      "kind": 40,
+      "no": 16,
+      "rarity": 2,
+      "text": "Put 2 basic Energy cards from your discard pile into your hand."
+    },
+    "289408017": {
+      "id": 289408017,
+      "name": "Zoroark",
+      "cat": 1,
+      "kind": 2,
+      "no": 17,
+      "rarity": 4,
+      "family": 36,
+      "preevo": "Zorua",
+      "hp": 100,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Night Daze",
+          "damage": 80,
+          "cost": [
+            8,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289406994": {
+      "id": 289406994,
+      "name": "Pokémon Communication",
+      "cat": 2,
+      "kind": 40,
+      "no": 18,
+      "rarity": 2,
+      "text": "Reveal a Pokémon in your hand and put it on top of your deck. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "289406995": {
+      "id": 289406995,
+      "name": "Minccino",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "rarity": 1,
+      "family": 5,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289406996": {
+      "id": 289406996,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 20,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406997": {
+      "id": 289406997,
+      "name": "Pidove",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 26,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "289406998": {
+      "id": 289406998,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289406999": {
+      "id": 289406999,
+      "name": "Zorua",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 36,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289407000": {
+      "id": 289407000,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 24,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289407001": {
+      "id": 289407001,
+      "name": "Purrloin",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 1,
+      "family": 17,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Slash",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289407002": {
+      "id": 289407002,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 26,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289407003": {
+      "id": 289407003,
+      "name": "Energy Search",
+      "cat": 2,
+      "kind": 40,
+      "no": 27,
+      "rarity": 1,
+      "text": "Search your deck for a basic Energy card, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "289407004": {
+      "id": 289407004,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 28,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "289407005": {
+      "id": 289407005,
+      "name": "Patrat",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 25,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "289410078": {
+      "id": 289410078,
+      "name": "Zoroark",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 36,
+      "preevo": "Zorua",
+      "hp": 100,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Night Daze",
+          "damage": 80,
+          "cost": [
+            8,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "NightHunterBundle": {
+      "id": 289464320,
+      "name": "Night Hunter",
+      "cat": 15,
+      "asset": "NightHunterBundle",
+      "description": "When you play the Pokémon TCG: Night Hunter theme deck, your opponents become the hunted! While Zoroark uses its Fury Swipes attack to stalk its next target, Excadrill zeroes in on the Defending Pokémon with its predatory Drill Run attack. Your opponents will learn to dread the night when you unleash the Night Hunter theme deck!"
+    },
+    "TK5NightHunterPCD": {
+      "id": 289464320,
+      "name": "Night Hunter",
+      "cat": 15,
+      "asset": "TK5NightHunterPCD",
+      "description": "When you play the Pokémon TCG: Night Hunter theme deck, your opponents become the hunted! While Zoroark uses its Fury Swipes attack to stalk its next target, Excadrill zeroes in on the Defending Pokémon with its predatory Drill Run attack. Your opponents will learn to dread the night when you unleash the Night Hunter theme deck!"
+    }
+  }
+}

@@ -1,0 +1,1193 @@
+[
+  {
+    "10000": "17b09d43-acb6-40a8-b378-1f36a746f6a2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Grookey.Name$$$",
+    "10190": 108,
+    "200260": 687,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Grookey",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Grookey.BranchPoke.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Grookey.BranchPoke.GameText$$$",
+        "abilityID": "9c827393-44d8-4083-84c8-30728256601f",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200790": "SWSH001",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "17b09d43-acb6-40a8-b378-1f36a746f6a2",
+    "202080": 201,
+    "202110": 1575590400000,
+    "202220": 1573839900000
+  },
+  {
+    "10000": "7264dd2a-38e5-4a91-84d1-213d32ede0c3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Sobble.Name$$$",
+    "10190": 108,
+    "200260": 701,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Sobble",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Sobble.Bind.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Sobble.Bind.GameText$$$",
+        "abilityID": "4c74c1c8-e717-42d0-9d54-a883f033eee3",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200790": "SWSH003",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "7264dd2a-38e5-4a91-84d1-213d32ede0c3",
+    "202080": 201,
+    "202110": 1575590400000,
+    "202220": 1573839900000
+  },
+  {
+    "10000": "fca869ef-04f1-45e6-a957-e335647a802a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Scorbunny.Name$$$",
+    "10190": 108,
+    "200260": 700,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Scorbunny",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Scorbunny.SuperSinge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Scorbunny.SuperSinge.GameText$$$",
+        "abilityID": "643f17f7-7b75-48ff-a0f9-eb39b5fb79ad",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200790": "SWSH002",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "fca869ef-04f1-45e6-a957-e335647a802a",
+    "202080": 201,
+    "202110": 1575590400000,
+    "202220": 1573839900000
+  },
+  {
+    "10000": "5caf7678-c6a2-44df-afef-ba9c71998ad6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.MeowthVMAX.Name$$$",
+    "10190": 108,
+    "200260": 709,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.MeowthV.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 300,
+    "200540": "VMAX",
+    "200550": "RarePromo",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Etched",
+    "200630": "MeowthVMAX",
+    "200640": "MeowthV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 4
+        },
+        "damage": 200,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.GMaxGoldRush.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.GMaxGoldRush.GameText$$$",
+        "abilityID": "e55be269-9c2f-4041-bb8b-121e329d74d1",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200790": "SWSH005",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "5caf7678-c6a2-44df-afef-ba9c71998ad6",
+    "202080": 201,
+    "202110": 1579219200000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1578073500000
+  },
+  {
+    "10000": "ae471b1b-58e0-4862-b483-8c1e02fd04f3",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.MeowthV.Name$$$",
+    "10190": 108,
+    "200260": 709,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 180,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Holo",
+    "200630": "MeowthV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.PayDay.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.PayDay.GameText$$$",
+        "abilityID": "3ccd5ecc-7a07-4c68-9efa-1d01f2ca8589",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 130,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SlashingClaw.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "355c848a-86cd-4533-be31-9c957a0c457d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200790": "SWSH004",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "ae471b1b-58e0-4862-b483-8c1e02fd04f3",
+    "202080": 201,
+    "202110": 1579219200000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1578073500000
+  },
+  {
+    "10000": "74b4df20-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.galarianponyta.name$$$",
+    "10190": 108,
+    "200260": 727,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Psychic"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Darkness"
+    ],
+    "200600": "Fighting",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "GalarianPonyta",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.GalarianPonyta.HealPulse.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.GalarianPonyta.HealPulse.GameText$$$",
+        "abilityID": "9bdaf4b1-bf7e-4a94-8e41-93ab8316a5bc",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Psychic": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.GalarianPonyta.Flop.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "bf6ece00-513b-46b1-8e6a-c13cf6a52266",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200790": "SWSH013",
+    "200800": 1,
+    "200820": 2,
+    "200830": 30,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "74b4df20-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1582243200000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "741a25c0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.morpeko.name$$$",
+    "10190": 108,
+    "200260": 309,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Morpeko",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Lightning": 1,
+          "Colorless": 2
+        },
+        "damage": 60,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.sm2.thundershock.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.sm2.thundershock.gametext$$$",
+        "abilityID": "af6ca8ac-b409-4938-add8-67fd01f2daa4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200790": "SWSH012",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "741a25c0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1582243200000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "72e946e0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.gossifleur.name$$$",
+    "10190": 108,
+    "200260": 713,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Gossifleur",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Gossifleur.Sing.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Gossifleur.Sing.GameText$$$",
+        "abilityID": "9b15f68e-a0f9-41ca-aacb-188899917e3a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200790": "SWSH010",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "72e946e0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1582243200000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "d19c04b5-b0d2-4d47-9c1e-65301192d2ea",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.GalarianPerrserker.Name$$$",
+    "10190": 108,
+    "200260": 739,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.GalarianMeowth.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 120,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200570": [
+      "Metal"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "Grass",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "GalarianPerrserker",
+    "200640": "GalarianMeowth",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Metal": 2
+        },
+        "damage": 70,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.GalarianPerrserker.MetalClaw.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "b0308e89-016f-4123-895f-577598dae997",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilitySteelySpirit.gametext$$$",
+        "abilityID": "11c6c8da-95ce-4bcc-b56e-82f5b4f0d546",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200790": "SWSH008",
+    "200800": 2,
+    "200820": 2,
+    "200830": 30,
+    "200871": "std",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "c582f12a-159e-4358-9cc1-eaab885dfd77",
+    "202080": 201,
+    "202110": 1582268400000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "c924e3d3-391c-423f-b781-8506c0cf9507",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frosmoth.Name$$$",
+    "10190": 108,
+    "200260": 721,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Snom.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RarePromo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Metal"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Frosmoth",
+    "200640": "Snom",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Frosmoth.AuroraBeam.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "cf71c42d-5cd1-4c37-9332-56e26829ebf7",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityIceDance.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityIceDance.GameText$$$",
+        "abilityID": "1848e280-0345-4d1e-80c2-1db252d051d3",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200790": "SWSH007",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "20052d60-9f13-4ab8-becf-afb3a800f7ae",
+    "202080": 201,
+    "202110": 1582268400000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "c268311c-aad5-434f-88e1-735f15305036",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Cinccino.Name$$$",
+    "10190": 108,
+    "200260": 5,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Minccino.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "RareHolo",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Cinccino",
+    "200640": "Minccino",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Cinccino.EnergyAssist.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Cinccino.EnergyAssist.GameText$$$",
+        "abilityID": "4de2d4f9-faac-4ef0-8c00-96e9c5568b76",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityMakeDo.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityMakeDo.gametext$$$",
+        "abilityID": "13cef4d9-c636-410c-a6da-fbd27fa38f34",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200790": "SWSH009",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "1d4eaa25-beaf-4502-9ad8-b398fbc16f57",
+    "202080": 201,
+    "202110": 1582268400000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "610996b3-f77e-4ef5-b81b-69539ec769be",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Rillaboom.Name$$$",
+    "10190": 108,
+    "200260": 687,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Thwackey.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 170,
+    "200540": "Stage2",
+    "200550": "RarePromo",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "SwHolo",
+    "200620": "Holo",
+    "200630": "Rillaboom",
+    "200640": "Thwackey",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 3
+        },
+        "damage": 140,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Rillaboom.HammerIn.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "1c30b5c3-2150-41e1-bfa4-681ddc167eb1",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityVoltageBeat.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityVoltageBeat.GameText$$$",
+        "abilityID": "34b20755-81e9-4407-ae14-854c02cb1bdc",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200790": "SWSH006",
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "adc5377b-42c5-4cdb-b7c4-cb619be0aaea",
+    "202080": 201,
+    "202110": 1582268400000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "737978f0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.wooloo.name$$$",
+    "10190": 108,
+    "200260": 747,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Wooloo",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Wooloo.DefenseCurl.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Wooloo.DefenseCurl.GameText$$$",
+        "abilityID": "e14b72a3-d3b0-42a6-88ac-6a56164007cf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.Wooloo.Headbutt.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "c4236463-8746-4beb-9efa-ff2eac12b00a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200790": "SWSH011",
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": false,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "737978f0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1582243200000,
+    "202220": 1581011100000
+  },
+  {
+    "10000": "764b84b0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.inteleonv.name$$$",
+    "10190": 108,
+    "200260": 750,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 200,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Holo",
+    "200630": "InteleonV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.InteleonV.SnipeShot.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.InteleonV.SnipeShot.GameText$$$",
+        "abilityID": "0a79e3a2-a886-465e-96ad-3bc92e652b02",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 130,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.InteleonV.AquaReport.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.InteleonV.AquaReport.GameText$$$",
+        "abilityID": "de5344b8-5c2a-4369-bfc9-0f772869290c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200790": "SWSH016",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": true,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "764b84b0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1584662400000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1582825500000
+  },
+  {
+    "10000": "75deb920-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.cinderacev.name$$$",
+    "10190": 108,
+    "200260": 749,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 210,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Holo",
+    "200630": "CinderaceV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Fire": 2
+        },
+        "damage": 140,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.CinderaceV.CrimsonLegs.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "3db2cd1f-3490-461d-ae0e-d8d910f21242",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.FieldRunner.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.promo_swsh.abilityfieldrunner.gametext$$$",
+        "abilityID": "b52ff4c0-9bff-483b-ab09-79cbab5956d4",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200790": "SWSH015",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": true,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "75deb920-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1584662400000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1582825500000
+  },
+  {
+    "10000": "7543b1a0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.rillaboomv.name$$$",
+    "10190": 108,
+    "200260": 741,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 220,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Holo",
+    "200630": "RillaboomV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Grass": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.RillaboomV.ForestFeast.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.RillaboomV.ForestFeast.GameText$$$",
+        "abilityID": "3fcb9300-4209-436c-bf31-59322835bdf3",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Grass": 3
+        },
+        "damage": 220,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.RillaboomV.WoodHammer.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.RillaboomV.WoodHammer.GameText$$$",
+        "abilityID": "2de1919e-bff5-4c3a-ba01-4cdcde429306",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200790": "SWSH014",
+    "200800": 3,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201000": true,
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "7543b1a0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1584662400000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1582825500000
+  },
+  {
+    "10000": "76b47fb0-21fb-11ea-841c-1866da0cc068",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.toxtricityv.name$$$",
+    "10190": 108,
+    "200260": 751,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 210,
+    "200540": "Basic",
+    "200550": "RarePromo",
+    "200570": [
+      "Lightning"
+    ],
+    "200580": "Promo_SWSH",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200610": "SunPillar",
+    "200620": "Holo",
+    "200630": "ToxtricityV",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 0,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.ToxtricityV.Energize.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.ToxtricityV.Energize.GameText$$$",
+        "abilityID": "ed11863b-21c2-4d11-a9e5-4741072ec74a",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Lightning": 2,
+          "Colorless": 1
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.ToxtricityV.VenomSlap.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.Promo_SWSH.ToxtricityV.VenomSlap.GameText$$$",
+        "abilityID": "5d28e597-1a90-4be4-be79-52eb47099896",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200790": "SWSH017",
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "76b47fb0-21fb-11ea-841c-1866da0cc068",
+    "202080": 201,
+    "202110": 1584662400000,
+    "202200": [
+      "V"
+    ],
+    "202220": 1582825500000
+  }
+]

@@ -1,0 +1,424 @@
+{
+  "expansion": "TK-Lycanroc",
+  "items": {
+    "356515841": {
+      "id": 356515841,
+      "name": "Caterpie",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 321,
+      "hp": 50,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Nap",
+          "text": "Heal 20 damage from this Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Gnaw",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "356515844": {
+      "id": 356515844,
+      "name": "Trumbeak",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 2,
+      "family": 534,
+      "preevo": "Pikipek",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bullet Seed",
+          "text": "Flip 4 coins. This attack does 20 damage for each heads.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "356515845": {
+      "id": 356515845,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "356515851": {
+      "id": 356515851,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Growl",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Flap",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "356515852": {
+      "id": 356515852,
+      "name": "Yungoos",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "rarity": 1,
+      "family": 535,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "356515853": {
+      "id": 356515853,
+      "name": "Fletchinder",
+      "cat": 1,
+      "kind": 2,
+      "no": 13,
+      "rarity": 2,
+      "family": 373,
+      "preevo": "Fletchling",
+      "hp": 70,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Flap",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Razor Wind",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "356515854": {
+      "id": 356515854,
+      "name": "Rockruff",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 538,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Rock Throw",
+          "damage": 20,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "356515855": {
+      "id": 356515855,
+      "name": "Pikipek",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 534,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "356515856": {
+      "id": 356515856,
+      "name": "Lycanroc",
+      "cat": 1,
+      "kind": 2,
+      "no": 16,
+      "rarity": 3,
+      "family": 538,
+      "preevo": "Rockruff",
+      "hp": 110,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Claw Slash",
+          "damage": 80,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "356515858": {
+      "id": 356515858,
+      "name": "Makuhita",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 226,
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Strength",
+          "damage": 40,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "356515859": {
+      "id": 356515859,
+      "name": "Hau",
+      "cat": 2,
+      "kind": 41,
+      "no": 19,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "356515861": {
+      "id": 356515861,
+      "name": "Great Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 2,
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+    },
+    "356515862": {
+      "id": 356515862,
+      "name": "Toucannon",
+      "cat": 1,
+      "kind": 3,
+      "no": 22,
+      "rarity": 3,
+      "family": 534,
+      "preevo": "Trumbeak",
+      "hp": 140,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Echoed Voice",
+          "text": "During your next turn, this Pokémon's Echoed Voice attack does 60 more damage (before applying Weakness and Resistance).",
+          "damage": 60,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Beak Blast",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "356515863": {
+      "id": 356515863,
+      "name": "Hau",
+      "cat": 2,
+      "kind": 41,
+      "no": 23,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "356515865": {
+      "id": 356515865,
+      "name": "Great Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 25,
+      "rarity": 2,
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+    },
+    "356515867": {
+      "id": 356515867,
+      "name": "Big Malasada",
+      "cat": 2,
+      "kind": 40,
+      "no": 27,
+      "rarity": 2,
+      "text": "Heal 20 damage and remove a Special Condition from your Active Pokémon."
+    },
+    "356515869": {
+      "id": 356515869,
+      "name": "Rockruff",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 538,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Rock Throw",
+          "damage": 20,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "356518942": {
+      "id": 356518942,
+      "name": "Lycanroc",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 538,
+      "preevo": "Rockruff",
+      "hp": 110,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Claw Slash",
+          "damage": 80,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

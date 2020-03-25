@@ -1,0 +1,95 @@
+{
+  "expansion": "BLWEnergy",
+  "items": {
+    "296747009": {
+      "id": 296747009,
+      "name": "Darkness Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 1,
+      "rarity": 1,
+      "energy": [
+        8
+      ]
+    },
+    "296747011": {
+      "id": 296747011,
+      "name": "Fighting Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        7
+      ]
+    },
+    "296747012": {
+      "id": 296747012,
+      "name": "Fire Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 4,
+      "rarity": 1,
+      "energy": [
+        3
+      ]
+    },
+    "296747013": {
+      "id": 296747013,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "296747014": {
+      "id": 296747014,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "296747015": {
+      "id": 296747015,
+      "name": "Metal Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        9
+      ]
+    },
+    "296747016": {
+      "id": 296747016,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "296747017": {
+      "id": 296747017,
+      "name": "Water Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        4
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

@@ -1,0 +1,1463 @@
+[
+  {
+    "10000": "bc150eae-ed2c-4035-8829-eb5933c206b0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.WaterEnergy_XY0_42.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "xy0card12",
+      "xy2meowsticdeck",
+      "oceanscore",
+      "aurorablast",
+      "irontide",
+      "brittney",
+      "calvin",
+      "cammie",
+      "penelope",
+      "zach",
+      "xybasicblue",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "92f34740-db34-4600-be68-47abc4609b7f",
+    "10020": "003op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicFightingEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "xy1destructionrush",
+      "pangoroxy3deck",
+      "earthspulse",
+      "stoneheart",
+      "daniel",
+      "ella",
+      "juji",
+      "nathan",
+      "zach",
+      "battlerulerxy10pcd",
+      "zygardeexsummer2016"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "f5e5fe04-1d45-4d09-8512-5556d4f843ac",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FireEnergy_XY0_41.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "xy0card8",
+      "xy2helioliskdeck",
+      "oceanscore",
+      "aurorablast",
+      "mick",
+      "zach",
+      "xybasicred",
+      "burningspark",
+      "brittney",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "fc16fd75-d66c-4731-8c7c-a709e5042123",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FireEnergy_XY0_41.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "xy0card8",
+      "xy2helioliskdeck",
+      "oceanscore",
+      "aurorablast",
+      "mick",
+      "zach",
+      "xybasicred",
+      "burningspark",
+      "brittney",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6cec317a-beb8-47b3-86bc-084aaea22b77",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.WaterEnergy_XY0_42.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "xy0card12",
+      "xy2meowsticdeck",
+      "oceanscore",
+      "aurorablast",
+      "irontide",
+      "brittney",
+      "calvin",
+      "cammie",
+      "penelope",
+      "zach",
+      "xybasicblue",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f7e99396-866b-4b4f-9558-e9c2125e56c8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.MetalEnergy_XY0_44.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "xy0card12",
+      "irontide",
+      "rika",
+      "zach",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "fea8f906-76c5-4adf-852d-21afb0e95b4e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicLightningEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "xy2helioliskdeck",
+      "earthspulse",
+      "stormrider",
+      "daniel",
+      "grayson",
+      "kendall",
+      "zach",
+      "burningspark",
+      "brittney",
+      "xerneasexsummer2016",
+      "ringoflightningxy11pcd",
+      "newPlayerDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "00a5b19b-d201-44db-be78-ab5e67b68078",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.DarknessEnergy_XY0_43.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xy0card8",
+      "xy1destructionrush",
+      "pangoroxy3deck",
+      "brittney",
+      "cammie",
+      "kendall",
+      "otis",
+      "zach",
+      "nightstriker",
+      "yveltalexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6e13a3c8-6a73-4f45-8daa-ce9b1ba9925a",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicFightingEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "xy1destructionrush",
+      "pangoroxy3deck",
+      "earthspulse",
+      "stoneheart",
+      "daniel",
+      "ella",
+      "juji",
+      "nathan",
+      "zach",
+      "battlerulerxy10pcd",
+      "zygardeexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7b8cd4eb-4694-4b7d-9b2f-76e3584dbaac",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicPsychicEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xy1resilientlife",
+      "xy2meowsticdeck",
+      "ali",
+      "brittney",
+      "penelope",
+      "zach",
+      "nightstriker",
+      "ringoflightningxy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "16964ea8-d554-43bd-a898-3fbc474e8345",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicLightningEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "xy2helioliskdeck",
+      "earthspulse",
+      "stormrider",
+      "daniel",
+      "grayson",
+      "kendall",
+      "zach",
+      "burningspark",
+      "brittney",
+      "xerneasexsummer2016",
+      "ringoflightningxy11pcd",
+      "newPlayerDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "016510f7-89d0-497c-8a3c-c9c63a77f324",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.DarknessEnergy_XY0_43.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xy0card8",
+      "xy1destructionrush",
+      "pangoroxy3deck",
+      "brittney",
+      "cammie",
+      "kendall",
+      "otis",
+      "zach",
+      "nightstriker",
+      "yveltalexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "25bcf93f-4cd0-462b-a9e3-df5ae4edbe1c",
+    "10020": "009op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.WaterEnergy_XY0_42.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "xy0card12",
+      "xy2meowsticdeck",
+      "oceanscore",
+      "aurorablast",
+      "irontide",
+      "brittney",
+      "calvin",
+      "cammie",
+      "penelope",
+      "zach",
+      "xybasicblue",
+      "newCalvinDeck"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "ab98f8d0-09f5-4694-a27e-e34939d21e1d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.DarknessEnergy_XY0_43.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "yveltalexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f63e01e8-32ab-4918-bba5-4095fc6f5bc7",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FairyEnergy_XY0_45.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "201730": [
+      "xerneasexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2a724dab-0bd9-493f-8277-f28674aa08cc",
+    "10020": "002op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FairyEnergy_XY0_45.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "201730": [
+      "xy0card3",
+      "xy1resilientlife",
+      "sylveonxy3deck",
+      "logan",
+      "tyson",
+      "zach",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "31df1ec8-d322-412e-b77a-86b864cc21ff",
+    "10020": "007op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.MetalEnergy_XY0_44.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "xy0card12",
+      "irontide",
+      "rika",
+      "zach",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "cae7e637-da02-407a-97ca-8af33c26491a",
+    "10020": "005op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.GrassEnergy_XY0_40.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "xy0card3",
+      "sylveonxy3deck",
+      "stormrider",
+      "stoneheart",
+      "logan",
+      "nathan",
+      "otis",
+      "zach",
+      "xybasicgreen",
+      "tyson",
+      "battlerulerxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "655ca130-c91d-484d-b955-52cf7fa67511",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicFightingEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "FightingEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Fighting"
+        ]
+      ]
+    },
+    "201710": "4d2dab4b-70b7-4ae6-b8cf-622c299deda1",
+    "201730": [
+      "zygardeexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "46447e32-c327-4dfd-a831-35fae84deabb",
+    "10020": "006op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicLightningEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "xy2helioliskdeck",
+      "earthspulse",
+      "stormrider",
+      "daniel",
+      "grayson",
+      "kendall",
+      "zach",
+      "burningspark",
+      "brittney",
+      "xerneasexsummer2016",
+      "ringoflightningxy11pcd",
+      "newPlayerDeck"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "ef75c415-7c3c-4c31-8693-8a41ad83c2b2",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.GrassEnergy_XY0_40.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "xy0card3",
+      "sylveonxy3deck",
+      "stormrider",
+      "stoneheart",
+      "logan",
+      "nathan",
+      "otis",
+      "zach",
+      "xybasicgreen",
+      "tyson",
+      "battlerulerxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6711f2a7-aff6-4753-bb59-bc1c520fff4d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.WaterEnergy_XY0_42.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "xy0card12",
+      "xy2meowsticdeck",
+      "oceanscore",
+      "aurorablast",
+      "irontide",
+      "brittney",
+      "calvin",
+      "cammie",
+      "penelope",
+      "zach",
+      "xybasicblue",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "48fd7afd-9a4e-445f-bf7d-9edcc428e1ae",
+    "10020": "140op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FairyEnergy_XY0_45.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "201730": [
+      "xy0card3",
+      "xy1resilientlife",
+      "sylveonxy3deck",
+      "logan",
+      "tyson",
+      "zach",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "fc33013d-ff7d-4add-a4c8-b436b6f7a1bb",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.MetalEnergy_XY0_44.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "MetalEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Metal"
+        ]
+      ]
+    },
+    "201710": "d5e419e3-86db-4794-a839-057a367a5986",
+    "201730": [
+      "xy0card12",
+      "irontide",
+      "rika",
+      "zach",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d6c0ddaf-7fd2-428c-b39a-8c09cdd7c182",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FairyEnergy_XY0_45.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "FairyEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fairy"
+        ]
+      ]
+    },
+    "201710": "a45d570d-66b1-4858-9ce4-bbb6febb202f",
+    "201730": [
+      "xy0card3",
+      "xy1resilientlife",
+      "sylveonxy3deck",
+      "logan",
+      "tyson",
+      "zach",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "ed4dc328-f01b-4318-a333-936bd60ea81e",
+    "10020": "004op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FireEnergy_XY0_41.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "xy0card8",
+      "xy2helioliskdeck",
+      "oceanscore",
+      "aurorablast",
+      "mick",
+      "zach",
+      "xybasicred",
+      "burningspark",
+      "brittney",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "00788929-3a37-44c6-921d-45ec94895f82",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicLightningEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "LightningEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Lightning"
+        ]
+      ]
+    },
+    "201710": "a71dbd7c-950a-4cdf-9a1d-947e6493bee7",
+    "201730": [
+      "xy2helioliskdeck",
+      "earthspulse",
+      "stormrider",
+      "daniel",
+      "grayson",
+      "kendall",
+      "zach",
+      "burningspark",
+      "brittney",
+      "xerneasexsummer2016",
+      "ringoflightningxy11pcd",
+      "newPlayerDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7839b4fa-04a7-4941-b7db-e23b26b9242e",
+    "10020": "008op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicPsychicEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Thatch",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xy1resilientlife",
+      "xy2meowsticdeck",
+      "ali",
+      "brittney",
+      "penelope",
+      "zach",
+      "nightstriker",
+      "ringoflightningxy11pcd"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "a3adb221-6456-4a9d-96a2-0e3ae3a9ff82",
+    "10020": "001op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.DarknessEnergy_XY0_43.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "Rainbow",
+    "200620": "Reverse",
+    "200630": "DarknessEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "op",
+    "201040": {
+      "options": [
+        [
+          "Darkness"
+        ]
+      ]
+    },
+    "201710": "47fa7934-b1ec-4cf1-91bf-2349a09a32d6",
+    "201730": [
+      "xy0card8",
+      "xy1destructionrush",
+      "pangoroxy3deck",
+      "brittney",
+      "cammie",
+      "kendall",
+      "otis",
+      "zach",
+      "nightstriker",
+      "yveltalexsummer2016"
+    ],
+    "202080": 201,
+    "202200": [
+      "League"
+    ]
+  },
+  {
+    "10000": "b433e041-41fd-4a6b-abfa-d039c720aab8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.GrassEnergy_XY0_40.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "GrassEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Grass"
+        ]
+      ]
+    },
+    "201710": "535b8c5f-d909-4f3a-849f-66cdd8fc325e",
+    "201730": [
+      "xy0card3",
+      "sylveonxy3deck",
+      "stormrider",
+      "stoneheart",
+      "logan",
+      "nathan",
+      "otis",
+      "zach",
+      "xybasicgreen",
+      "tyson",
+      "battlerulerxy10pcd",
+      "xerneasexsummer2016"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "8aeb3a12-bb82-410d-a879-ded7529cae50",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicPsychicEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "ph",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xy1resilientlife",
+      "xy2meowsticdeck",
+      "ali",
+      "brittney",
+      "penelope",
+      "zach",
+      "nightstriker",
+      "ringoflightningxy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "7ee9dd2b-02ee-4a72-83fd-e38583b01fd4",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.FireEnergy_XY0_41.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "FireEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Fire"
+        ]
+      ]
+    },
+    "201710": "f849cfe0-b899-4f0c-b815-28bb87bae540",
+    "201730": [
+      "xy0card8",
+      "xy2helioliskdeck",
+      "oceanscore",
+      "aurorablast",
+      "mick",
+      "zach",
+      "xybasicred",
+      "burningspark",
+      "brittney",
+      "skyguardianxy10pcd",
+      "xerneasexsummer2016",
+      "gearsoffirexy11pcd"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "6ba6e0f1-4164-4231-b9c5-34421f75e977",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY_Energy.energy.BasicPsychicEnergy_XY.Name$$$",
+    "10190": 39,
+    "200300": "Energy",
+    "200520": true,
+    "200550": "Common",
+    "200580": "XY_Energy",
+    "200630": "PsychicEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Psychic"
+        ]
+      ]
+    },
+    "201710": "b9639877-62e5-4b6a-a7eb-ccf70aec7b1f",
+    "201730": [
+      "xy1resilientlife",
+      "xy2meowsticdeck",
+      "ali",
+      "brittney",
+      "penelope",
+      "zach",
+      "nightstriker",
+      "ringoflightningxy11pcd"
+    ],
+    "202080": 201
+  }
+]

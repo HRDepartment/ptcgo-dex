@@ -1,0 +1,439 @@
+{
+  "expansion": "TK-AlolanRaichu",
+  "items": {
+    "357040130": {
+      "id": 357040130,
+      "name": "Lightning Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        5
+      ]
+    },
+    "357040132": {
+      "id": 357040132,
+      "name": "Stufful",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 536,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "357040134": {
+      "id": 357040134,
+      "name": "Golbat",
+      "cat": 1,
+      "kind": 2,
+      "no": 6,
+      "rarity": 2,
+      "family": 243,
+      "preevo": "Zubat",
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "attacks": [
+        {
+          "name": "Super Poison Breath",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Acrobatics",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "357040139": {
+      "id": 357040139,
+      "name": "Zubat",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 243,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Astonish",
+          "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "357040141": {
+      "id": 357040141,
+      "name": "Spearow",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 338,
+      "hp": 60,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Peck Bugs",
+          "text": "If your opponent's Active Pokémon is a {G} Pokémon, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "357040142": {
+      "id": 357040142,
+      "name": "Pikachu",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 27,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Spark",
+          "text": "This attack does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 20,
+          "cost": [
+            1,
+            5
+          ]
+        }
+      ]
+    },
+    "357040143": {
+      "id": 357040143,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 2,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "357040144": {
+      "id": 357040144,
+      "name": "Grubbin",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 511,
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "357040145": {
+      "id": 357040145,
+      "name": "Alolan Raichu",
+      "cat": 1,
+      "kind": 2,
+      "no": 17,
+      "rarity": 3,
+      "family": 27,
+      "preevo": "Pikachu",
+      "hp": 110,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Electric Surfer",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            5
+          ]
+        }
+      ]
+    },
+    "357040146": {
+      "id": 357040146,
+      "name": "Bewear",
+      "cat": 1,
+      "kind": 2,
+      "no": 18,
+      "rarity": 3,
+      "family": 536,
+      "preevo": "Stufful",
+      "hp": 130,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Bear Hug",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Superpower",
+          "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "357040147": {
+      "id": 357040147,
+      "name": "Hau",
+      "cat": 2,
+      "kind": 41,
+      "no": 19,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "357040148": {
+      "id": 357040148,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 20,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "357040149": {
+      "id": 357040149,
+      "name": "Great Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 21,
+      "rarity": 2,
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+    },
+    "357040150": {
+      "id": 357040150,
+      "name": "Drowzee",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "family": 323,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Psychic Boom",
+          "text": "This attack does 10 damage times the amount of Energy attached to your opponent's Active Pokémon.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "357040151": {
+      "id": 357040151,
+      "name": "Hau",
+      "cat": 2,
+      "kind": 41,
+      "no": 23,
+      "rarity": 2,
+      "text": "Draw 3 cards."
+    },
+    "357040153": {
+      "id": 357040153,
+      "name": "Great Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 25,
+      "rarity": 2,
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+    },
+    "357040154": {
+      "id": 357040154,
+      "name": "Togedemaru",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 523,
+      "hp": 70,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Discharge",
+          "text": "Discard all {L} Energy from this Pokémon. This attack does 30 damage for each card you discarded in this way.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            5
+          ]
+        }
+      ]
+    },
+    "357040157": {
+      "id": 357040157,
+      "name": "Pikachu",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 27,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Spark",
+          "text": "This attack does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 20,
+          "cost": [
+            1,
+            5
+          ]
+        }
+      ]
+    },
+    "357043230": {
+      "id": 357043230,
+      "name": "Alolan Raichu",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 27,
+      "preevo": "Pikachu",
+      "hp": 110,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Electric Surfer",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            5
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {
+    "TK10Bundle": {
+      "id": 357097472,
+      "name": "Midnight Surfer",
+      "cat": 15,
+      "asset": "TK10Bundle",
+      "description": "Master the art of Pokémon battling with your favorite Pokémon—one card at a time! The Pokémon TCG: Sun & Moon Trainer Kit—Lycanroc & Alolan Raichu gets you playing from the very first card you draw. And with fun and powerful Pokémon at your side, you’ll be a Pokémon Trainer before you know it!\n\nThis kit contains everything you need to learn, train, and win! Play both decks against each other, then combine them to create one bigger deck where Lycanroc and Alolan Raichu battle side by side! Or test your deck at a Pokémon League near you and in the Pokémon TCG Online!"
+    }
+  }
+}

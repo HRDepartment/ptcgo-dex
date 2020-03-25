@@ -1,0 +1,625 @@
+{
+  "expansion": "TK-Latias",
+  "items": {
+    "325582849": {
+      "id": 325582849,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 1,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "325582850": {
+      "id": 325582850,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "325582851": {
+      "id": 325582851,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "325582852": {
+      "id": 325582852,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582853": {
+      "id": 325582853,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "325582854": {
+      "id": 325582854,
+      "name": "Lombre",
+      "cat": 1,
+      "kind": 2,
+      "no": 6,
+      "rarity": 2,
+      "family": 250,
+      "preevo": "Lotad",
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Beat",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582855": {
+      "id": 325582855,
+      "name": "Treecko",
+      "cat": 1,
+      "kind": 1,
+      "no": 7,
+      "rarity": 1,
+      "family": 265,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "325582856": {
+      "id": 325582856,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582857": {
+      "id": 325582857,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582858": {
+      "id": 325582858,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582859": {
+      "id": 325582859,
+      "name": "Lotad",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 250,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582860": {
+      "id": 325582860,
+      "name": "Tangrowth",
+      "cat": 1,
+      "kind": 2,
+      "no": 12,
+      "rarity": 3,
+      "family": 127,
+      "preevo": "Tangela",
+      "hp": 130,
+      "weakness": 3,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Mega Drain",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Grass Knot",
+          "text": "This attack does 10 more damage for each {C} in your opponent's Active Pokémon's Retreat Cost.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "325582861": {
+      "id": 325582861,
+      "name": "Tangela",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 127,
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Vine Whip",
+          "damage": 30,
+          "cost": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "325582862": {
+      "id": 325582862,
+      "name": "Latias",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 3,
+      "family": 316,
+      "hp": 100,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "damage": 20,
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psychic Prism",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            6,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582863": {
+      "id": 325582863,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 15,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "325582864": {
+      "id": 325582864,
+      "name": "Surskit",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 66,
+      "hp": 50,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "325582865": {
+      "id": 325582865,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582866": {
+      "id": 325582866,
+      "name": "Grovyle",
+      "cat": 1,
+      "kind": 2,
+      "no": 18,
+      "rarity": 2,
+      "family": 265,
+      "preevo": "Treecko",
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Agility",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+          "damage": 40,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "325582867": {
+      "id": 325582867,
+      "name": "Grass Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 19,
+      "rarity": 1,
+      "energy": [
+        2
+      ]
+    },
+    "325582868": {
+      "id": 325582868,
+      "name": "Acro Bike",
+      "cat": 2,
+      "kind": 40,
+      "no": 20,
+      "rarity": 2,
+      "text": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card."
+    },
+    "325582869": {
+      "id": 325582869,
+      "name": "Lombre",
+      "cat": 1,
+      "kind": 2,
+      "no": 21,
+      "rarity": 2,
+      "family": 250,
+      "preevo": "Lotad",
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Beat",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582870": {
+      "id": 325582870,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 22,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582871": {
+      "id": 325582871,
+      "name": "Lotad",
+      "cat": 1,
+      "kind": 1,
+      "no": 23,
+      "rarity": 1,
+      "family": 250,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "325582872": {
+      "id": 325582872,
+      "name": "Treecko",
+      "cat": 1,
+      "kind": 1,
+      "no": 24,
+      "rarity": 1,
+      "family": 265,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "325582873": {
+      "id": 325582873,
+      "name": "Tangrowth",
+      "cat": 1,
+      "kind": 2,
+      "no": 25,
+      "rarity": 3,
+      "family": 127,
+      "preevo": "Tangela",
+      "hp": 130,
+      "weakness": 3,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Mega Drain",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Grass Knot",
+          "text": "This attack does 10 more damage for each {C} in your opponent's Active Pokémon's Retreat Cost.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "325582874": {
+      "id": 325582874,
+      "name": "Tangela",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "rarity": 1,
+      "family": 127,
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Vine Whip",
+          "damage": 30,
+          "cost": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "325582875": {
+      "id": 325582875,
+      "name": "Grovyle",
+      "cat": 1,
+      "kind": 2,
+      "no": 27,
+      "rarity": 2,
+      "family": 265,
+      "preevo": "Treecko",
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Agility",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+          "damage": 40,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "325582876": {
+      "id": 325582876,
+      "name": "Psychic Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 28,
+      "rarity": 1,
+      "energy": [
+        6
+      ]
+    },
+    "325582877": {
+      "id": 325582877,
+      "name": "Acro Bike",
+      "cat": 2,
+      "kind": 40,
+      "no": 29,
+      "rarity": 2,
+      "text": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card."
+    },
+    "325585950": {
+      "id": 325585950,
+      "name": "Latias",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 4,
+      "family": 316,
+      "hp": 100,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "damage": 20,
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psychic Prism",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            6,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

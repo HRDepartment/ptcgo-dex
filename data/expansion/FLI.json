@@ -1,0 +1,7722 @@
+{
+  "expansion": "FLI",
+  "items": {
+    "339214337": {
+      "id": 339214337,
+      "name": "Exeggcute",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 54,
+      "hp": 40,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Multiply",
+          "text": "Search your deck for Exeggcute and put it onto your Bench. Then, shuffle your deck.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339216385": {
+      "id": 339216385,
+      "name": "Exeggcute",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 54,
+      "hp": 40,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Multiply",
+          "text": "Search your deck for Exeggcute and put it onto your Bench. Then, shuffle your deck.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339214338": {
+      "id": 339214338,
+      "name": "Alolan Exeggutor",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 3,
+      "family": 54,
+      "preevo": "Exeggcute",
+      "hp": 160,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Tropical Shake",
+          "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339216386": {
+      "id": 339216386,
+      "name": "Alolan Exeggutor",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 3,
+      "family": 54,
+      "preevo": "Exeggcute",
+      "hp": 160,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Tropical Shake",
+          "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339217410": {
+      "id": 339217410,
+      "name": "Alolan Exeggutor",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "rarity": 3,
+      "family": 54,
+      "preevo": "Exeggcute",
+      "hp": 160,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Tropical Shake",
+          "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339224578": {
+      "id": 339224578,
+      "name": "Alolan Exeggutor",
+      "cat": 1,
+      "kind": 2,
+      "no": 2,
+      "colNo": "2a",
+      "rarity": 8,
+      "flags": 4096,
+      "family": 54,
+      "preevo": "Exeggcute",
+      "hp": 160,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Tropical Shake",
+          "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339214339": {
+      "id": 339214339,
+      "name": "Snover",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "rarity": 1,
+      "family": 37,
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Ice Shard",
+          "text": "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 40 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339216387": {
+      "id": 339216387,
+      "name": "Snover",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "rarity": 1,
+      "family": 37,
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Ice Shard",
+          "text": "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 40 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339214340": {
+      "id": 339214340,
+      "name": "Abomasnow",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 3,
+      "family": 37,
+      "preevo": "Snover",
+      "hp": 130,
+      "weakness": 3,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Blessings of the Frost",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach a {G} Energy card from your discard pile to 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Hammer",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339216388": {
+      "id": 339216388,
+      "name": "Abomasnow",
+      "cat": 1,
+      "kind": 2,
+      "no": 4,
+      "rarity": 3,
+      "family": 37,
+      "preevo": "Snover",
+      "hp": 130,
+      "weakness": 3,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Blessings of the Frost",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach a {G} Energy card from your discard pile to 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Hammer",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339214341": {
+      "id": 339214341,
+      "name": "Scatterbug",
+      "cat": 1,
+      "kind": 1,
+      "no": 5,
+      "rarity": 1,
+      "family": 390,
+      "hp": 30,
+      "weakness": 3,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Abnormal Outbreak",
+          "text": "You can use this Ability only if you go second. Once during your first turn (before your attack), you may search your deck for a Spewpa and a Vivillon, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216389": {
+      "id": 339216389,
+      "name": "Scatterbug",
+      "cat": 1,
+      "kind": 1,
+      "no": 5,
+      "rarity": 1,
+      "family": 390,
+      "hp": 30,
+      "weakness": 3,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Abnormal Outbreak",
+          "text": "You can use this Ability only if you go second. Once during your first turn (before your attack), you may search your deck for a Spewpa and a Vivillon, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214342": {
+      "id": 339214342,
+      "name": "Scatterbug",
+      "cat": 1,
+      "kind": 1,
+      "no": 6,
+      "rarity": 1,
+      "family": 390,
+      "hp": 40,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ultra Evolution",
+          "text": "Flip a coin. If heads, search your deck for Vivillon and put it onto this Scatterbug to evolve it. Then, shuffle your deck.",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339216390": {
+      "id": 339216390,
+      "name": "Scatterbug",
+      "cat": 1,
+      "kind": 1,
+      "no": 6,
+      "rarity": 1,
+      "family": 390,
+      "hp": 40,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ultra Evolution",
+          "text": "Flip a coin. If heads, search your deck for Vivillon and put it onto this Scatterbug to evolve it. Then, shuffle your deck.",
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339214343": {
+      "id": 339214343,
+      "name": "Spewpa",
+      "cat": 1,
+      "kind": 2,
+      "no": 7,
+      "rarity": 2,
+      "family": 390,
+      "preevo": "Scatterbug",
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339216391": {
+      "id": 339216391,
+      "name": "Spewpa",
+      "cat": 1,
+      "kind": 2,
+      "no": 7,
+      "rarity": 2,
+      "family": 390,
+      "preevo": "Scatterbug",
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339214344": {
+      "id": 339214344,
+      "name": "Vivillon",
+      "cat": 1,
+      "kind": 3,
+      "no": 8,
+      "rarity": 3,
+      "family": 390,
+      "preevo": "Spewpa",
+      "hp": 130,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Vivid Powder",
+          "text": "Your opponent's Active Pokémon is now Asleep and Poisoned.",
+          "damage": 50,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339216392": {
+      "id": 339216392,
+      "name": "Vivillon",
+      "cat": 1,
+      "kind": 3,
+      "no": 8,
+      "rarity": 3,
+      "family": 390,
+      "preevo": "Spewpa",
+      "hp": 130,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Vivid Powder",
+          "text": "Your opponent's Active Pokémon is now Asleep and Poisoned.",
+          "damage": 50,
+          "cost": [
+            2
+          ]
+        }
+      ]
+    },
+    "339214345": {
+      "id": 339214345,
+      "name": "Skiddo",
+      "cat": 1,
+      "kind": 1,
+      "no": 9,
+      "rarity": 1,
+      "family": 385,
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Growth",
+          "text": "Attach a {G} Energy card from your hand to this Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": 40,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339216393": {
+      "id": 339216393,
+      "name": "Skiddo",
+      "cat": 1,
+      "kind": 1,
+      "no": 9,
+      "rarity": 1,
+      "family": 385,
+      "hp": 70,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Growth",
+          "text": "Attach a {G} Energy card from your hand to this Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": 40,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339214346": {
+      "id": 339214346,
+      "name": "Gogoat",
+      "cat": 1,
+      "kind": 2,
+      "no": 10,
+      "rarity": 2,
+      "family": 385,
+      "preevo": "Skiddo",
+      "hp": 120,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Milk Drink",
+          "text": "Flip 2 coins. For each heads, heal 40 damage from this Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Double-Edge",
+          "text": "This Pokémon does 30 damage to itself.",
+          "damage": 120,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339216394": {
+      "id": 339216394,
+      "name": "Gogoat",
+      "cat": 1,
+      "kind": 2,
+      "no": 10,
+      "rarity": 2,
+      "family": 385,
+      "preevo": "Skiddo",
+      "hp": 120,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Milk Drink",
+          "text": "Flip 2 coins. For each heads, heal 40 damage from this Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Double-Edge",
+          "text": "This Pokémon does 30 damage to itself.",
+          "damage": 120,
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "339215371": {
+      "id": 339215371,
+      "name": "Pheromosa",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 4,
+      "flags": 16,
+      "family": 600,
+      "hp": 110,
+      "weakness": 3,
+      "attacks": [
+        {
+          "name": "High Jump Kick",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "White Ray",
+          "text": "If you have only 1 Prize card remaining, this attack does 90 more damage.",
+          "damage": 90,
+          "op": "+",
+          "cost": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "339216395": {
+      "id": 339216395,
+      "name": "Pheromosa",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 4,
+      "flags": 16,
+      "family": 600,
+      "hp": 110,
+      "weakness": 3,
+      "attacks": [
+        {
+          "name": "High Jump Kick",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "White Ray",
+          "text": "If you have only 1 Prize card remaining, this attack does 90 more damage.",
+          "damage": 90,
+          "op": "+",
+          "cost": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "339227659": {
+      "id": 339227659,
+      "name": "Pheromosa",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "colNo": "SV5",
+      "rarity": 4,
+      "flags": 8464,
+      "family": 600,
+      "hp": 110,
+      "weakness": 3,
+      "attacks": [
+        {
+          "name": "High Jump Kick",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "White Ray",
+          "text": "If you have only 1 Prize card remaining, this attack does 90 more damage.",
+          "damage": 90,
+          "op": "+",
+          "cost": [
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "339214348": {
+      "id": 339214348,
+      "name": "Alolan Marowak",
+      "cat": 1,
+      "kind": 2,
+      "no": 12,
+      "rarity": 3,
+      "family": 185,
+      "preevo": "Cubone",
+      "hp": 120,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Limbo Limbo",
+          "text": "Search your deck for up to 2 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Alolan Club",
+          "text": "This attack does 20 damage for each of your Pokémon in play that has Alolan in its name.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216396": {
+      "id": 339216396,
+      "name": "Alolan Marowak",
+      "cat": 1,
+      "kind": 2,
+      "no": 12,
+      "rarity": 3,
+      "family": 185,
+      "preevo": "Cubone",
+      "hp": 120,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Limbo Limbo",
+          "text": "Search your deck for up to 2 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Alolan Club",
+          "text": "This attack does 20 damage for each of your Pokémon in play that has Alolan in its name.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214349": {
+      "id": 339214349,
+      "name": "Heatran",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 3,
+      "family": 310,
+      "hp": 130,
+      "weakness": 4,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "damage": 30,
+          "cost": [
+            1,
+            3
+          ]
+        },
+        {
+          "name": "Boiling Impact",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": 130,
+          "cost": [
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339216397": {
+      "id": 339216397,
+      "name": "Heatran",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 3,
+      "family": 310,
+      "hp": 130,
+      "weakness": 4,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "damage": 30,
+          "cost": [
+            1,
+            3
+          ]
+        },
+        {
+          "name": "Boiling Impact",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": 130,
+          "cost": [
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339214350": {
+      "id": 339214350,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 369,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ember",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 30,
+          "cost": [
+            3
+          ]
+        }
+      ]
+    },
+    "339216398": {
+      "id": 339216398,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "rarity": 1,
+      "family": 369,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ember",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 30,
+          "cost": [
+            3
+          ]
+        }
+      ]
+    },
+    "339214351": {
+      "id": 339214351,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 369,
+      "hp": 70,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "damage": 10,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Rear Kick",
+          "damage": 20,
+          "cost": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "339216399": {
+      "id": 339216399,
+      "name": "Fennekin",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "rarity": 1,
+      "family": 369,
+      "hp": 70,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "damage": 10,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Rear Kick",
+          "damage": 20,
+          "cost": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "339214352": {
+      "id": 339214352,
+      "name": "Braixen",
+      "cat": 1,
+      "kind": 2,
+      "no": 16,
+      "rarity": 2,
+      "family": 369,
+      "preevo": "Fennekin",
+      "hp": 90,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": 20,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 80,
+          "cost": [
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339216400": {
+      "id": 339216400,
+      "name": "Braixen",
+      "cat": 1,
+      "kind": 2,
+      "no": 16,
+      "rarity": 2,
+      "family": 369,
+      "preevo": "Fennekin",
+      "hp": 90,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": 20,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 80,
+          "cost": [
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339215377": {
+      "id": 339215377,
+      "name": "Delphox",
+      "cat": 1,
+      "kind": 3,
+      "no": 17,
+      "rarity": 4,
+      "family": 369,
+      "preevo": "Braixen",
+      "hp": 150,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Mystical Torch",
+          "text": "Once during your turn (before your attack), you may leave your opponent's Active Pokémon Burned.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339216401": {
+      "id": 339216401,
+      "name": "Delphox",
+      "cat": 1,
+      "kind": 3,
+      "no": 17,
+      "rarity": 4,
+      "family": 369,
+      "preevo": "Braixen",
+      "hp": 150,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Mystical Torch",
+          "text": "Once during your turn (before your attack), you may leave your opponent's Active Pokémon Burned.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "339214354": {
+      "id": 339214354,
+      "name": "Litleo",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 406,
+      "hp": 70,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216402": {
+      "id": 339216402,
+      "name": "Litleo",
+      "cat": 1,
+      "kind": 1,
+      "no": 18,
+      "rarity": 1,
+      "family": 406,
+      "hp": 70,
+      "weakness": 4,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339215379": {
+      "id": 339215379,
+      "name": "Pyroar",
+      "cat": 1,
+      "kind": 2,
+      "no": 19,
+      "rarity": 4,
+      "family": 406,
+      "preevo": "Litleo",
+      "hp": 120,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dominating Fangs",
+          "text": "If Lysandre Labs is in play, this attack does 60 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "339216403": {
+      "id": 339216403,
+      "name": "Pyroar",
+      "cat": 1,
+      "kind": 2,
+      "no": 19,
+      "rarity": 4,
+      "family": 406,
+      "preevo": "Litleo",
+      "hp": 120,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dominating Fangs",
+          "text": "If Lysandre Labs is in play, this attack does 60 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "339214356": {
+      "id": 339214356,
+      "name": "Palkia-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 20,
+      "rarity": 4,
+      "family": 597,
+      "hp": 180,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Hydro Pressure",
+          "text": "This attack does 20 more damage times the amount of {W} Energy attached to this Pokémon.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Zero Vanish GX",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339214357": {
+      "id": 339214357,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 374,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Frubbles",
+          "text": "If this Pokémon has any {W} Energy attached to it, it has no Retreat Cost.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flop",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216405": {
+      "id": 339216405,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 374,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Frubbles",
+          "text": "If this Pokémon has any {W} Energy attached to it, it has no Retreat Cost.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flop",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339227669": {
+      "id": 339227669,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "colNo": "SV11",
+      "rarity": 4,
+      "flags": 8448,
+      "family": 374,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Frubbles",
+          "text": "If this Pokémon has any {W} Energy attached to it, it has no Retreat Cost.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flop",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214358": {
+      "id": 339214358,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "family": 374,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Wave Splash",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339216406": {
+      "id": 339216406,
+      "name": "Froakie",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "family": 374,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Wave Splash",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339214359": {
+      "id": 339214359,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Gale Shuriken",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339216407": {
+      "id": 339216407,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "rarity": 2,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Gale Shuriken",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339227671": {
+      "id": 339227671,
+      "name": "Frogadier",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "colNo": "SV12",
+      "rarity": 4,
+      "flags": 8448,
+      "family": 374,
+      "preevo": "Froakie",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Gale Shuriken",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339214360": {
+      "id": 339214360,
+      "name": "Greninja-GX",
+      "cat": 1,
+      "kind": 11,
+      "no": 24,
+      "rarity": 4,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 230,
+      "weakness": 2,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Shuriken Flurry",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Haze Slash",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Shadowy Hunter GX",
+          "text": "This attack does 130 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339214361": {
+      "id": 339214361,
+      "name": "Clauncher",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 1,
+      "family": 372,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339216409": {
+      "id": 339216409,
+      "name": "Clauncher",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "rarity": 1,
+      "family": 372,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339214362": {
+      "id": 339214362,
+      "name": "Clawitzer",
+      "cat": 1,
+      "kind": 2,
+      "no": 26,
+      "rarity": 3,
+      "family": 372,
+      "preevo": "Clauncher",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Standing By",
+          "text": "During your next turn, this Pokémon's Sharpshooting attack does 120 damage instead of 40.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Sharpshooting",
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339216410": {
+      "id": 339216410,
+      "name": "Clawitzer",
+      "cat": 1,
+      "kind": 2,
+      "no": 26,
+      "rarity": 3,
+      "family": 372,
+      "preevo": "Clauncher",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Standing By",
+          "text": "During your next turn, this Pokémon's Sharpshooting attack does 120 damage instead of 40.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Sharpshooting",
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339214363": {
+      "id": 339214363,
+      "name": "Amaura",
+      "cat": 1,
+      "kind": 2,
+      "no": 27,
+      "rarity": 2,
+      "family": 409,
+      "preevo": "Unidentified Fossil",
+      "hp": 90,
+      "weakness": 9,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": 60,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339216411": {
+      "id": 339216411,
+      "name": "Amaura",
+      "cat": 1,
+      "kind": 2,
+      "no": 27,
+      "rarity": 2,
+      "family": 409,
+      "preevo": "Unidentified Fossil",
+      "hp": 90,
+      "weakness": 9,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": 60,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339215388": {
+      "id": 339215388,
+      "name": "Aurorus",
+      "cat": 1,
+      "kind": 3,
+      "no": 28,
+      "rarity": 4,
+      "family": 409,
+      "preevo": "Amaura",
+      "hp": 160,
+      "weakness": 9,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Frost Wall",
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Blizzard Burn",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339216412": {
+      "id": 339216412,
+      "name": "Aurorus",
+      "cat": 1,
+      "kind": 3,
+      "no": 28,
+      "rarity": 4,
+      "family": 409,
+      "preevo": "Amaura",
+      "hp": 160,
+      "weakness": 9,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Frost Wall",
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Blizzard Burn",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339214365": {
+      "id": 339214365,
+      "name": "Bergmite",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 396,
+      "hp": 60,
+      "weakness": 9,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Break Open",
+          "text": "If your opponent has a Stadium card in play, discard it. If you do, your opponent’s Active Pokémon is now Paralyzed.",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339216413": {
+      "id": 339216413,
+      "name": "Bergmite",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "rarity": 1,
+      "family": 396,
+      "hp": 60,
+      "weakness": 9,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Break Open",
+          "text": "If your opponent has a Stadium card in play, discard it. If you do, your opponent’s Active Pokémon is now Paralyzed.",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339214366": {
+      "id": 339214366,
+      "name": "Avalugg",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 3,
+      "family": 396,
+      "preevo": "Bergmite",
+      "hp": 140,
+      "weakness": 9,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Frozen Ground",
+          "text": "Your opponent can't play any Stadium cards from their hand during their next turn.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Skull Bash",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339216414": {
+      "id": 339216414,
+      "name": "Avalugg",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 3,
+      "family": 396,
+      "preevo": "Bergmite",
+      "hp": 140,
+      "weakness": 9,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Frozen Ground",
+          "text": "Your opponent can't play any Stadium cards from their hand during their next turn.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Skull Bash",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339214367": {
+      "id": 339214367,
+      "name": "Volcanion {*}",
+      "cat": 1,
+      "kind": 1,
+      "no": 31,
+      "rarity": 4,
+      "flags": 32,
+      "family": 808,
+      "hp": 160,
+      "weakness": 5,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Jet Geyser",
+          "text": "Once during your turn (before your attack), you may discard a {W} Energy card from your hand. If you do, your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sauna Blast",
+          "text": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 100,
+          "cost": [
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339214368": {
+      "id": 339214368,
+      "name": "Dewpider",
+      "cat": 1,
+      "kind": 1,
+      "no": 32,
+      "rarity": 1,
+      "family": 520,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Spider Web",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339216416": {
+      "id": 339216416,
+      "name": "Dewpider",
+      "cat": 1,
+      "kind": 1,
+      "no": 32,
+      "rarity": 1,
+      "family": 520,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Spider Web",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
+    "339214369": {
+      "id": 339214369,
+      "name": "Araquanid",
+      "cat": 1,
+      "kind": 2,
+      "no": 33,
+      "rarity": 2,
+      "family": 520,
+      "preevo": "Dewpider",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bubble",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 30,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Bubble Trap",
+          "text": "If 1 of your Pokémon used Bubble during your last turn, this attack does 80 more damage.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216417": {
+      "id": 339216417,
+      "name": "Araquanid",
+      "cat": 1,
+      "kind": 2,
+      "no": 33,
+      "rarity": 2,
+      "family": 520,
+      "preevo": "Dewpider",
+      "hp": 100,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bubble",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 30,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Bubble Trap",
+          "text": "If 1 of your Pokémon used Bubble during your last turn, this attack does 80 more damage.",
+          "damage": 40,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214370": {
+      "id": 339214370,
+      "name": "Magnemite",
+      "cat": 1,
+      "kind": 1,
+      "no": 34,
+      "rarity": 1,
+      "family": 252,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Searching Magnet",
+          "text": "Search your deck for up to 3 {L} Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            5
+          ]
+        }
+      ]
+    },
+    "339216418": {
+      "id": 339216418,
+      "name": "Magnemite",
+      "cat": 1,
+      "kind": 1,
+      "no": 34,
+      "rarity": 1,
+      "family": 252,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Searching Magnet",
+          "text": "Search your deck for up to 3 {L} Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            5
+          ]
+        }
+      ]
+    },
+    "339214371": {
+      "id": 339214371,
+      "name": "Magneton",
+      "cat": 1,
+      "kind": 2,
+      "no": 35,
+      "rarity": 2,
+      "family": 252,
+      "preevo": "Magnemite",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Zap Cannon",
+          "text": "This Pokémon can't use Zap Cannon during your next turn.",
+          "damage": 80,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339216419": {
+      "id": 339216419,
+      "name": "Magneton",
+      "cat": 1,
+      "kind": 2,
+      "no": 35,
+      "rarity": 2,
+      "family": 252,
+      "preevo": "Magnemite",
+      "hp": 90,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Zap Cannon",
+          "text": "This Pokémon can't use Zap Cannon during your next turn.",
+          "damage": 80,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339214372": {
+      "id": 339214372,
+      "name": "Magnezone",
+      "cat": 1,
+      "kind": 3,
+      "no": 36,
+      "rarity": 3,
+      "family": 252,
+      "preevo": "Magneton",
+      "hp": 150,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Magnetic Circuit",
+          "text": "As often as you like during your turn (before your attack), you may attach a {L} Energy card from your hand to 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "text": "This Pokémon can't use Zap Cannon during your next turn.",
+          "damage": 130,
+          "cost": [
+            5,
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339215396": {
+      "id": 339215396,
+      "name": "Magnezone",
+      "cat": 1,
+      "kind": 3,
+      "no": 36,
+      "rarity": 4,
+      "family": 252,
+      "preevo": "Magneton",
+      "hp": 150,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Magnetic Circuit",
+          "text": "As often as you like during your turn (before your attack), you may attach a {L} Energy card from your hand to 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "text": "This Pokémon can't use Zap Cannon during your next turn.",
+          "damage": 130,
+          "cost": [
+            5,
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339216420": {
+      "id": 339216420,
+      "name": "Magnezone",
+      "cat": 1,
+      "kind": 3,
+      "no": 36,
+      "rarity": 4,
+      "family": 252,
+      "preevo": "Magneton",
+      "hp": 150,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Magnetic Circuit",
+          "text": "As often as you like during your turn (before your attack), you may attach a {L} Energy card from your hand to 1 of your Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "text": "This Pokémon can't use Zap Cannon during your next turn.",
+          "damage": 130,
+          "cost": [
+            5,
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339214373": {
+      "id": 339214373,
+      "name": "Helioptile",
+      "cat": 1,
+      "kind": 1,
+      "no": 37,
+      "rarity": 1,
+      "family": 404,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tail Whap",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216421": {
+      "id": 339216421,
+      "name": "Helioptile",
+      "cat": 1,
+      "kind": 1,
+      "no": 37,
+      "rarity": 1,
+      "family": 404,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Tail Whap",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214374": {
+      "id": 339214374,
+      "name": "Heliolisk",
+      "cat": 1,
+      "kind": 2,
+      "no": 38,
+      "rarity": 2,
+      "family": 404,
+      "preevo": "Helioptile",
+      "hp": 100,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Volt Wave",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216422": {
+      "id": 339216422,
+      "name": "Heliolisk",
+      "cat": 1,
+      "kind": 2,
+      "no": 38,
+      "rarity": 2,
+      "family": 404,
+      "preevo": "Helioptile",
+      "hp": 100,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Volt Wave",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214375": {
+      "id": 339214375,
+      "name": "Xurkitree",
+      "cat": 1,
+      "kind": 1,
+      "no": 39,
+      "rarity": 3,
+      "flags": 16,
+      "family": 601,
+      "hp": 120,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Dazzle Blast",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Cablegram",
+          "text": "If you have exactly 3 Prize cards remaining, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 100,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339216423": {
+      "id": 339216423,
+      "name": "Xurkitree",
+      "cat": 1,
+      "kind": 1,
+      "no": 39,
+      "rarity": 3,
+      "flags": 16,
+      "family": 601,
+      "hp": 120,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Dazzle Blast",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Cablegram",
+          "text": "If you have exactly 3 Prize cards remaining, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 100,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339227687": {
+      "id": 339227687,
+      "name": "Xurkitree",
+      "cat": 1,
+      "kind": 1,
+      "no": 39,
+      "colNo": "SV14",
+      "rarity": 4,
+      "flags": 8464,
+      "family": 601,
+      "hp": 120,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Dazzle Blast",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Cablegram",
+          "text": "If you have exactly 3 Prize cards remaining, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 100,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "339214376": {
+      "id": 339214376,
+      "name": "Rotom",
+      "cat": 1,
+      "kind": 1,
+      "no": 40,
+      "rarity": 3,
+      "family": 256,
+      "hp": 70,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Roto Motor",
+          "text": "If you have 9 or more Pokémon Tool cards in your discard pile, ignore all Energy in the attack cost of each of this Pokémon’s attacks.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Plasma Slice",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 120,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339216424": {
+      "id": 339216424,
+      "name": "Rotom",
+      "cat": 1,
+      "kind": 1,
+      "no": 40,
+      "rarity": 3,
+      "family": 256,
+      "hp": 70,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Roto Motor",
+          "text": "If you have 9 or more Pokémon Tool cards in your discard pile, ignore all Energy in the attack cost of each of this Pokémon’s attacks.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Plasma Slice",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 120,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339214377": {
+      "id": 339214377,
+      "name": "Uxie",
+      "cat": 1,
+      "kind": 1,
+      "no": 41,
+      "rarity": 2,
+      "family": 76,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Memory Skip",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "damage": 30,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216425": {
+      "id": 339216425,
+      "name": "Uxie",
+      "cat": 1,
+      "kind": 1,
+      "no": 41,
+      "rarity": 2,
+      "family": 76,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Memory Skip",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "damage": 30,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214378": {
+      "id": 339214378,
+      "name": "Mesprit",
+      "cat": 1,
+      "kind": 1,
+      "no": 42,
+      "rarity": 2,
+      "family": 67,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Silent Waves",
+          "text": "If you have Azelf in play, your opponent’s Pokémon in play have no Resistance.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Splash",
+          "text": "If Uxie is on your Bench, this attack does 50 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216426": {
+      "id": 339216426,
+      "name": "Mesprit",
+      "cat": 1,
+      "kind": 1,
+      "no": 42,
+      "rarity": 2,
+      "family": 67,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Silent Waves",
+          "text": "If you have Azelf in play, your opponent’s Pokémon in play have no Resistance.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Splash",
+          "text": "If Uxie is on your Bench, this attack does 50 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214379": {
+      "id": 339214379,
+      "name": "Azelf",
+      "cat": 1,
+      "kind": 1,
+      "no": 43,
+      "rarity": 2,
+      "family": 42,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Psychic Abduction",
+          "text": "You can use this attack only if you go second, and only on your first turn. Shuffle 1 of your opponent’s Benched Pokémon and all cards attached to it into their deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Hypnoblast",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339216427": {
+      "id": 339216427,
+      "name": "Azelf",
+      "cat": 1,
+      "kind": 1,
+      "no": 43,
+      "rarity": 2,
+      "family": 42,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Psychic Abduction",
+          "text": "You can use this attack only if you go second, and only on your first turn. Shuffle 1 of your opponent’s Benched Pokémon and all cards attached to it into their deck.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Hypnoblast",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339214380": {
+      "id": 339214380,
+      "name": "Espurr",
+      "cat": 1,
+      "kind": 1,
+      "no": 44,
+      "rarity": 1,
+      "family": 400,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Energy Teaser",
+          "text": "Move an Energy from 1 of your opponent’s Benched Pokémon to another of their Pokémon.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216428": {
+      "id": 339216428,
+      "name": "Espurr",
+      "cat": 1,
+      "kind": 1,
+      "no": 44,
+      "rarity": 1,
+      "family": 400,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Energy Teaser",
+          "text": "Move an Energy from 1 of your opponent’s Benched Pokémon to another of their Pokémon.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214381": {
+      "id": 339214381,
+      "name": "Meowstic",
+      "cat": 1,
+      "kind": 2,
+      "no": 45,
+      "rarity": 3,
+      "family": 400,
+      "preevo": "Espurr",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Teleportation Burst",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 20,
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psychic",
+          "text": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339216429": {
+      "id": 339216429,
+      "name": "Meowstic",
+      "cat": 1,
+      "kind": 2,
+      "no": 45,
+      "rarity": 3,
+      "family": 400,
+      "preevo": "Espurr",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Teleportation Burst",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": 20,
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psychic",
+          "text": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339214382": {
+      "id": 339214382,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 46,
+      "rarity": 1,
+      "family": 376,
+      "hp": 50,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Final Hour",
+          "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 3 damage counters on 1 of your opponent’s Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 50,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339216430": {
+      "id": 339216430,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 46,
+      "rarity": 1,
+      "family": 376,
+      "hp": 50,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Final Hour",
+          "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 3 damage counters on 1 of your opponent’s Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": 50,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339214383": {
+      "id": 339214383,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 47,
+      "rarity": 1,
+      "family": 376,
+      "hp": 60,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216431": {
+      "id": 339216431,
+      "name": "Honedge",
+      "cat": 1,
+      "kind": 1,
+      "no": 47,
+      "rarity": 1,
+      "family": 376,
+      "hp": 60,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214384": {
+      "id": 339214384,
+      "name": "Doublade",
+      "cat": 1,
+      "kind": 2,
+      "no": 48,
+      "rarity": 2,
+      "family": 376,
+      "preevo": "Honedge",
+      "hp": 80,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Curse of the Blade",
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has a Pokémon Tool card attached to it.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216432": {
+      "id": 339216432,
+      "name": "Doublade",
+      "cat": 1,
+      "kind": 2,
+      "no": 48,
+      "rarity": 2,
+      "family": 376,
+      "preevo": "Honedge",
+      "hp": 80,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Curse of the Blade",
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has a Pokémon Tool card attached to it.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214385": {
+      "id": 339214385,
+      "name": "Aegislash",
+      "cat": 1,
+      "kind": 3,
+      "no": 49,
+      "rarity": 3,
+      "family": 376,
+      "preevo": "Doublade",
+      "hp": 150,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Ticking Knock Out",
+          "text": "During your next turn, if the Defending Pokémon is damaged by an attack, it will be Knocked Out.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Draining Blade",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": 90,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339216433": {
+      "id": 339216433,
+      "name": "Aegislash",
+      "cat": 1,
+      "kind": 3,
+      "no": 49,
+      "rarity": 3,
+      "family": 376,
+      "preevo": "Doublade",
+      "hp": 150,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Ticking Knock Out",
+          "text": "During your next turn, if the Defending Pokémon is damaged by an attack, it will be Knocked Out.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Draining Blade",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": 90,
+          "cost": [
+            6,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339214386": {
+      "id": 339214386,
+      "name": "Inkay",
+      "cat": 1,
+      "kind": 1,
+      "no": 50,
+      "rarity": 1,
+      "family": 377,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216434": {
+      "id": 339216434,
+      "name": "Inkay",
+      "cat": 1,
+      "kind": 1,
+      "no": 50,
+      "rarity": 1,
+      "family": 377,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339227698": {
+      "id": 339227698,
+      "name": "Inkay",
+      "cat": 1,
+      "kind": 1,
+      "no": 50,
+      "colNo": "SV17",
+      "rarity": 4,
+      "flags": 8448,
+      "family": 377,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214387": {
+      "id": 339214387,
+      "name": "Malamar",
+      "cat": 1,
+      "kind": 2,
+      "no": 51,
+      "rarity": 3,
+      "family": 377,
+      "preevo": "Inkay",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Psychic Recharge",
+          "text": "Once during your turn (before your attack), you may attach a {P} Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "damage": 60,
+          "cost": [
+            1,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339216435": {
+      "id": 339216435,
+      "name": "Malamar",
+      "cat": 1,
+      "kind": 2,
+      "no": 51,
+      "rarity": 3,
+      "family": 377,
+      "preevo": "Inkay",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Psychic Recharge",
+          "text": "Once during your turn (before your attack), you may attach a {P} Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "damage": 60,
+          "cost": [
+            1,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339227699": {
+      "id": 339227699,
+      "name": "Malamar",
+      "cat": 1,
+      "kind": 2,
+      "no": 51,
+      "colNo": "SV18",
+      "rarity": 4,
+      "flags": 8448,
+      "family": 377,
+      "preevo": "Inkay",
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Psychic Recharge",
+          "text": "Once during your turn (before your attack), you may attach a {P} Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "damage": 60,
+          "cost": [
+            1,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "339214388": {
+      "id": 339214388,
+      "name": "Skrelp",
+      "cat": 1,
+      "kind": 1,
+      "no": 52,
+      "rarity": 1,
+      "family": 399,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": 10,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216436": {
+      "id": 339216436,
+      "name": "Skrelp",
+      "cat": 1,
+      "kind": 1,
+      "no": 52,
+      "rarity": 1,
+      "family": 399,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": 10,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214389": {
+      "id": 339214389,
+      "name": "Dragalge",
+      "cat": 1,
+      "kind": 2,
+      "no": 53,
+      "rarity": 3,
+      "family": 399,
+      "preevo": "Skrelp",
+      "hp": 120,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Poison Point",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Twister",
+          "text": "Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing.",
+          "damage": 60,
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339216437": {
+      "id": 339216437,
+      "name": "Dragalge",
+      "cat": 1,
+      "kind": 2,
+      "no": 53,
+      "rarity": 3,
+      "family": 399,
+      "preevo": "Skrelp",
+      "hp": 120,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Poison Point",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Twister",
+          "text": "Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing.",
+          "damage": 60,
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339214390": {
+      "id": 339214390,
+      "name": "Hoopa",
+      "cat": 1,
+      "kind": 1,
+      "no": 54,
+      "rarity": 2,
+      "family": 460,
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hyperspace Ring",
+          "text": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psy Bolt",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 10,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339216438": {
+      "id": 339216438,
+      "name": "Hoopa",
+      "cat": 1,
+      "kind": 1,
+      "no": 54,
+      "rarity": 2,
+      "family": 460,
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Hyperspace Ring",
+          "text": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "cost": [
+            6
+          ]
+        },
+        {
+          "name": "Psy Bolt",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 10,
+          "cost": [
+            6
+          ]
+        }
+      ]
+    },
+    "339214391": {
+      "id": 339214391,
+      "name": "Poipole",
+      "cat": 1,
+      "kind": 1,
+      "no": 55,
+      "rarity": 2,
+      "flags": 16,
+      "family": 602,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Spit Poison",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Knockout Reviver",
+          "text": "During your opponent's next turn, if this Pokémon is Knocked Out, your opponent can't take any Prize cards for it.",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339216439": {
+      "id": 339216439,
+      "name": "Poipole",
+      "cat": 1,
+      "kind": 1,
+      "no": 55,
+      "rarity": 2,
+      "flags": 16,
+      "family": 602,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Spit Poison",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Knockout Reviver",
+          "text": "During your opponent's next turn, if this Pokémon is Knocked Out, your opponent can't take any Prize cards for it.",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339227703": {
+      "id": 339227703,
+      "name": "Poipole",
+      "cat": 1,
+      "kind": 1,
+      "no": 55,
+      "colNo": "SV19",
+      "rarity": 4,
+      "flags": 8464,
+      "family": 602,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Spit Poison",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Knockout Reviver",
+          "text": "During your opponent's next turn, if this Pokémon is Knocked Out, your opponent can't take any Prize cards for it.",
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "339214392": {
+      "id": 339214392,
+      "name": "Naganadel-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 56,
+      "rarity": 4,
+      "flags": 16,
+      "family": 602,
+      "preevo": "Poipole",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beast Raid",
+          "text": "This attack does 20 damage for each of your Ultra Beasts in play.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Jet Needle",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Stinger GX",
+          "text": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214393": {
+      "id": 339214393,
+      "name": "Cubone",
+      "cat": 1,
+      "kind": 1,
+      "no": 57,
+      "rarity": 1,
+      "family": 185,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Burdensome Bone",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216441": {
+      "id": 339216441,
+      "name": "Cubone",
+      "cat": 1,
+      "kind": 1,
+      "no": 57,
+      "rarity": 1,
+      "family": 185,
+      "hp": 60,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Burdensome Bone",
+          "text": "This Pokémon can't attack during your next turn.",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214394": {
+      "id": 339214394,
+      "name": "Torterra",
+      "cat": 1,
+      "kind": 3,
+      "no": 58,
+      "rarity": 3,
+      "family": 248,
+      "preevo": "Grotle",
+      "hp": 180,
+      "weakness": 2,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Earthquake",
+          "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 180,
+          "cost": [
+            1,
+            7,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339216442": {
+      "id": 339216442,
+      "name": "Torterra",
+      "cat": 1,
+      "kind": 3,
+      "no": 58,
+      "rarity": 3,
+      "family": 248,
+      "preevo": "Grotle",
+      "hp": 180,
+      "weakness": 2,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Earthquake",
+          "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 180,
+          "cost": [
+            1,
+            7,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339215419": {
+      "id": 339215419,
+      "name": "Infernape",
+      "cat": 1,
+      "kind": 3,
+      "no": 59,
+      "rarity": 4,
+      "family": 239,
+      "preevo": "Monferno",
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Flaming Fighter",
+          "text": "Put 6 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burst Punch",
+          "text": "Your opponent's Active Pokémon is now Burned.",
+          "damage": 50,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216443": {
+      "id": 339216443,
+      "name": "Infernape",
+      "cat": 1,
+      "kind": 3,
+      "no": 59,
+      "rarity": 4,
+      "family": 239,
+      "preevo": "Monferno",
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Flaming Fighter",
+          "text": "Put 6 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burst Punch",
+          "text": "Your opponent's Active Pokémon is now Burned.",
+          "damage": 50,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339214396": {
+      "id": 339214396,
+      "name": "Gible",
+      "cat": 1,
+      "kind": 1,
+      "no": 60,
+      "rarity": 1,
+      "family": 95,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ascension",
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339216444": {
+      "id": 339216444,
+      "name": "Gible",
+      "cat": 1,
+      "kind": 1,
+      "no": 60,
+      "rarity": 1,
+      "family": 95,
+      "hp": 50,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ascension",
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339214397": {
+      "id": 339214397,
+      "name": "Gabite",
+      "cat": 1,
+      "kind": 2,
+      "no": 61,
+      "rarity": 2,
+      "family": 95,
+      "preevo": "Gible",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ascension",
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Slash",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216445": {
+      "id": 339216445,
+      "name": "Gabite",
+      "cat": 1,
+      "kind": 2,
+      "no": 61,
+      "rarity": 2,
+      "family": 95,
+      "preevo": "Gible",
+      "hp": 80,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ascension",
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Slash",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339215422": {
+      "id": 339215422,
+      "name": "Garchomp",
+      "cat": 1,
+      "kind": 3,
+      "no": 62,
+      "rarity": 4,
+      "family": 95,
+      "preevo": "Gabite",
+      "hp": 150,
+      "weakness": 2,
+      "attacks": [
+        {
+          "name": "Quick Dive",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Royal Blades",
+          "text": "If you played Cynthia from your hand during this turn, this attack does 100 more damage.",
+          "damage": 100,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216446": {
+      "id": 339216446,
+      "name": "Garchomp",
+      "cat": 1,
+      "kind": 3,
+      "no": 62,
+      "rarity": 4,
+      "family": 95,
+      "preevo": "Gabite",
+      "hp": 150,
+      "weakness": 2,
+      "attacks": [
+        {
+          "name": "Quick Dive",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Royal Blades",
+          "text": "If you played Cynthia from your hand during this turn, this attack does 100 more damage.",
+          "damage": 100,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339214399": {
+      "id": 339214399,
+      "name": "Croagunk",
+      "cat": 1,
+      "kind": 1,
+      "no": 63,
+      "rarity": 1,
+      "family": 87,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Swagger",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339216447": {
+      "id": 339216447,
+      "name": "Croagunk",
+      "cat": 1,
+      "kind": 1,
+      "no": 63,
+      "rarity": 1,
+      "family": 87,
+      "hp": 60,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Swagger",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339214400": {
+      "id": 339214400,
+      "name": "Toxicroak",
+      "cat": 1,
+      "kind": 2,
+      "no": 64,
+      "rarity": 3,
+      "family": 87,
+      "preevo": "Croagunk",
+      "hp": 100,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": 30,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Exact Revenge",
+          "text": "If any of your {P} Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 70 more damage.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216448": {
+      "id": 339216448,
+      "name": "Toxicroak",
+      "cat": 1,
+      "kind": 2,
+      "no": 64,
+      "rarity": 3,
+      "family": 87,
+      "preevo": "Croagunk",
+      "hp": 100,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": 30,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Exact Revenge",
+          "text": "If any of your {P} Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 70 more damage.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214401": {
+      "id": 339214401,
+      "name": "Pancham",
+      "cat": 1,
+      "kind": 1,
+      "no": 65,
+      "rarity": 1,
+      "family": 419,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Act Tough",
+          "text": "If this Pokémon has any {D} Energy attached to it, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339216449": {
+      "id": 339216449,
+      "name": "Pancham",
+      "cat": 1,
+      "kind": 1,
+      "no": 65,
+      "rarity": 1,
+      "family": 419,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Act Tough",
+          "text": "If this Pokémon has any {D} Energy attached to it, this attack does 30 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339214402": {
+      "id": 339214402,
+      "name": "Binacle",
+      "cat": 1,
+      "kind": 1,
+      "no": 66,
+      "rarity": 1,
+      "family": 397,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Allotment",
+          "text": "Draw a card.",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339216450": {
+      "id": 339216450,
+      "name": "Binacle",
+      "cat": 1,
+      "kind": 1,
+      "no": 66,
+      "rarity": 1,
+      "family": 397,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Allotment",
+          "text": "Draw a card.",
+          "damage": 10,
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339214403": {
+      "id": 339214403,
+      "name": "Barbaracle",
+      "cat": 1,
+      "kind": 2,
+      "no": 67,
+      "rarity": 3,
+      "family": 397,
+      "preevo": "Binacle",
+      "hp": 130,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Seven Shock",
+          "text": "If you have exactly 7 cards in your hand, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 30,
+          "cost": [
+            1,
+            7
+          ]
+        },
+        {
+          "name": "Claw Slash",
+          "damage": 90,
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216451": {
+      "id": 339216451,
+      "name": "Barbaracle",
+      "cat": 1,
+      "kind": 2,
+      "no": 67,
+      "rarity": 3,
+      "family": 397,
+      "preevo": "Binacle",
+      "hp": 130,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Seven Shock",
+          "text": "If you have exactly 7 cards in your hand, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 30,
+          "cost": [
+            1,
+            7
+          ]
+        },
+        {
+          "name": "Claw Slash",
+          "damage": 90,
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339214404": {
+      "id": 339214404,
+      "name": "Tyrunt",
+      "cat": 1,
+      "kind": 2,
+      "no": 68,
+      "rarity": 2,
+      "family": 421,
+      "preevo": "Unidentified Fossil",
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Crunch",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": 40,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216452": {
+      "id": 339216452,
+      "name": "Tyrunt",
+      "cat": 1,
+      "kind": 2,
+      "no": 68,
+      "rarity": 2,
+      "family": 421,
+      "preevo": "Unidentified Fossil",
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Crunch",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": 40,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339215429": {
+      "id": 339215429,
+      "name": "Tyrantrum",
+      "cat": 1,
+      "kind": 3,
+      "no": 69,
+      "rarity": 4,
+      "family": 421,
+      "preevo": "Tyrunt",
+      "hp": 160,
+      "weakness": 2,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Tyrannical Heart",
+          "text": "As long as you don't have more Pokémon in play than your opponent, this Pokémon’s attacks do 60 more damage (before applying Weakness and Resistance), and it takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "text": "Discard an Energy from your opponent's Active Pokémon.",
+          "damage": 100,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339216453": {
+      "id": 339216453,
+      "name": "Tyrantrum",
+      "cat": 1,
+      "kind": 3,
+      "no": 69,
+      "rarity": 4,
+      "family": 421,
+      "preevo": "Tyrunt",
+      "hp": 160,
+      "weakness": 2,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Tyrannical Heart",
+          "text": "As long as you don't have more Pokémon in play than your opponent, this Pokémon’s attacks do 60 more damage (before applying Weakness and Resistance), and it takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "text": "Discard an Energy from your opponent's Active Pokémon.",
+          "damage": 100,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214406": {
+      "id": 339214406,
+      "name": "Hawlucha",
+      "cat": 1,
+      "kind": 1,
+      "no": 70,
+      "rarity": 2,
+      "family": 415,
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "High Jump Kick",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Sky Drop",
+          "text": "This attack does 20 less damage for each {C} in your opponent's Active Pokémon's Retreat Cost.",
+          "damage": 80,
+          "op": "-",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216454": {
+      "id": 339216454,
+      "name": "Hawlucha",
+      "cat": 1,
+      "kind": 1,
+      "no": 70,
+      "rarity": 2,
+      "family": 415,
+      "hp": 80,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "High Jump Kick",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Sky Drop",
+          "text": "This attack does 20 less damage for each {C} in your opponent's Active Pokémon's Retreat Cost.",
+          "damage": 80,
+          "op": "-",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214407": {
+      "id": 339214407,
+      "name": "Zygarde",
+      "cat": 1,
+      "kind": 1,
+      "no": 71,
+      "rarity": 2,
+      "family": 490,
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Earthen Aura",
+          "text": "Damage from this Pokémon's attacks isn't affected by Weakness or Resistance.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Peace Maker",
+          "text": "If your opponent has an Ultra Beast in play, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339216455": {
+      "id": 339216455,
+      "name": "Zygarde",
+      "cat": 1,
+      "kind": 1,
+      "no": 71,
+      "rarity": 2,
+      "family": 490,
+      "hp": 90,
+      "weakness": 2,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Earthen Aura",
+          "text": "Damage from this Pokémon's attacks isn't affected by Weakness or Resistance.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Peace Maker",
+          "text": "If your opponent has an Ultra Beast in play, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        }
+      ]
+    },
+    "339214408": {
+      "id": 339214408,
+      "name": "Zygarde",
+      "cat": 1,
+      "kind": 1,
+      "no": 72,
+      "rarity": 3,
+      "family": 490,
+      "hp": 130,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Glare",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Calm Strike",
+          "text": "If you have used your GX attack, this attack does 60 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216456": {
+      "id": 339216456,
+      "name": "Zygarde",
+      "cat": 1,
+      "kind": 1,
+      "no": 72,
+      "rarity": 3,
+      "family": 490,
+      "hp": 130,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Glare",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Calm Strike",
+          "text": "If you have used your GX attack, this attack does 60 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339214409": {
+      "id": 339214409,
+      "name": "Zygarde-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 73,
+      "rarity": 4,
+      "family": 603,
+      "hp": 200,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Cell Connector",
+          "text": "Attach 2 {F} Energy cards from your discard pile to this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Verdict GX",
+          "text": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214410": {
+      "id": 339214410,
+      "name": "Diancie {*}",
+      "cat": 1,
+      "kind": 1,
+      "no": 74,
+      "rarity": 4,
+      "flags": 32,
+      "family": 604,
+      "hp": 120,
+      "weakness": 2,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Princess’s Cheers",
+          "text": "As long as this Pokémon is on your Bench, your {F} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Diamond Rain",
+          "text": "Heal 30 damage from each of your Benched Pokémon.",
+          "damage": 90,
+          "cost": [
+            7,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214411": {
+      "id": 339214411,
+      "name": "Rockruff",
+      "cat": 1,
+      "kind": 1,
+      "no": 75,
+      "rarity": 1,
+      "family": 538,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 50,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339216459": {
+      "id": 339216459,
+      "name": "Rockruff",
+      "cat": 1,
+      "kind": 1,
+      "no": 75,
+      "rarity": 1,
+      "family": 538,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 50,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339227723": {
+      "id": 339227723,
+      "name": "Rockruff",
+      "cat": 1,
+      "kind": 1,
+      "no": 75,
+      "colNo": "SV23",
+      "rarity": 4,
+      "flags": 8448,
+      "family": 538,
+      "hp": 70,
+      "weakness": 2,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 50,
+          "cost": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "339214412": {
+      "id": 339214412,
+      "name": "Lycanroc",
+      "cat": 1,
+      "kind": 2,
+      "no": 76,
+      "rarity": 3,
+      "family": 538,
+      "preevo": "Rockruff",
+      "hp": 120,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dangerous Rogue",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            7
+          ]
+        },
+        {
+          "name": "Accelerock",
+          "damage": 100,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339216460": {
+      "id": 339216460,
+      "name": "Lycanroc",
+      "cat": 1,
+      "kind": 2,
+      "no": 76,
+      "rarity": 3,
+      "family": 538,
+      "preevo": "Rockruff",
+      "hp": 120,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dangerous Rogue",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            7
+          ]
+        },
+        {
+          "name": "Accelerock",
+          "damage": 100,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339217484": {
+      "id": 339217484,
+      "name": "Lycanroc",
+      "cat": 1,
+      "kind": 2,
+      "no": 76,
+      "rarity": 3,
+      "family": 538,
+      "preevo": "Rockruff",
+      "hp": 120,
+      "weakness": 2,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dangerous Rogue",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            1,
+            7
+          ]
+        },
+        {
+          "name": "Accelerock",
+          "damage": 100,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214413": {
+      "id": 339214413,
+      "name": "Buzzwole",
+      "cat": 1,
+      "kind": 1,
+      "no": 77,
+      "rarity": 3,
+      "flags": 16,
+      "family": 605,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Sledgehammer",
+          "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339216461": {
+      "id": 339216461,
+      "name": "Buzzwole",
+      "cat": 1,
+      "kind": 1,
+      "no": 77,
+      "rarity": 3,
+      "flags": 16,
+      "family": 605,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Sledgehammer",
+          "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339218509": {
+      "id": 339218509,
+      "name": "Buzzwole",
+      "cat": 1,
+      "kind": 1,
+      "no": 77,
+      "rarity": 3,
+      "flags": 2072,
+      "family": 605,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Sledgehammer",
+          "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339227725": {
+      "id": 339227725,
+      "name": "Buzzwole",
+      "cat": 1,
+      "kind": 1,
+      "no": 77,
+      "colNo": "SV24",
+      "rarity": 4,
+      "flags": 8464,
+      "family": 605,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Sledgehammer",
+          "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339241037": {
+      "id": 339241037,
+      "name": "Buzzwole",
+      "cat": 1,
+      "kind": 1,
+      "no": 77,
+      "rarity": 3,
+      "flags": 4112,
+      "family": 605,
+      "hp": 130,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Sledgehammer",
+          "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214414": {
+      "id": 339214414,
+      "name": "Pangoro",
+      "cat": 1,
+      "kind": 2,
+      "no": 78,
+      "rarity": 3,
+      "family": 419,
+      "preevo": "Pancham",
+      "hp": 130,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Untamed Punch",
+          "text": "If this Pokémon has any damage counters on it, this attack does 50 more damage, and both Active Pokémon are now Confused.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            8
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339216462": {
+      "id": 339216462,
+      "name": "Pangoro",
+      "cat": 1,
+      "kind": 2,
+      "no": 78,
+      "rarity": 3,
+      "family": 419,
+      "preevo": "Pancham",
+      "hp": 130,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Untamed Punch",
+          "text": "If this Pokémon has any damage counters on it, this attack does 50 more damage, and both Active Pokémon are now Confused.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            8
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339214415": {
+      "id": 339214415,
+      "name": "Yveltal-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 79,
+      "rarity": 4,
+      "family": 606,
+      "hp": 180,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb Vitality",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "damage": 20,
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Doom Count GX",
+          "text": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Sonic Evil",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339215440": {
+      "id": 339215440,
+      "name": "Guzzlord",
+      "cat": 1,
+      "kind": 1,
+      "no": 80,
+      "rarity": 4,
+      "flags": 16,
+      "family": 607,
+      "hp": 160,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Lord's Valley",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.",
+          "damage": 160,
+          "cost": [
+            8,
+            8,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339216464": {
+      "id": 339216464,
+      "name": "Guzzlord",
+      "cat": 1,
+      "kind": 1,
+      "no": 80,
+      "rarity": 4,
+      "flags": 16,
+      "family": 607,
+      "hp": 160,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Lord's Valley",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.",
+          "damage": 160,
+          "cost": [
+            8,
+            8,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339218512": {
+      "id": 339218512,
+      "name": "Guzzlord",
+      "cat": 1,
+      "kind": 1,
+      "no": 80,
+      "rarity": 4,
+      "flags": 2072,
+      "family": 607,
+      "hp": 160,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Lord's Valley",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.",
+          "damage": 160,
+          "cost": [
+            8,
+            8,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339227728": {
+      "id": 339227728,
+      "name": "Guzzlord",
+      "cat": 1,
+      "kind": 1,
+      "no": 80,
+      "colNo": "SV26",
+      "rarity": 4,
+      "flags": 8464,
+      "family": 607,
+      "hp": 160,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Lord's Valley",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.",
+          "damage": 160,
+          "cost": [
+            8,
+            8,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339241040": {
+      "id": 339241040,
+      "name": "Guzzlord",
+      "cat": 1,
+      "kind": 1,
+      "no": 80,
+      "rarity": 4,
+      "flags": 4112,
+      "family": 607,
+      "hp": 160,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Lord's Valley",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.",
+          "damage": 160,
+          "cost": [
+            8,
+            8,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "339215441": {
+      "id": 339215441,
+      "name": "Empoleon",
+      "cat": 1,
+      "kind": 3,
+      "no": 81,
+      "rarity": 4,
+      "family": 93,
+      "preevo": "Prinplup",
+      "hp": 160,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Total Command",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Whirlpool",
+          "text": "Discard an Energy from your opponent's Active Pokémon.",
+          "damage": 90,
+          "cost": [
+            1,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "339216465": {
+      "id": 339216465,
+      "name": "Empoleon",
+      "cat": 1,
+      "kind": 3,
+      "no": 81,
+      "rarity": 4,
+      "family": 93,
+      "preevo": "Prinplup",
+      "hp": 160,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Total Command",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Whirlpool",
+          "text": "Discard an Energy from your opponent's Active Pokémon.",
+          "damage": 90,
+          "cost": [
+            1,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "339214418": {
+      "id": 339214418,
+      "name": "Dialga-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 82,
+      "rarity": 4,
+      "family": 596,
+      "hp": 180,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Overclock",
+          "text": "Draw cards until you have 6 cards in your hand.",
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Timeless GX",
+          "text": "Take another turn after this one. (Skip the between-turns step.) (You can’t use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            9,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "339214419": {
+      "id": 339214419,
+      "name": "Flabébé",
+      "cat": 1,
+      "kind": 1,
+      "no": 83,
+      "rarity": 1,
+      "family": 401,
+      "hp": 30,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Evolutionary Advantage",
+          "text": "If you go second, this Pokémon can evolve during your first turn.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339216467": {
+      "id": 339216467,
+      "name": "Flabébé",
+      "cat": 1,
+      "kind": 1,
+      "no": 83,
+      "rarity": 1,
+      "family": 401,
+      "hp": 30,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Evolutionary Advantage",
+          "text": "If you go second, this Pokémon can evolve during your first turn.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339214420": {
+      "id": 339214420,
+      "name": "Flabébé",
+      "cat": 1,
+      "kind": 1,
+      "no": 84,
+      "rarity": 1,
+      "family": 401,
+      "hp": 40,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Secret Blessings",
+          "text": "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339216468": {
+      "id": 339216468,
+      "name": "Flabébé",
+      "cat": 1,
+      "kind": 1,
+      "no": 84,
+      "rarity": 1,
+      "family": 401,
+      "hp": 40,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Secret Blessings",
+          "text": "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339214421": {
+      "id": 339214421,
+      "name": "Floette",
+      "cat": 1,
+      "kind": 2,
+      "no": 85,
+      "rarity": 2,
+      "family": 401,
+      "preevo": "Flabébé",
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Swirling Petals",
+          "text": "Switch 1 of your opponent’s Benched Pokémon with their Active Pokémon. If you do, switch this Pokémon with 1 of your Benched Pokémon.",
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339216469": {
+      "id": 339216469,
+      "name": "Floette",
+      "cat": 1,
+      "kind": 2,
+      "no": 85,
+      "rarity": 2,
+      "family": 401,
+      "preevo": "Flabébé",
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Swirling Petals",
+          "text": "Switch 1 of your opponent’s Benched Pokémon with their Active Pokémon. If you do, switch this Pokémon with 1 of your Benched Pokémon.",
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339214422": {
+      "id": 339214422,
+      "name": "Florges",
+      "cat": 1,
+      "kind": 3,
+      "no": 86,
+      "rarity": 3,
+      "family": 401,
+      "preevo": "Floette",
+      "hp": 120,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Wondrous Gift",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, put an Item card from your discard pile on top of your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mist Guard",
+          "text": "Prevent all damage done to this Pokémon by attacks from {N} Pokémon during your opponent's next turn.",
+          "damage": 70,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "339216470": {
+      "id": 339216470,
+      "name": "Florges",
+      "cat": 1,
+      "kind": 3,
+      "no": 86,
+      "rarity": 3,
+      "family": 401,
+      "preevo": "Floette",
+      "hp": 120,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Wondrous Gift",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, put an Item card from your discard pile on top of your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mist Guard",
+          "text": "Prevent all damage done to this Pokémon by attacks from {N} Pokémon during your opponent's next turn.",
+          "damage": 70,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "339214423": {
+      "id": 339214423,
+      "name": "Sylveon",
+      "cat": 1,
+      "kind": 2,
+      "no": 87,
+      "rarity": 3,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wink Wink",
+          "text": "Your opponent reveals their hand. You may discard a Supporter card you find there and use the effect of that card as the effect of this attack.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": 40,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "339216471": {
+      "id": 339216471,
+      "name": "Sylveon",
+      "cat": 1,
+      "kind": 2,
+      "no": 87,
+      "rarity": 3,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wink Wink",
+          "text": "Your opponent reveals their hand. You may discard a Supporter card you find there and use the effect of that card as the effect of this attack.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": 40,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "339214424": {
+      "id": 339214424,
+      "name": "Dedenne",
+      "cat": 1,
+      "kind": 1,
+      "no": 88,
+      "rarity": 2,
+      "family": 411,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Electrichain",
+          "text": "If you have any {L} Pokémon on your Bench, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216472": {
+      "id": 339216472,
+      "name": "Dedenne",
+      "cat": 1,
+      "kind": 1,
+      "no": 88,
+      "rarity": 2,
+      "family": 411,
+      "hp": 60,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Electrichain",
+          "text": "If you have any {L} Pokémon on your Bench, this attack does 30 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214425": {
+      "id": 339214425,
+      "name": "Klefki",
+      "cat": 1,
+      "kind": 1,
+      "no": 89,
+      "rarity": 2,
+      "family": 417,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Fairy Lock",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339216473": {
+      "id": 339216473,
+      "name": "Klefki",
+      "cat": 1,
+      "kind": 1,
+      "no": 89,
+      "rarity": 2,
+      "family": 417,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Fairy Lock",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339214426": {
+      "id": 339214426,
+      "name": "Xerneas-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 90,
+      "rarity": 4,
+      "family": 608,
+      "hp": 180,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Overrun",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Aurora Horns",
+          "damage": 120,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        },
+        {
+          "name": "Sanctuary GX",
+          "text": "Move all damage counters from each of your Pokémon to your opponent's Active Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "339214427": {
+      "id": 339214427,
+      "name": "Goomy",
+      "cat": 1,
+      "kind": 1,
+      "no": 91,
+      "rarity": 1,
+      "family": 403,
+      "hp": 40,
+      "weakness": 10,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Sticky Membrane",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon's attacks cost {C} more.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339216475": {
+      "id": 339216475,
+      "name": "Goomy",
+      "cat": 1,
+      "kind": 1,
+      "no": 91,
+      "rarity": 1,
+      "family": 403,
+      "hp": 40,
+      "weakness": 10,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Sticky Membrane",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon's attacks cost {C} more.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 10,
+          "cost": [
+            10
+          ]
+        }
+      ]
+    },
+    "339214428": {
+      "id": 339214428,
+      "name": "Goomy",
+      "cat": 1,
+      "kind": 1,
+      "no": 92,
+      "rarity": 1,
+      "family": 403,
+      "hp": 50,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Flail",
+          "text": "This attack does 10 damage for each damage counter on this Pokémon.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216476": {
+      "id": 339216476,
+      "name": "Goomy",
+      "cat": 1,
+      "kind": 1,
+      "no": 92,
+      "rarity": 1,
+      "family": 403,
+      "hp": 50,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": 10,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Flail",
+          "text": "This attack does 10 damage for each damage counter on this Pokémon.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214429": {
+      "id": 339214429,
+      "name": "Sliggoo",
+      "cat": 1,
+      "kind": 2,
+      "no": 93,
+      "rarity": 2,
+      "family": 403,
+      "preevo": "Goomy",
+      "hp": 80,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": 50,
+          "cost": [
+            1,
+            4,
+            10
+          ]
+        }
+      ]
+    },
+    "339216477": {
+      "id": 339216477,
+      "name": "Sliggoo",
+      "cat": 1,
+      "kind": 2,
+      "no": 93,
+      "rarity": 2,
+      "family": 403,
+      "preevo": "Goomy",
+      "hp": 80,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": 50,
+          "cost": [
+            1,
+            4,
+            10
+          ]
+        }
+      ]
+    },
+    "339215454": {
+      "id": 339215454,
+      "name": "Goodra",
+      "cat": 1,
+      "kind": 3,
+      "no": 94,
+      "rarity": 4,
+      "family": 403,
+      "preevo": "Sliggoo",
+      "hp": 160,
+      "weakness": 10,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Hydration",
+          "text": "Whenever you attach a {W} Energy card from your hand to this Pokémon, heal 20 damage from it.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Soaking Horn",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            4,
+            10
+          ]
+        }
+      ]
+    },
+    "339216478": {
+      "id": 339216478,
+      "name": "Goodra",
+      "cat": 1,
+      "kind": 3,
+      "no": 94,
+      "rarity": 4,
+      "family": 403,
+      "preevo": "Sliggoo",
+      "hp": 160,
+      "weakness": 10,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Hydration",
+          "text": "Whenever you attach a {W} Energy card from your hand to this Pokémon, heal 20 damage from it.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Soaking Horn",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            4,
+            10
+          ]
+        }
+      ]
+    },
+    "339214431": {
+      "id": 339214431,
+      "name": "Ultra Necrozma-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 95,
+      "rarity": 4,
+      "flags": 16,
+      "family": 609,
+      "hp": 190,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Photon Geyser",
+          "text": "Discard all basic {P} Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            6,
+            9
+          ]
+        },
+        {
+          "name": "Sky-Scorching Light GX",
+          "text": "You can use this attack only if the total of both players’ remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent’s Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            6,
+            9
+          ]
+        }
+      ]
+    },
+    "339214432": {
+      "id": 339214432,
+      "name": "Arceus {*}",
+      "cat": 1,
+      "kind": 1,
+      "no": 96,
+      "rarity": 4,
+      "flags": 32,
+      "family": 610,
+      "hp": 160,
+      "weakness": 7,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "First Law",
+          "text": "Prevent all effects of your opponent's attacks, except damage, done to this Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Trinity Star",
+          "text": "You can use this attack only if you have {G}, {W}, and {L} Pokémon on your Bench. Search your deck for up to 3 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "damage": 30,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339214433": {
+      "id": 339214433,
+      "name": "Bunnelby",
+      "cat": 1,
+      "kind": 1,
+      "no": 97,
+      "rarity": 1,
+      "family": 370,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Gnaw",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216481": {
+      "id": 339216481,
+      "name": "Bunnelby",
+      "cat": 1,
+      "kind": 1,
+      "no": 97,
+      "rarity": 1,
+      "family": 370,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Gnaw",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214434": {
+      "id": 339214434,
+      "name": "Diggersby",
+      "cat": 1,
+      "kind": 2,
+      "no": 98,
+      "rarity": 2,
+      "family": 370,
+      "preevo": "Bunnelby",
+      "hp": 130,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Mountaintop Mining",
+          "text": "You may do 40 more damage. If you do, discard the top 2 cards of your deck.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Rock Cannon",
+          "text": "Flip a coin until you get tails. This attack does 80 damage for each heads.",
+          "damage": 80,
+          "op": "x",
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216482": {
+      "id": 339216482,
+      "name": "Diggersby",
+      "cat": 1,
+      "kind": 2,
+      "no": 98,
+      "rarity": 2,
+      "family": 370,
+      "preevo": "Bunnelby",
+      "hp": 130,
+      "weakness": 7,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Mountaintop Mining",
+          "text": "You may do 40 more damage. If you do, discard the top 2 cards of your deck.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Rock Cannon",
+          "text": "Flip a coin until you get tails. This attack does 80 damage for each heads.",
+          "damage": 80,
+          "op": "x",
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214435": {
+      "id": 339214435,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 99,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Return",
+          "text": "You may draw cards until you have 5 cards in your hand.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339216483": {
+      "id": 339216483,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 99,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Return",
+          "text": "You may draw cards until you have 5 cards in your hand.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "339214436": {
+      "id": 339214436,
+      "name": "Noibat",
+      "cat": 1,
+      "kind": 1,
+      "no": 100,
+      "rarity": 1,
+      "family": 368,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Destructive Sound",
+          "text": "Your opponent reveals their hand. Discard all Item cards you find there.",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216484": {
+      "id": 339216484,
+      "name": "Noibat",
+      "cat": 1,
+      "kind": 1,
+      "no": 100,
+      "rarity": 1,
+      "family": 368,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Destructive Sound",
+          "text": "Your opponent reveals their hand. Discard all Item cards you find there.",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214437": {
+      "id": 339214437,
+      "name": "Noivern",
+      "cat": 1,
+      "kind": 2,
+      "no": 101,
+      "rarity": 3,
+      "family": 368,
+      "preevo": "Noibat",
+      "hp": 120,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Resonance",
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 70 more damage.",
+          "damage": 70,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339216485": {
+      "id": 339216485,
+      "name": "Noivern",
+      "cat": 1,
+      "kind": 2,
+      "no": 101,
+      "rarity": 3,
+      "family": 368,
+      "preevo": "Noibat",
+      "hp": 120,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Resonance",
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 70 more damage.",
+          "damage": 70,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214438": {
+      "id": 339214438,
+      "name": "Beast Ring",
+      "cat": 2,
+      "kind": 40,
+      "no": 102,
+      "rarity": 3,
+      "text": "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.\n\nSearch your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    },
+    "339216486": {
+      "id": 339216486,
+      "name": "Beast Ring",
+      "cat": 2,
+      "kind": 40,
+      "no": 102,
+      "rarity": 3,
+      "text": "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.\n\nSearch your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    },
+    "339218534": {
+      "id": 339218534,
+      "name": "Beast Ring",
+      "cat": 2,
+      "kind": 40,
+      "no": 102,
+      "rarity": 3,
+      "flags": 2056,
+      "text": "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.\n\nSearch your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    },
+    "339214439": {
+      "id": 339214439,
+      "name": "Bonnie",
+      "cat": 2,
+      "kind": 41,
+      "no": 103,
+      "rarity": 2,
+      "text": "You can play this card only if there is any Stadium card in play.\n\nDiscard that Stadium card. During this turn, your Zygarde-GX can use its GX attack even if you have used your GX attack."
+    },
+    "339216487": {
+      "id": 339216487,
+      "name": "Bonnie",
+      "cat": 2,
+      "kind": 41,
+      "no": 103,
+      "rarity": 2,
+      "text": "You can play this card only if there is any Stadium card in play.\n\nDiscard that Stadium card. During this turn, your Zygarde-GX can use its GX attack even if you have used your GX attack."
+    },
+    "339214440": {
+      "id": 339214440,
+      "name": "Crasher Wake",
+      "cat": 2,
+      "kind": 41,
+      "no": 104,
+      "rarity": 2,
+      "text": "Discard 2 {W} Energy cards from your hand. If you do, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+    },
+    "339216488": {
+      "id": 339216488,
+      "name": "Crasher Wake",
+      "cat": 2,
+      "kind": 41,
+      "no": 104,
+      "rarity": 2,
+      "text": "Discard 2 {W} Energy cards from your hand. If you do, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+    },
+    "339215465": {
+      "id": 339215465,
+      "name": "Diantha",
+      "cat": 2,
+      "kind": 41,
+      "no": 105,
+      "rarity": 4,
+      "text": "You can play this card only if 1 of your {Y} Pokémon was Knocked Out during your opponent's last turn.\n\nPut 2 cards from your discard pile into your hand."
+    },
+    "339216489": {
+      "id": 339216489,
+      "name": "Diantha",
+      "cat": 2,
+      "kind": 41,
+      "no": 105,
+      "rarity": 4,
+      "text": "You can play this card only if 1 of your {Y} Pokémon was Knocked Out during your opponent's last turn.\n\nPut 2 cards from your discard pile into your hand."
+    },
+    "339214442": {
+      "id": 339214442,
+      "name": "Eneporter",
+      "cat": 2,
+      "kind": 40,
+      "no": 106,
+      "rarity": 2,
+      "text": "Move a Special Energy from 1 of your opponent’s Pokémon to another of their Pokémon."
+    },
+    "339216490": {
+      "id": 339216490,
+      "name": "Eneporter",
+      "cat": 2,
+      "kind": 40,
+      "no": 106,
+      "rarity": 2,
+      "text": "Move a Special Energy from 1 of your opponent’s Pokémon to another of their Pokémon."
+    },
+    "339214443": {
+      "id": 339214443,
+      "name": "Fossil Excavation Map",
+      "cat": 2,
+      "kind": 40,
+      "no": 107,
+      "rarity": 2,
+      "text": "Choose 1:\n\n•Search your deck for an Unidentified Fossil card, reveal it, and put it into your hand. Then, shuffle your deck.\n•Put an Unidentified Fossil card from your discard pile into your hand."
+    },
+    "339216491": {
+      "id": 339216491,
+      "name": "Fossil Excavation Map",
+      "cat": 2,
+      "kind": 40,
+      "no": 107,
+      "rarity": 2,
+      "text": "Choose 1:\n\n•Search your deck for an Unidentified Fossil card, reveal it, and put it into your hand. Then, shuffle your deck.\n•Put an Unidentified Fossil card from your discard pile into your hand."
+    },
+    "339214444": {
+      "id": 339214444,
+      "name": "Judge",
+      "cat": 2,
+      "kind": 41,
+      "no": 108,
+      "rarity": 2,
+      "text": "Each player shuffles their hand into their deck and draws 4 cards."
+    },
+    "339216492": {
+      "id": 339216492,
+      "name": "Judge",
+      "cat": 2,
+      "kind": 41,
+      "no": 108,
+      "rarity": 2,
+      "text": "Each player shuffles their hand into their deck and draws 4 cards."
+    },
+    "339214445": {
+      "id": 339214445,
+      "name": "Lady",
+      "cat": 2,
+      "kind": 41,
+      "no": 109,
+      "rarity": 2,
+      "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    "339216493": {
+      "id": 339216493,
+      "name": "Lady",
+      "cat": 2,
+      "kind": 41,
+      "no": 109,
+      "rarity": 2,
+      "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    "339224685": {
+      "id": 339224685,
+      "name": "Lady",
+      "cat": 2,
+      "kind": 41,
+      "no": 109,
+      "colNo": "SV86",
+      "rarity": 5,
+      "flags": 8193,
+      "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    "339214446": {
+      "id": 339214446,
+      "name": "Lysandre {*}",
+      "cat": 2,
+      "kind": 41,
+      "no": 110,
+      "rarity": 4,
+      "flags": 32,
+      "text": "For each of your {R} Pokémon in play, put a card from your opponent’s discard pile in the Lost Zone."
+    },
+    "339214447": {
+      "id": 339214447,
+      "name": "Lysandre Labs",
+      "cat": 2,
+      "kind": 42,
+      "no": 111,
+      "rarity": 2,
+      "text": "Pokémon Tool cards in play (both yours and your opponent's) have no effect."
+    },
+    "339216495": {
+      "id": 339216495,
+      "name": "Lysandre Labs",
+      "cat": 2,
+      "kind": 42,
+      "no": 111,
+      "rarity": 2,
+      "text": "Pokémon Tool cards in play (both yours and your opponent's) have no effect."
+    },
+    "339214448": {
+      "id": 339214448,
+      "name": "Metal Frying Pan",
+      "cat": 2,
+      "kind": 43,
+      "no": 112,
+      "rarity": 2,
+      "text": "The {M} Pokémon this card is attached to takes 30 less damage from your opponent’s attacks (after applying Weakness and Resistance) and has no Weakness."
+    },
+    "339216496": {
+      "id": 339216496,
+      "name": "Metal Frying Pan",
+      "cat": 2,
+      "kind": 43,
+      "no": 112,
+      "rarity": 2,
+      "text": "The {M} Pokémon this card is attached to takes 30 less damage from your opponent’s attacks (after applying Weakness and Resistance) and has no Weakness."
+    },
+    "339224688": {
+      "id": 339224688,
+      "name": "Metal Frying Pan",
+      "cat": 2,
+      "kind": 43,
+      "no": 112,
+      "colNo": "112a",
+      "rarity": 8,
+      "flags": 8200,
+      "text": "The {M} Pokémon this card is attached to takes 30 less damage from your opponent’s attacks (after applying Weakness and Resistance) and has no Weakness."
+    },
+    "339214449": {
+      "id": 339214449,
+      "name": "Mysterious Treasure",
+      "cat": 2,
+      "kind": 40,
+      "no": 113,
+      "rarity": 2,
+      "text": "Discard a card from your hand. If you do, search your deck for a {P} or {N} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    "339216497": {
+      "id": 339216497,
+      "name": "Mysterious Treasure",
+      "cat": 2,
+      "kind": 40,
+      "no": 113,
+      "rarity": 2,
+      "text": "Discard a card from your hand. If you do, search your deck for a {P} or {N} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    "339224689": {
+      "id": 339224689,
+      "name": "Mysterious Treasure",
+      "cat": 2,
+      "kind": 40,
+      "no": 113,
+      "colNo": "113a",
+      "rarity": 8,
+      "flags": 8192,
+      "text": "Discard a card from your hand. If you do, search your deck for a {P} or {N} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    "339214450": {
+      "id": 339214450,
+      "name": "Ultra Recon Squad",
+      "cat": 2,
+      "kind": 41,
+      "no": 114,
+      "rarity": 2,
+      "text": "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way."
+    },
+    "339216498": {
+      "id": 339216498,
+      "name": "Ultra Recon Squad",
+      "cat": 2,
+      "kind": 41,
+      "no": 114,
+      "rarity": 2,
+      "text": "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way."
+    },
+    "339214451": {
+      "id": 339214451,
+      "name": "Ultra Space",
+      "cat": 2,
+      "kind": 42,
+      "no": 115,
+      "rarity": 2,
+      "text": "Once during each player’s turn, that player may search their deck for an Ultra Beast card, reveal it, put it into their hand, and shuffle their deck."
+    },
+    "339216499": {
+      "id": 339216499,
+      "name": "Ultra Space",
+      "cat": 2,
+      "kind": 42,
+      "no": 115,
+      "rarity": 2,
+      "text": "Once during each player’s turn, that player may search their deck for an Ultra Beast card, reveal it, put it into their hand, and shuffle their deck."
+    },
+    "339214452": {
+      "id": 339214452,
+      "name": "Unidentified Fossil",
+      "cat": 2,
+      "kind": 40,
+      "no": 116,
+      "rarity": 2,
+      "text": "Play this card as if it were a 60-HP {C} Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.\n\nThis card can't retreat."
+    },
+    "339216500": {
+      "id": 339216500,
+      "name": "Unidentified Fossil",
+      "cat": 2,
+      "kind": 40,
+      "no": 116,
+      "rarity": 2,
+      "text": "Play this card as if it were a 60-HP {C} Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.\n\nThis card can't retreat."
+    },
+    "339214453": {
+      "id": 339214453,
+      "name": "Beast Energy {*}",
+      "cat": 3,
+      "kind": 51,
+      "no": 117,
+      "rarity": 4,
+      "flags": 32,
+      "text": "This card provides {C} Energy.\n\nWhile this card is attached to an Ultra Beast, it provides every type of Energy but provides only 1 Energy at a time. The attacks of the Ultra Beast this card is attached to do 30 more damage to your opponent’s Active Pokémon (before applying Weakness and Resistance).",
+      "energy": [
+        1
+      ]
+    },
+    "339214454": {
+      "id": 339214454,
+      "name": "Unit Energy {F}{D}{Y}",
+      "cat": 3,
+      "kind": 51,
+      "no": 118,
+      "rarity": 2,
+      "text": "This card provides {C} Energy. \n\nWhile this card is attached to a Pokémon, it provides {F}, {D}, and {Y} Energy but provides only 1 Energy at a time.",
+      "energy": [
+        1
+      ]
+    },
+    "339216502": {
+      "id": 339216502,
+      "name": "Unit Energy {F}{D}{Y}",
+      "cat": 3,
+      "kind": 51,
+      "no": 118,
+      "rarity": 2,
+      "text": "This card provides {C} Energy. \n\nWhile this card is attached to a Pokémon, it provides {F}, {D}, and {Y} Energy but provides only 1 Energy at a time.",
+      "energy": [
+        1
+      ]
+    },
+    "339214455": {
+      "id": 339214455,
+      "name": "Palkia-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 119,
+      "rarity": 5,
+      "flags": 1,
+      "family": 597,
+      "hp": 180,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Hydro Pressure",
+          "text": "This attack does 20 more damage times the amount of {W} Energy attached to this Pokémon.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Zero Vanish GX",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339214456": {
+      "id": 339214456,
+      "name": "Greninja-GX",
+      "cat": 1,
+      "kind": 11,
+      "no": 120,
+      "rarity": 5,
+      "flags": 1,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 230,
+      "weakness": 2,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Shuriken Flurry",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Haze Slash",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Shadowy Hunter GX",
+          "text": "This attack does 130 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339227768": {
+      "id": 339227768,
+      "name": "Greninja-GX",
+      "cat": 1,
+      "kind": 11,
+      "no": 120,
+      "colNo": "SV56",
+      "rarity": 5,
+      "flags": 8449,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 230,
+      "weakness": 2,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Shuriken Flurry",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Haze Slash",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Shadowy Hunter GX",
+          "text": "This attack does 130 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339214457": {
+      "id": 339214457,
+      "name": "Naganadel-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 121,
+      "rarity": 5,
+      "flags": 17,
+      "family": 602,
+      "preevo": "Poipole",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beast Raid",
+          "text": "This attack does 20 damage for each of your Ultra Beasts in play.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Jet Needle",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Stinger GX",
+          "text": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339227769": {
+      "id": 339227769,
+      "name": "Naganadel-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 121,
+      "colNo": "SV63",
+      "rarity": 5,
+      "flags": 8465,
+      "family": 602,
+      "preevo": "Poipole",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beast Raid",
+          "text": "This attack does 20 damage for each of your Ultra Beasts in play.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Jet Needle",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Stinger GX",
+          "text": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214458": {
+      "id": 339214458,
+      "name": "Lucario-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 122,
+      "rarity": 5,
+      "flags": 1,
+      "family": 105,
+      "preevo": "Riolu",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Aura Strike",
+          "text": "If this Pokémon evolved from Riolu during this turn, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Cantankerous Beatdown GX",
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Cyclone Kick",
+          "damage": 130,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339227770": {
+      "id": 339227770,
+      "name": "Lucario-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 122,
+      "colNo": "SV64",
+      "rarity": 5,
+      "flags": 8449,
+      "family": 105,
+      "preevo": "Riolu",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Aura Strike",
+          "text": "If this Pokémon evolved from Riolu during this turn, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Cantankerous Beatdown GX",
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Cyclone Kick",
+          "damage": 130,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214459": {
+      "id": 339214459,
+      "name": "Zygarde-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 123,
+      "rarity": 5,
+      "flags": 1,
+      "family": 603,
+      "hp": 200,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Cell Connector",
+          "text": "Attach 2 {F} Energy cards from your discard pile to this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Verdict GX",
+          "text": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339227771": {
+      "id": 339227771,
+      "name": "Zygarde-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 123,
+      "colNo": "SV65",
+      "rarity": 5,
+      "flags": 8449,
+      "family": 603,
+      "hp": 200,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Cell Connector",
+          "text": "Attach 2 {F} Energy cards from your discard pile to this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Verdict GX",
+          "text": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214460": {
+      "id": 339214460,
+      "name": "Yveltal-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 124,
+      "rarity": 5,
+      "flags": 1,
+      "family": 606,
+      "hp": 180,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb Vitality",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "damage": 20,
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Doom Count GX",
+          "text": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Sonic Evil",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214461": {
+      "id": 339214461,
+      "name": "Dialga-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 125,
+      "rarity": 5,
+      "flags": 1,
+      "family": 596,
+      "hp": 180,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Overclock",
+          "text": "Draw cards until you have 6 cards in your hand.",
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Timeless GX",
+          "text": "Take another turn after this one. (Skip the between-turns step.) (You can’t use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            9,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "339214462": {
+      "id": 339214462,
+      "name": "Xerneas-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 126,
+      "rarity": 5,
+      "flags": 1,
+      "family": 608,
+      "hp": 180,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Overrun",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Aurora Horns",
+          "damage": 120,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        },
+        {
+          "name": "Sanctuary GX",
+          "text": "Move all damage counters from each of your Pokémon to your opponent's Active Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "339214463": {
+      "id": 339214463,
+      "name": "Ultra Necrozma-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 127,
+      "rarity": 5,
+      "flags": 17,
+      "family": 609,
+      "hp": 190,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Photon Geyser",
+          "text": "Discard all basic {P} Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            6,
+            9
+          ]
+        },
+        {
+          "name": "Sky-Scorching Light GX",
+          "text": "You can use this attack only if the total of both players’ remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent’s Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            6,
+            9
+          ]
+        }
+      ]
+    },
+    "339214464": {
+      "id": 339214464,
+      "name": "Bonnie",
+      "cat": 2,
+      "kind": 41,
+      "no": 128,
+      "rarity": 5,
+      "flags": 1,
+      "text": "You can play this card only if there is any Stadium card in play.\n\nDiscard that Stadium card. During this turn, your Zygarde-GX can use its GX attack even if you have used your GX attack."
+    },
+    "339214465": {
+      "id": 339214465,
+      "name": "Crasher Wake",
+      "cat": 2,
+      "kind": 41,
+      "no": 129,
+      "rarity": 5,
+      "flags": 1,
+      "text": "Discard 2 {W} Energy cards from your hand. If you do, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+    },
+    "339214466": {
+      "id": 339214466,
+      "name": "Diantha",
+      "cat": 2,
+      "kind": 41,
+      "no": 130,
+      "rarity": 5,
+      "flags": 1,
+      "text": "You can play this card only if 1 of your {Y} Pokémon was Knocked Out during your opponent's last turn.\n\nPut 2 cards from your discard pile into your hand."
+    },
+    "339214467": {
+      "id": 339214467,
+      "name": "Ultra Recon Squad",
+      "cat": 2,
+      "kind": 41,
+      "no": 131,
+      "rarity": 5,
+      "flags": 1,
+      "text": "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way."
+    },
+    "339214468": {
+      "id": 339214468,
+      "name": "Palkia-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 132,
+      "rarity": 7,
+      "flags": 1,
+      "family": 597,
+      "hp": 180,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Hydro Pressure",
+          "text": "This attack does 20 more damage times the amount of {W} Energy attached to this Pokémon.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Zero Vanish GX",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "339214469": {
+      "id": 339214469,
+      "name": "Greninja-GX",
+      "cat": 1,
+      "kind": 11,
+      "no": 133,
+      "rarity": 7,
+      "flags": 1,
+      "family": 374,
+      "preevo": "Frogadier",
+      "hp": 230,
+      "weakness": 2,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Shuriken Flurry",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Haze Slash",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Shadowy Hunter GX",
+          "text": "This attack does 130 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "339214470": {
+      "id": 339214470,
+      "name": "Naganadel-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 134,
+      "rarity": 7,
+      "flags": 17,
+      "family": 602,
+      "preevo": "Poipole",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Beast Raid",
+          "text": "This attack does 20 damage for each of your Ultra Beasts in play.",
+          "damage": 20,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Jet Needle",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 110,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Stinger GX",
+          "text": "Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214471": {
+      "id": 339214471,
+      "name": "Lucario-GX",
+      "cat": 1,
+      "kind": 10,
+      "no": 135,
+      "rarity": 7,
+      "flags": 1,
+      "family": 105,
+      "preevo": "Riolu",
+      "hp": 210,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Aura Strike",
+          "text": "If this Pokémon evolved from Riolu during this turn, this attack does 90 more damage.",
+          "damage": 30,
+          "op": "+",
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "Cantankerous Beatdown GX",
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Cyclone Kick",
+          "damage": 130,
+          "cost": [
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214472": {
+      "id": 339214472,
+      "name": "Zygarde-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 136,
+      "rarity": 7,
+      "flags": 1,
+      "family": 603,
+      "hp": 200,
+      "weakness": 2,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Cell Connector",
+          "text": "Attach 2 {F} Energy cards from your discard pile to this Pokémon.",
+          "damage": 50,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        },
+        {
+          "name": "Verdict GX",
+          "text": "Prevent all damage done to this Pokémon by attacks from Pokémon-GX and Pokémon-EX during your opponent's next turn. (You can't use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    "339214473": {
+      "id": 339214473,
+      "name": "Yveltal-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 137,
+      "rarity": 7,
+      "flags": 1,
+      "family": 606,
+      "hp": 180,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Absorb Vitality",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "damage": 20,
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Doom Count GX",
+          "text": "If your opponent's Active Pokémon has exactly 4 damage counters on it, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)",
+          "cost": [
+            8
+          ]
+        },
+        {
+          "name": "Sonic Evil",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "339214474": {
+      "id": 339214474,
+      "name": "Dialga-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 138,
+      "rarity": 7,
+      "flags": 1,
+      "family": 596,
+      "hp": 180,
+      "weakness": 3,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Overclock",
+          "text": "Draw cards until you have 6 cards in your hand.",
+          "cost": [
+            9
+          ]
+        },
+        {
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Timeless GX",
+          "text": "Take another turn after this one. (Skip the between-turns step.) (You can’t use more than 1 GX attack in a game.)",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            9,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "339214475": {
+      "id": 339214475,
+      "name": "Xerneas-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 139,
+      "rarity": 7,
+      "flags": 1,
+      "family": 608,
+      "hp": 180,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Overrun",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Aurora Horns",
+          "damage": 120,
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        },
+        {
+          "name": "Sanctuary GX",
+          "text": "Move all damage counters from each of your Pokémon to your opponent's Active Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "339214476": {
+      "id": 339214476,
+      "name": "Ultra Necrozma-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 140,
+      "rarity": 7,
+      "flags": 17,
+      "family": 609,
+      "hp": 190,
+      "weakness": 10,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Photon Geyser",
+          "text": "Discard all basic {P} Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            6,
+            9
+          ]
+        },
+        {
+          "name": "Sky-Scorching Light GX",
+          "text": "You can use this attack only if the total of both players’ remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent’s Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            6,
+            9
+          ]
+        }
+      ]
+    },
+    "339214477": {
+      "id": 339214477,
+      "name": "Beast Ring",
+      "cat": 2,
+      "kind": 40,
+      "no": 141,
+      "rarity": 6,
+      "flags": 1,
+      "text": "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.\n\nSearch your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck."
+    },
+    "339214478": {
+      "id": 339214478,
+      "name": "Eneporter",
+      "cat": 2,
+      "kind": 40,
+      "no": 142,
+      "rarity": 6,
+      "flags": 1,
+      "text": "Move a Special Energy from 1 of your opponent’s Pokémon to another of their Pokémon."
+    },
+    "339214479": {
+      "id": 339214479,
+      "name": "Energy Recycler",
+      "cat": 2,
+      "kind": 40,
+      "no": 143,
+      "rarity": 6,
+      "flags": 1,
+      "text": "Shuffle 5 basic Energy cards from your discard pile into your deck."
+    },
+    "339214480": {
+      "id": 339214480,
+      "name": "Metal Frying Pan",
+      "cat": 2,
+      "kind": 43,
+      "no": 144,
+      "rarity": 6,
+      "flags": 1,
+      "text": "The {M} Pokémon this card is attached to takes 30 less damage from your opponent’s attacks (after applying Weakness and Resistance) and has no Weakness."
+    },
+    "339214481": {
+      "id": 339214481,
+      "name": "Mysterious Treasure",
+      "cat": 2,
+      "kind": 40,
+      "no": 145,
+      "rarity": 6,
+      "flags": 1,
+      "text": "Discard a card from your hand. If you do, search your deck for a {P} or {N} Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    "339214482": {
+      "id": 339214482,
+      "name": "Unit Energy {F}{D}{Y}",
+      "cat": 3,
+      "kind": 51,
+      "no": 146,
+      "rarity": 6,
+      "flags": 1,
+      "text": "This card provides {C} Energy. \n\nWhile this card is attached to a Pokémon, it provides {F}, {D}, and {Y} Energy but provides only 1 Energy at a time.",
+      "energy": [
+        1
+      ]
+    }
+  },
+  "packs": {
+    "339270657": {
+      "id": 339270657,
+      "name": "Sun & Moon—Forbidden Light",
+      "cat": 10,
+      "cards": 11,
+      "description": "Taking the Pokémon world by surprise, Necrozma has absorbed a Legendary Pokémon and taken on a new form as Ultra Necrozma-GX! Other Pokémon gather to welcome this new light…or to resist it. Lucario-GX, Greninja-GX, Zygarde-GX, Yveltal-GX, Naganadel-GX, even Volcanion {*} and the majestic Arceus {*} must choose a side. Discover awesome Pokémon and mysterious treasures in the Pokémon TCG: Sun & Moon—Forbidden Light expansion!"
+    },
+    "339270658": {
+      "id": 339270658,
+      "name": "Sun & Moon—Forbidden Light",
+      "cat": 10,
+      "cards": 6,
+      "description": "Taking the Pokémon world by surprise, Necrozma has absorbed a Legendary Pokémon and taken on a new form as Ultra Necrozma-GX! Other Pokémon gather to welcome this new light…or to resist it. Lucario-GX, Greninja-GX, Zygarde-GX, Yveltal-GX, Naganadel-GX, even Volcanion {*} and the majestic Arceus {*} must choose a side. Discover awesome Pokémon and mysterious treasures in the Pokémon TCG: Sun & Moon—Forbidden Light expansion!"
+    },
+    "339270659": {
+      "id": 339270659,
+      "name": "Sun & Moon—Forbidden Light Evolution Pack",
+      "cat": 17,
+      "description": "A 23-card Sun & Moon—Forbidden Light Evolution pack, including 1 of 4 unique foil promo cards."
+    }
+  },
+  "products": {
+    "SM6TropicalTakedownBundle": {
+      "id": 339271680,
+      "name": "Tropical Takedown",
+      "cat": 15,
+      "asset": "SM6TropicalTakedownBundle",
+      "description": "Alolan Exeggutor leads the way with its Tropical Shake attack, and lots of Alolan Pokémon come along to win as a team! This deck helps you make the most of your big attacks—go shake it up with the Tropical Takedown theme deck!"
+    },
+    "SM6TropicalTakedownPCD": {
+      "id": 339271680,
+      "name": "Tropical Takedown",
+      "cat": 15,
+      "asset": "SM6TropicalTakedownPCD",
+      "description": "Alolan Exeggutor leads the way with its Tropical Shake attack, and lots of Alolan Pokémon come along to win as a team! This deck helps you make the most of your big attacks—go shake it up with the Tropical Takedown theme deck!"
+    },
+    "SM6TwilightRogueBundle": {
+      "id": 339271680,
+      "name": "Twilight Rogue",
+      "cat": 15,
+      "asset": "SM6TwilightRogueBundle",
+      "description": "Outnumbered? No problem! Lycanroc does more damage when your opponent's Bench is full, so use Dusknoir to force your opponent to play more Basic Pokémon. Salazzle and Malamar pull more cards and more Energy—for more ways to win with the Twilight Rogue theme deck!"
+    },
+    "SM6TwilightRoguePCD": {
+      "id": 339271680,
+      "name": "Twilight Rogue",
+      "cat": 15,
+      "asset": "SM6TwilightRoguePCD",
+      "description": "Outnumbered? No problem! Lycanroc does more damage when your opponent's Bench is full, so use Dusknoir to force your opponent to play more Basic Pokémon. Salazzle and Malamar pull more cards and more Energy—for more ways to win with the Twilight Rogue theme deck!"
+    }
+  }
+}

@@ -1,0 +1,1490 @@
+[
+  {
+    "10000": "1a47c688-bb22-42ea-b217-20f6d591ffb6",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c690104b-7000-460d-bc33-652260ffec6d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 19,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2039e0f1-11a5-4e1e-89b2-6a4e0241615f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Goldeen.Name$$$",
+    "10190": 61,
+    "200260": 453,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Goldeen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.GameText$$$",
+        "abilityID": "1b911eed-f435-4135-9e42-5cee239102bf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 13,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "db5bfb1e-dc53-440b-8183-719df154a2ab",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "21c0b950-c161-4023-af41-99ceca81b7e0",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 5,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "00cb0d42-eb29-4dc7-9009-ba5fe27bc024",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 1,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4c257d3a-4248-473d-a908-c80451add7a5",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Suicune.Name$$$",
+    "10190": 61,
+    "200260": 73,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "Rare",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200630": "Suicune",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TK9.SpiralDrain.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TK9.SpiralDrain.GameText$$$",
+        "abilityID": "fc7b424d-6fc9-411e-a35d-55110991944b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.AuroraBeam.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "565dd6f5-90d4-43f5-96fe-1b158b9d6d64",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 14,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "4c257d3a-4248-473d-a908-c80451add7a5",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "d7dbcb5b-5122-4adc-b8aa-469d6ce8b923",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "10190": 61,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Frogadier",
+    "200640": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Cut.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Cut.GameText$$$",
+        "abilityID": "dfb83886-6c59-4bc4-9611-12ce5041ee0d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 21,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4379d67f-3952-4488-b214-f9f10a8eebab",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f17aa93c-9c66-406a-b26a-0044b3137478",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "10190": 61,
+    "200260": 374,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Pound.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Pound.GameText$$$",
+        "abilityID": "239fdfa4-8e46-405e-810e-66a8c5afd013",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 23,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ccca94e1-6f7a-4ac3-95e5-2c416e081d3a",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "fed96cb6-8d9d-4f7a-8202-5d1f61561639",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Swanna.Name$$$",
+    "10190": 61,
+    "200260": 9,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ducklett.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Swanna",
+    "200640": "Ducklett",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.GameText$$$",
+        "abilityID": "a94d254d-605a-49bd-9ab3-b86ca6fecd43",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.BraveBird.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.BraveBird.GameText$$$",
+        "abilityID": "4ea3a183-d849-4fa8-9112-831e6213332c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 27,
+    "200800": 0,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201030": false,
+    "201610": 1,
+    "201710": "9f8077a7-6a8f-45a3-ac0d-3caeb8985e15",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "cfc1c36e-4aac-4479-aa85-377a6e55bf89",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 2,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "611b295d-885f-4c02-b6e0-e0db4e4203fe",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Tierno_XY9_112.Name$$$",
+    "10190": 61,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Tierno_XY9_112.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK9B",
+    "200630": "Tierno",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 29,
+    "200871": "std",
+    "201710": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "dd758da8-5389-4315-878b-3e081bca7b18",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Tierno_XY9_112.Name$$$",
+    "10190": 61,
+    "200270": "Supporter",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Tierno_XY9_112.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK9B",
+    "200630": "Tierno",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "7f81a332-b536-4bb9-a999-1f289fc2c628",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 20,
+    "200871": "std",
+    "201710": "487f3ec3-852b-46b9-8d6b-0aecb6cff597",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a60720bb-3f21-487a-8c82-fd50bf5e586c",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Seaking.Name$$$",
+    "10190": 61,
+    "200260": 453,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Goldeen.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Seaking",
+    "200640": "Goldeen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.SoakingHorn.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.SoakingHorn.GameText$$$",
+        "abilityID": "4b19154c-02d2-4f58-9703-41b6962a4a8a",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.GameText$$$",
+        "abilityID": "aa06192d-e0a0-427e-a239-f6d3face509c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 2,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 25,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "fdea8492-da51-40e5-aa1e-09588251d7d4",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "59d91bfd-658d-4489-814d-4a6cb61bf8bd",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Swanna.Name$$$",
+    "10190": 61,
+    "200260": 9,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ducklett.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 80,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Swanna",
+    "200640": "Ducklett",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.Name$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.WingAttack.GameText$$$",
+        "abilityID": "a94d254d-605a-49bd-9ab3-b86ca6fecd43",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 3
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.BraveBird.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.BraveBird.GameText$$$",
+        "abilityID": "4ea3a183-d849-4fa8-9112-831e6213332c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 18,
+    "200800": 0,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201030": false,
+    "201610": 1,
+    "201710": "9f8077a7-6a8f-45a3-ac0d-3caeb8985e15",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "e446fc5f-a531-4f9d-baeb-1c0573048f44",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 22,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f5b3915b-c81e-491a-889b-7de5c189af84",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Seaking.Name$$$",
+    "10190": 61,
+    "200260": 453,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Goldeen.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 90,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Seaking",
+    "200640": "Goldeen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.SoakingHorn.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.SoakingHorn.GameText$$$",
+        "abilityID": "4b19154c-02d2-4f58-9703-41b6962a4a8a",
+        "amountOperator": "+",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 1,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 40,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.GameText$$$",
+        "abilityID": "aa06192d-e0a0-427e-a239-f6d3face509c",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "sortOrder": 2,
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 12,
+    "200800": 2,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "fdea8492-da51-40e5-aa1e-09588251d7d4",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "16af5d36-8b6e-4c60-86aa-88476c6e582e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Frogadier.Name$$$",
+    "10190": 61,
+    "200260": 374,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 70,
+    "200540": "Stage1",
+    "200550": "Uncommon",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Frogadier",
+    "200640": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Cut.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Cut.GameText$$$",
+        "abilityID": "dfb83886-6c59-4bc4-9611-12ce5041ee0d",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 6,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4379d67f-3952-4488-b214-f9f10a8eebab",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "a15af191-169a-468a-a28b-17f2e3a4f89e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ducklett.Name$$$",
+    "10190": 61,
+    "200260": 9,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Ducklett",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.Lunge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.Lunge.GameText$$$",
+        "abilityID": "48996abd-f06e-4fa6-822d-eb0e8ea30392",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 7,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201030": false,
+    "201610": 1,
+    "201710": "fcdae18e-fc7d-4410-b78b-8ac665f9ca84",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "4b5cbd57-7992-4297-85e5-319efbfb8128",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 3,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "c95978d8-66f7-42f8-9249-c9aa3bd64588",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Eevee.Name$$$",
+    "10190": 61,
+    "200260": 91,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Colorless"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Fighting"
+    ],
+    "200600": "NoColor",
+    "200630": "Eevee",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 2
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY7.Lunge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY7.Lunge.GameText$$$",
+        "abilityID": "ed11dd07-7ed9-4524-9e6c-c7a33788d272",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY7.Tackle.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY7.Tackle.GameText$$$",
+        "abilityID": "2314c5e9-f5e0-4ed4-abb7-69cab78eedd9",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 4,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "4453311e-143c-4abe-8f5e-3e8c1e0c1111",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b2b010d5-6b6c-4ead-8b22-596a5cf69802",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 28,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "2341c42d-8523-4839-b05b-8cccf8a57446",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Ducklett.Name$$$",
+    "10190": 61,
+    "200260": 9,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "Fighting",
+    "200630": "Ducklett",
+    "200650": "-",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.Lunge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY9.Lunge.GameText$$$",
+        "abilityID": "48996abd-f06e-4fa6-822d-eb0e8ea30392",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 24,
+    "200800": 1,
+    "200820": 2,
+    "200830": 20,
+    "200871": "std",
+    "201030": false,
+    "201610": 1,
+    "201710": "fcdae18e-fc7d-4410-b78b-8ac665f9ca84",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "745a95e3-bf4b-46b2-ad18-1474d212ae22",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 9,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0c1a267e-a851-4d47-9870-bd07049fc027",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Potion_XY9_106.Name$$$",
+    "10190": 61,
+    "200270": "Item",
+    "200300": "TrainerCard",
+    "200310": "$$$com.direwolfdigital.cake.data.archetypes.XY9.trainercards.Potion_XY9_106.GameText$$$",
+    "200550": "Uncommon",
+    "200580": "TK9B",
+    "200630": "Potion",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "813f36a0-7de8-44d7-b2f6-fef2935d94b6",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 15,
+    "200871": "std",
+    "201710": "3ec092f2-c715-441c-9772-59929b3c7cb8",
+    "201730": [
+      "tk9",
+      "newPlayerDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "47ab1b59-277e-400c-a41d-f157c93af134",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 17,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "f42abfb8-129c-4363-8507-80d9ba253bcb",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Piplup.Name$$$",
+    "10190": 61,
+    "200260": 93,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Piplup",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.WaveSplash.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.WaveSplash.GameText$$$",
+        "abilityID": "e3294f88-b630-44a6-87ba-10bbd92b5508",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 16,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "739cf11c-7845-4594-b546-93ec496ad142",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0fba6b75-7ad3-4a09-a525-eb866872c36d",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.FreeEnergy.energy.BasicWaterEnergy.Name$$$",
+    "10190": 61,
+    "200300": "Energy",
+    "200550": "Common",
+    "200580": "TK9B",
+    "200630": "WaterEnergy",
+    "200740": [
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm8_165.mountainpass.play$$$",
+        "abilityID": "807d7113-9269-4443-ae78-22d61a37ac00",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 8,
+    "200871": "std",
+    "201040": {
+      "options": [
+        [
+          "Water"
+        ]
+      ]
+    },
+    "201710": "de74fc8c-f637-470c-ab5a-de94d53cd158",
+    "201730": [
+      "tk9",
+      "newCalvinDeck"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "0f7d9863-3cfb-4596-a5e7-315b1ab46e2e",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Suicune.Name$$$",
+    "10190": 61,
+    "200260": 73,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 100,
+    "200540": "Basic",
+    "200550": "RareHolo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "AngledPillars",
+    "200620": "Holo",
+    "200630": "Suicune",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TK9.SpiralDrain.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.TK9.SpiralDrain.GameText$$$",
+        "abilityID": "fc7b424d-6fc9-411e-a35d-55110991944b",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 2
+        },
+        "damage": 80,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.BW6.AuroraBeam.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.AttackAction.CustomChoiceChoice1$$$",
+        "abilityID": "565dd6f5-90d4-43f5-96fe-1b158b9d6d64",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "pcd",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "4c257d3a-4248-473d-a908-c80451add7a5",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "b9c77cf6-3038-4247-97ad-91e13b31cb6f",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Goldeen.Name$$$",
+    "10190": 61,
+    "200260": 453,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Goldeen",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.RecklessCharge.GameText$$$",
+        "abilityID": "1b911eed-f435-4135-9e42-5cee239102bf",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 26,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "db5bfb1e-dc53-440b-8183-719df154a2ab",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  },
+  {
+    "10000": "966c458d-3c24-413c-9d20-d15bf8eb9861",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Froakie.Name$$$",
+    "10190": 61,
+    "200260": 374,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 50,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "TK9B",
+    "200590": [
+      "Grass"
+    ],
+    "200600": "NoColor",
+    "200630": "Froakie",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Pound.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.XY8.Pound.GameText$$$",
+        "abilityID": "239fdfa4-8e46-405e-810e-66a8c5afd013",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 11,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "std",
+    "201610": 1,
+    "201710": "ccca94e1-6f7a-4ac3-95e5-2c416e081d3a",
+    "201730": [
+      "tk9"
+    ],
+    "202080": 201
+  }
+]

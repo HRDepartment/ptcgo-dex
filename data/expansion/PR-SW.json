@@ -1,0 +1,505 @@
+{
+  "expansion": "PR-SW",
+  "items": {
+    "400556033": {
+      "id": 400556033,
+      "name": "Grookey",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "colNo": "SWSH001",
+      "rarity": 8,
+      "family": 687,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Branch Poke",
+          "damage": 30,
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "400556034": {
+      "id": 400556034,
+      "name": "Scorbunny",
+      "cat": 1,
+      "kind": 1,
+      "no": 2,
+      "colNo": "SWSH002",
+      "rarity": 8,
+      "family": 700,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+          "damage": 10,
+          "cost": [
+            3
+          ]
+        }
+      ]
+    },
+    "400556035": {
+      "id": 400556035,
+      "name": "Sobble",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "colNo": "SWSH003",
+      "rarity": 8,
+      "family": 701,
+      "hp": 60,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Bind",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "400556036": {
+      "id": 400556036,
+      "name": "Meowth V",
+      "cat": 1,
+      "kind": 14,
+      "no": 4,
+      "colNo": "SWSH004",
+      "rarity": 8,
+      "family": 709,
+      "hp": 180,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Pay Day",
+          "text": "Draw a card.",
+          "damage": 30,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Slashing Claw",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556037": {
+      "id": 400556037,
+      "name": "Meowth VMAX",
+      "cat": 1,
+      "kind": 15,
+      "no": 5,
+      "colNo": "SWSH005",
+      "rarity": 8,
+      "family": 709,
+      "preevo": "Meowth V",
+      "hp": 300,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "G-Max Gold Rush",
+          "text": "Draw 3 cards.",
+          "damage": 200,
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556038": {
+      "id": 400556038,
+      "name": "Rillaboom",
+      "cat": 1,
+      "kind": 3,
+      "no": 6,
+      "colNo": "SWSH006",
+      "rarity": 8,
+      "family": 687,
+      "preevo": "Thwackey",
+      "hp": 170,
+      "weakness": 3,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Voltage Beat",
+          "text": "Once during your turn, you may search your deck for up to 2 {G} Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": 140,
+          "cost": [
+            1,
+            2,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "400556039": {
+      "id": 400556039,
+      "name": "Frosmoth",
+      "cat": 1,
+      "kind": 2,
+      "no": 7,
+      "colNo": "SWSH007",
+      "rarity": 8,
+      "family": 721,
+      "preevo": "Snom",
+      "hp": 90,
+      "weakness": 9,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Ice Dance",
+          "text": "As often as you like during your turn, you may attach a {W} Energy card from your hand to 1 of your Benched {W} Pokémon.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": 30,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "400556040": {
+      "id": 400556040,
+      "name": "Galarian Perrserker",
+      "cat": 1,
+      "kind": 2,
+      "no": 8,
+      "colNo": "SWSH008",
+      "rarity": 8,
+      "family": 739,
+      "preevo": "Galarian Meowth",
+      "hp": 120,
+      "weakness": 3,
+      "resistance": 2,
+      "resist": -30,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "",
+          "text": "Your {M} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    "400557065": {
+      "id": 400557065,
+      "name": "Cinccino",
+      "cat": 1,
+      "kind": 2,
+      "no": 9,
+      "colNo": "SWSH009",
+      "rarity": 4,
+      "family": 5,
+      "preevo": "Minccino",
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Make Do",
+          "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "damage": 40,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "400556042": {
+      "id": 400556042,
+      "name": "Gossifleur",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "colNo": "SWSH010",
+      "rarity": 8,
+      "family": 713,
+      "hp": 50,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sing",
+          "text": "Your opponent’s Active Pokémon is now Asleep.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "400556043": {
+      "id": 400556043,
+      "name": "Wooloo",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "colNo": "SWSH011",
+      "rarity": 8,
+      "family": 747,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent’s next turn.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556044": {
+      "id": 400556044,
+      "name": "Morpeko",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "colNo": "SWSH012",
+      "rarity": 8,
+      "family": 309,
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 60,
+          "cost": [
+            5,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556045": {
+      "id": 400556045,
+      "name": "Galarian Ponyta",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "colNo": "SWSH013",
+      "rarity": 8,
+      "family": 727,
+      "hp": 70,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -30,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Heal Pulse",
+          "text": "Heal 30 damage from 1 of your Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Flop",
+          "damage": 20,
+          "cost": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "400556046": {
+      "id": 400556046,
+      "name": "Rillaboom V",
+      "cat": 1,
+      "kind": 14,
+      "no": 14,
+      "colNo": "SWSH014",
+      "rarity": 8,
+      "flags": 1,
+      "family": 741,
+      "hp": 220,
+      "weakness": 3,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Forest Feast",
+          "text": "Search your deck for up to 2 Basic {G} Pokémon and put them onto your Bench. Then, shuffle your deck.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Wood Hammer",
+          "text": "This Pokémon also does 30 damage to itself.",
+          "damage": 220,
+          "cost": [
+            1,
+            2,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "400556047": {
+      "id": 400556047,
+      "name": "Cinderace V",
+      "cat": 1,
+      "kind": 14,
+      "no": 15,
+      "colNo": "SWSH015",
+      "rarity": 8,
+      "flags": 1,
+      "family": 749,
+      "hp": 210,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Field Runner",
+          "text": "If a Stadium is in play, this Pokémon has no Retreat Cost.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crimson Legs",
+          "damage": 140,
+          "cost": [
+            1,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "400556048": {
+      "id": 400556048,
+      "name": "Inteleon V",
+      "cat": 1,
+      "kind": 14,
+      "no": 16,
+      "colNo": "SWSH016",
+      "rarity": 8,
+      "flags": 1,
+      "family": 750,
+      "hp": 200,
+      "weakness": 5,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Snipe Shot",
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aqua Report",
+          "text": "Your opponent reveals their hand.",
+          "damage": 130,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "400556049": {
+      "id": 400556049,
+      "name": "Toxtricity V",
+      "cat": 1,
+      "kind": 14,
+      "no": 17,
+      "colNo": "SWSH017",
+      "rarity": 8,
+      "family": 751,
+      "hp": 210,
+      "weakness": 7,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Energize",
+          "text": "Attach a {L} Energy card from your discard pile to this Pokémon.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Venom Slap",
+          "text": "Your opponent’s Active Pokémon is now Poisoned.",
+          "damage": 120,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

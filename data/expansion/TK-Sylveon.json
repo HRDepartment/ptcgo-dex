@@ -1,0 +1,537 @@
+{
+  "expansion": "TK-Sylveon",
+  "items": {
+    "323485697": {
+      "id": 323485697,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Razor Wind",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "323485698": {
+      "id": 323485698,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 2,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485699": {
+      "id": 323485699,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 3,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485700": {
+      "id": 323485700,
+      "name": "Switch",
+      "cat": 2,
+      "kind": 40,
+      "no": 4,
+      "rarity": 1,
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    "323485701": {
+      "id": 323485701,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 5,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485702": {
+      "id": 323485702,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 6,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485703": {
+      "id": 323485703,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 7,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485704": {
+      "id": 323485704,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 8,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485705": {
+      "id": 323485705,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 9,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485706": {
+      "id": 323485706,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 10,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485707": {
+      "id": 323485707,
+      "name": "Snubbull",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "rarity": 1,
+      "family": 291,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "323485708": {
+      "id": 323485708,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 12,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485709": {
+      "id": 323485709,
+      "name": "Eevee",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "rarity": 1,
+      "family": 91,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "323485710": {
+      "id": 323485710,
+      "name": "Granbull",
+      "cat": 1,
+      "kind": 2,
+      "no": 14,
+      "rarity": 1,
+      "family": 291,
+      "preevo": "Snubbull",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "323485711": {
+      "id": 323485711,
+      "name": "Sylveon",
+      "cat": 1,
+      "kind": 2,
+      "no": 15,
+      "rarity": 3,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Disarming Voice",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": 60,
+          "cost": [
+            10,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "323485712": {
+      "id": 323485712,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "323485713": {
+      "id": 323485713,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 17,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485714": {
+      "id": 323485714,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 18,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485715": {
+      "id": 323485715,
+      "name": "Fletchling",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "rarity": 1,
+      "family": 373,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Razor Wind",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "323485716": {
+      "id": 323485716,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 20,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "323485717": {
+      "id": 323485717,
+      "name": "Eevee",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "rarity": 1,
+      "family": 91,
+      "hp": 60,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": 20,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "323485718": {
+      "id": 323485718,
+      "name": "Furfrou",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "rarity": 1,
+      "family": 375,
+      "hp": 90,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": 20,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "323485719": {
+      "id": 323485719,
+      "name": "Pokémon Catcher",
+      "cat": 2,
+      "kind": 40,
+      "no": 23,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+    },
+    "323485720": {
+      "id": 323485720,
+      "name": "Potion",
+      "cat": 2,
+      "kind": 40,
+      "no": 24,
+      "rarity": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    "323485721": {
+      "id": 323485721,
+      "name": "Fairy Energy",
+      "cat": 3,
+      "kind": 50,
+      "no": 25,
+      "rarity": 1,
+      "energy": [
+        10
+      ]
+    },
+    "323485722": {
+      "id": 323485722,
+      "name": "Poké Ball",
+      "cat": 2,
+      "kind": 40,
+      "no": 26,
+      "rarity": 2,
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+    },
+    "323485723": {
+      "id": 323485723,
+      "name": "Snubbull",
+      "cat": 1,
+      "kind": 1,
+      "no": 27,
+      "rarity": 1,
+      "family": 291,
+      "hp": 70,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 20,
+          "cost": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "323485724": {
+      "id": 323485724,
+      "name": "Professor's Letter",
+      "cat": 2,
+      "kind": 40,
+      "no": 28,
+      "rarity": 2,
+      "text": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+    },
+    "323485725": {
+      "id": 323485725,
+      "name": "Granbull",
+      "cat": 1,
+      "kind": 2,
+      "no": 29,
+      "rarity": 1,
+      "family": 291,
+      "preevo": "Snubbull",
+      "hp": 100,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 30,
+          "cost": [
+            1,
+            10
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "323488798": {
+      "id": 323488798,
+      "name": "Sylveon",
+      "cat": 1,
+      "kind": 2,
+      "no": 30,
+      "rarity": 4,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 90,
+      "weakness": 9,
+      "resistance": 8,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Disarming Voice",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": 20,
+          "cost": [
+            10
+          ]
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": 60,
+          "cost": [
+            10,
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}

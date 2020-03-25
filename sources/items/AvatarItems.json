@@ -1,0 +1,26 @@
+[
+  {
+    "10000": "bfd9650a-4962-4cd4-a96d-b7edb115672d",
+    "10020": "packs/AvatarPikachuPack",
+    "10060": "$$$product.avatarpikachupack.description$$$",
+    "10090": false,
+    "10140": "$$$product.avatarpikachupack.name$$$",
+    "10190": 2,
+    "10510": "avatarPikachuPack",
+    "10540": "Packs",
+    "200580": "AvatarItems",
+    "200871": "AvatarPikachuPack"
+  },
+  {
+    "10000": "c524b68f-1b10-43ee-a9e9-2a59ca2efa30",
+    "10020": "packs/AvatarCharizardPack",
+    "10060": "$$$product.avatarcharizardpack.description$$$",
+    "10090": false,
+    "10140": "$$$product.avatarcharizardpack.name$$$",
+    "10190": 2,
+    "10510": "avatarCharizardPack",
+    "10540": "Packs",
+    "200580": "AvatarItems",
+    "200871": "AvatarCharizardPack"
+  }
+]

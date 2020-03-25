@@ -1,0 +1,761 @@
+{
+  "expansion": "PR-HS",
+  "items": {
+    "266338305": {
+      "id": 266338305,
+      "name": "Ho-Oh",
+      "cat": 1,
+      "kind": 1,
+      "no": 1,
+      "colNo": "HGSS1",
+      "rarity": 8,
+      "family": 296,
+      "hp": 100,
+      "weakness": 4,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 3,
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": 20,
+          "cost": [
+            3
+          ]
+        },
+        {
+          "name": "Sacred Fire",
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+          "op": "x",
+          "cost": [
+            3,
+            3,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338306": {
+      "id": 266338306,
+      "name": "Lugia",
+      "cat": 1,
+      "kind": 1,
+      "no": 2,
+      "colNo": "HGSS2",
+      "rarity": 8,
+      "family": 299,
+      "hp": 90,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Aeroblast",
+          "text": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.",
+          "damage": 50,
+          "op": "+",
+          "cost": [
+            4,
+            4,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338307": {
+      "id": 266338307,
+      "name": "Pikachu",
+      "cat": 1,
+      "kind": 1,
+      "no": 3,
+      "colNo": "HGSS3",
+      "rarity": 8,
+      "family": 27,
+      "hp": 70,
+      "weakness": 7,
+      "weaknessAmt": 10,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Recharge",
+          "text": "Flip a coin. If heads, search your deck for a {L} Energy card and attach it to Pikachu. Shuffle your deck afterward.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Thunderbolt",
+          "text": "Discard all Energy attached to Pikachu.",
+          "damage": 100,
+          "cost": [
+            5,
+            5,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338308": {
+      "id": 266338308,
+      "name": "Wobbuffet",
+      "cat": 1,
+      "kind": 1,
+      "no": 4,
+      "colNo": "HGSS4",
+      "rarity": 8,
+      "family": 236,
+      "hp": 90,
+      "weakness": 6,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Tenacious Bind",
+          "text": "As long as Wobbuffet is your Active Pokémon, your opponent's Active Pokémon's Retreat Cost is {C}{C} more.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+          "damage": 20,
+          "op": "+",
+          "cost": [
+            6,
+            1
+          ]
+        }
+      ]
+    },
+    "266338309": {
+      "id": 266338309,
+      "name": "Hoothoot",
+      "cat": 1,
+      "kind": 1,
+      "no": 5,
+      "colNo": "HGSS5",
+      "rarity": 8,
+      "family": 267,
+      "hp": 50,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Insomnia",
+          "text": "Hoothoot can't be Asleep.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "266338310": {
+      "id": 266338310,
+      "name": "Noctowl",
+      "cat": 1,
+      "kind": 2,
+      "no": 6,
+      "colNo": "HGSS6",
+      "rarity": 8,
+      "family": 267,
+      "preevo": "Hoothoot",
+      "hp": 90,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -20,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Night Scope",
+          "text": "Once during your turn (before your attack), you may look at your opponent's hand. This power can't be used if Noctowl is affected by a Special Condition.",
+          "type": 1
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "text": "The Defending Pokémon is now Asleep.",
+          "damage": 30,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338311": {
+      "id": 266338311,
+      "name": "Feraligatr",
+      "cat": 1,
+      "kind": 3,
+      "no": 7,
+      "colNo": "HGSS7",
+      "rarity": 8,
+      "family": 285,
+      "preevo": "Croconaw",
+      "hp": 140,
+      "weakness": 2,
+      "retreat": 3,
+      "abilities": [
+        {
+          "name": "Rain Dance",
+          "text": "As often as you like during your turn (before your attack), you may attach a {W} Energy card from your hand to 1 of your {W} Pokémon. This power can't be used if Feraligatr is affected by a Special Condition.",
+          "type": 1
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydro Crunch",
+          "text": "Does 60 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            4,
+            4,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "266338312": {
+      "id": 266338312,
+      "name": "Meganium",
+      "cat": 1,
+      "kind": 3,
+      "no": 8,
+      "colNo": "HGSS8",
+      "rarity": 8,
+      "family": 283,
+      "preevo": "Bayleef",
+      "hp": 150,
+      "weakness": 3,
+      "resistance": 4,
+      "resist": -20,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Leaf Trans",
+          "text": "As often as you like during your turn (before your attack), you may move a {G} Energy attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Meganium is affected by a Special Condition.",
+          "type": 1
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Solar Beam",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    "266338313": {
+      "id": 266338313,
+      "name": "Typhlosion",
+      "cat": 1,
+      "kind": 3,
+      "no": 9,
+      "colNo": "HGSS9",
+      "rarity": 8,
+      "family": 286,
+      "preevo": "Quilava",
+      "hp": 140,
+      "weakness": 4,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Afterburner",
+          "text": "Once during your turn (before your attack), you may search your discard pile for a {R} Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+          "type": 1
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flare Destroy",
+          "text": "Discard an Energy card attached to Typhlosion and discard an Energy card attached to the Defending Pokémon.",
+          "damage": 70,
+          "cost": [
+            3,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "266338314": {
+      "id": 266338314,
+      "name": "Latias",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "colNo": "HGSS10",
+      "rarity": 8,
+      "family": 316,
+      "hp": 80,
+      "weakness": 1,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "text": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon.",
+          "damage": 10,
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Infinite Wind",
+          "text": "If Latios is on your Bench, remove 2 damage counters from each of your Benched Pokémon.",
+          "damage": 40,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338315": {
+      "id": 266338315,
+      "name": "Latios",
+      "cat": 1,
+      "kind": 1,
+      "no": 11,
+      "colNo": "HGSS11",
+      "rarity": 8,
+      "family": 317,
+      "hp": 90,
+      "weakness": 1,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Luster Float",
+          "text": "If you have Latias in play, the Retreat Cost for Latios is 0.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Infinite Wing",
+          "text": "Discard 2 Energy attached to Latios.",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338316": {
+      "id": 266338316,
+      "name": "Cleffa",
+      "cat": 1,
+      "kind": 1,
+      "no": 12,
+      "colNo": "HGSS12",
+      "rarity": 8,
+      "family": 284,
+      "hp": 30,
+      "abilities": [
+        {
+          "name": "Sweet Sleeping Face",
+          "text": "As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Eeeeeeek",
+          "text": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
+        }
+      ]
+    },
+    "266338317": {
+      "id": 266338317,
+      "name": "Smoochum",
+      "cat": 1,
+      "kind": 1,
+      "no": 13,
+      "colNo": "HGSS13",
+      "rarity": 8,
+      "family": 332,
+      "hp": 30,
+      "abilities": [
+        {
+          "name": "Sweet Sleeping Face",
+          "text": "As long as Smoochum is Asleep, prevent all damage done to Smoochum by attacks.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Antics",
+          "text": "Move an Energy card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon. Smoochum is now Asleep."
+        }
+      ]
+    },
+    "266338318": {
+      "id": 266338318,
+      "name": "Lapras",
+      "cat": 1,
+      "kind": 1,
+      "no": 14,
+      "colNo": "HGSS14",
+      "rarity": 8,
+      "family": 63,
+      "hp": 90,
+      "weakness": 9,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Ferry",
+          "text": "Search your discard pile for a Supporter card, show it to your opponent, and put it into your hand.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Surf",
+          "damage": 40,
+          "cost": [
+            4,
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    "266338319": {
+      "id": 266338319,
+      "name": "Shuckle",
+      "cat": 1,
+      "kind": 1,
+      "no": 15,
+      "colNo": "HGSS15",
+      "rarity": 8,
+      "family": 124,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Fermenting Liquid",
+          "text": "Whenever you attach an Energy card from your hand to Shuckle, draw a card.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shell Stunner",
+          "text": "Flip a coin. If heads, prevent all damage done to Shuckle by attacks during your opponent's next turn.",
+          "damage": 20,
+          "cost": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "266338320": {
+      "id": 266338320,
+      "name": "Plusle",
+      "cat": 1,
+      "kind": 1,
+      "no": 16,
+      "colNo": "HGSS16",
+      "rarity": 8,
+      "family": 119,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Collect",
+          "text": "Draw 2 cards.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, Plusle does 10 damage to itself.",
+          "damage": 20,
+          "cost": [
+            5
+          ]
+        }
+      ]
+    },
+    "266338321": {
+      "id": 266338321,
+      "name": "Minun",
+      "cat": 1,
+      "kind": 1,
+      "no": 17,
+      "colNo": "HGSS17",
+      "rarity": 8,
+      "family": 112,
+      "hp": 60,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Tag Team Boost",
+          "text": "If Plusle is on your Bench, this attack does 10 damage plus 20 more damage.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Call for Family",
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
+    "266338323": {
+      "id": 266338323,
+      "name": "Raikou",
+      "cat": 1,
+      "kind": 1,
+      "no": 19,
+      "colNo": "HGSS19",
+      "rarity": 8,
+      "flags": 256,
+      "family": 304,
+      "hp": 80,
+      "weakness": 7,
+      "resistance": 9,
+      "resist": -20,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "text": "During your next turn, Raikou can't use Zap Cannon.",
+          "damage": 70,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "266338324": {
+      "id": 266338324,
+      "name": "Entei",
+      "cat": 1,
+      "kind": 1,
+      "no": 20,
+      "colNo": "HGSS20",
+      "rarity": 8,
+      "flags": 256,
+      "family": 289,
+      "hp": 80,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Flare Blitz",
+          "text": "Discard all {R} Energy attached to Entei.",
+          "damage": 80,
+          "cost": [
+            3,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "266338325": {
+      "id": 266338325,
+      "name": "Suicune",
+      "cat": 1,
+      "kind": 1,
+      "no": 21,
+      "colNo": "HGSS21",
+      "rarity": 8,
+      "flags": 256,
+      "family": 73,
+      "hp": 80,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Sheer Cold",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+          "damage": 50,
+          "cost": [
+            4,
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    "266338326": {
+      "id": 266338326,
+      "name": "Porygon",
+      "cat": 1,
+      "kind": 1,
+      "no": 22,
+      "colNo": "HGSS22",
+      "rarity": 8,
+      "family": 70,
+      "hp": 50,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "text": "During your opponent's next turn, any damage done to Porygon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Version Update",
+          "text": "Search your deck for Porygon2, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338327": {
+      "id": 266338327,
+      "name": "Porygon2",
+      "cat": 1,
+      "kind": 2,
+      "no": 23,
+      "colNo": "HGSS23",
+      "rarity": 8,
+      "family": 70,
+      "preevo": "Porygon",
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Shortcut",
+          "text": "The Retreat Cost for each Porygon, Porygon2, and Porygon-Z you have in play is {C} less.",
+          "type": 2
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "text": "Porygon2 does 10 damage to itself.",
+          "damage": 50,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "266338328": {
+      "id": 266338328,
+      "name": "Hitmonchan",
+      "cat": 1,
+      "kind": 1,
+      "no": 24,
+      "colNo": "HGSS24",
+      "rarity": 8,
+      "family": 293,
+      "hp": 70,
+      "weakness": 6,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Detect",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Hitmonchan during your opponent's next turn.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Sky Uppercut",
+          "text": "This attack's damage isn't affected by Resistance.",
+          "damage": 30,
+          "cost": [
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "266338329": {
+      "id": 266338329,
+      "name": "Hitmonlee",
+      "cat": 1,
+      "kind": 1,
+      "no": 25,
+      "colNo": "HGSS25",
+      "rarity": 8,
+      "family": 294,
+      "hp": 80,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Kick",
+          "damage": 20,
+          "cost": [
+            7
+          ]
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": 60,
+          "cost": [
+            7,
+            7,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "packs": {},
+  "products": {}
+}
