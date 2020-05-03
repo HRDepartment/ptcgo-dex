@@ -779,11 +779,8 @@ class CardDefWithText extends CardDef {
     super(attributes);
     const { def, exp } = this;
 
-    if (ArchetypeAttribute.RulesText in attributes) {
-      const text = translate(
-        attributes[ArchetypeAttribute.RulesText],
-        MissingTranslation
-      );
+    if (ArchetypeAttribute.GameText in attributes) {
+      const text = translate(attributes[ArchetypeAttribute.GameText], MissingTranslation);
       if (text === MissingTranslation) {
         inconsistency(
           `Card ${def.name} (#${
