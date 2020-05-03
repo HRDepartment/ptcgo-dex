@@ -173,20 +173,6 @@ class ItemDef {
       }
     }
 
-    if (
-      attributes[ArchetypeAttribute.UnlockProductType] &&
-      attributes[ArchetypeAttribute.UnlockProductType2] !==
-        attributes[ArchetypeAttribute.UnlockProductType2]
-    ) {
-      inconsistency(
-        `${
-          asset ? `Product ${asset}` : `Item ${def.id}`
-        } UnlockProductTypes do not match: 1=${
-          attributes[ArchetypeAttribute.UnlockProductType]
-        } 2=${attributes[ArchetypeAttribute.UnlockProductType2]}`
-      );
-    }
-
     def.name = stripHtml(itemName);
 
     const expCode = getExpMap()[attributes[ArchetypeAttribute.ReleaseCode]];

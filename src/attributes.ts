@@ -406,8 +406,11 @@ export enum ArchetypeAttribute {
    * @unused
    */
   UnlockProductType = 201507,
-  // Appears to always be the same as UnlockProductType and always present at the same time
-  UnlockProductType2 = 201508,
+  /**
+   * Similar to 201507. Appears to mostly be set alongside UnlockProductType, except for PrereleasePacks, which
+   * have a lone UnlockProductTypeSecondary set to 'BundlePack'
+   */
+  UnlockProductTypeSecondary = 201508,
   /**
    * @type Attribute_BoosterDistribution[]
    */
