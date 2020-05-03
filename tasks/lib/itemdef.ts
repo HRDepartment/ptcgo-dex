@@ -213,9 +213,15 @@ class CardDef extends ItemDef {
     def.no = cardNo;
 
     if (fancyNo) {
-      def.colNo = fancyNo;
-      if (def.colNo.endsWith('a') && !isYellowA) {
-        throw fatal('-a not parsed as YellowA', { def, attributes });
+      if (Number(fancyNo) === cardNo) {
+        inconsistency(
+          `Fancy collection number for ${def.name} (${fancyNo}) is the same as its numeric collection number (${cardNo})`
+        );
+      } else {
+        def.colNo = fancyNo;
+        if (def.colNo.endsWith('a') && !isYellowA) {
+          throw fatal('-a not parsed as YellowA', { def, attributes });
+        }
       }
     } else if (isYellowA) {
       throw fatal(`card lacking FancyCollectionNumber parsed as YellowA`, {
