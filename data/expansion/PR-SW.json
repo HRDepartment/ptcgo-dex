@@ -211,7 +211,7 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Steely Spirit",
           "text": "Your {M} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
           "type": 3
         }
@@ -494,6 +494,408 @@
           "cost": [
             5,
             5,
+            1
+          ]
+        }
+      ]
+    },
+    "400556052": {
+      "id": 400556052,
+      "name": "Pikachu",
+      "cat": 1,
+      "kind": 1,
+      "no": 20,
+      "colNo": "SWSH020",
+      "rarity": 8,
+      "flags": 1,
+      "family": 27,
+      "hp": 70,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Iron Tail",
+          "text": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+          "damage": 30,
+          "op": "x",
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Electro Ball",
+          "damage": 60,
+          "cost": [
+            5,
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "400556053": {
+      "id": 400556053,
+      "name": "Polteageist V",
+      "cat": 1,
+      "kind": 14,
+      "no": 21,
+      "colNo": "SWSH021",
+      "rarity": 8,
+      "family": 770,
+      "hp": 170,
+      "weakness": 8,
+      "resistance": 7,
+      "resist": -30,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Teapot of Surprises",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an opponent’s attack (even if it is Knocked Out), choose a random card from your opponent’s hand. Your opponent reveals that card and puts it on the bottom of their deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Bend",
+          "text": "Your opponent’s Active Pokémon is now Confused.",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "400556054": {
+      "id": 400556054,
+      "name": "Flapple",
+      "cat": 1,
+      "kind": 2,
+      "no": 22,
+      "colNo": "SWSH022",
+      "rarity": 8,
+      "family": 752,
+      "preevo": "Applin",
+      "hp": 80,
+      "weakness": 3,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Apple Drop",
+          "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent’s Pokémon. If you placed any damage counters in this way, shuffle this Pokémon and all attached cards into your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Acid Spray",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent’s Active Pokémon.",
+          "damage": 60,
+          "cost": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556055": {
+      "id": 400556055,
+      "name": "Luxray",
+      "cat": 1,
+      "kind": 3,
+      "no": 23,
+      "colNo": "SWSH023",
+      "rarity": 8,
+      "family": 162,
+      "preevo": "Luxio",
+      "hp": 160,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Raid",
+          "text": "If this Pokémon evolved from Luxio during this turn, this attack does 100 more damage.",
+          "damage": 60,
+          "op": "+",
+          "cost": [
+            5
+          ]
+        },
+        {
+          "name": "Head Bolt",
+          "damage": 120,
+          "cost": [
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "400556056": {
+      "id": 400556056,
+      "name": "Coalossal",
+      "cat": 1,
+      "kind": 3,
+      "no": 24,
+      "colNo": "SWSH024",
+      "rarity": 8,
+      "family": 753,
+      "preevo": "Carkol",
+      "hp": 160,
+      "weakness": 2,
+      "retreat": 4,
+      "abilities": [
+        {
+          "name": "Tar Generator",
+          "text": "Once during your turn, you may attach a {R} Energy card, a {F} Energy card, or 1 of each from your discard pile to your Pokémon in any way you like.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flaming Avalanche",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "400556057": {
+      "id": 400556057,
+      "name": "Garbodor",
+      "cat": 1,
+      "kind": 2,
+      "no": 25,
+      "colNo": "SWSH025",
+      "rarity": 3,
+      "family": 97,
+      "preevo": "Trubbish",
+      "hp": 120,
+      "weakness": 7,
+      "retreat": 2,
+      "abilities": [
+        {
+          "name": "Poisonous Puddle",
+          "text": "Once during your turn, if a Stadium is in play, you may make your opponent's Active Pokémon Poisoned.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sludge Bomb",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            8
+          ]
+        }
+      ]
+    },
+    "400556058": {
+      "id": 400556058,
+      "name": "Mantine",
+      "cat": 1,
+      "kind": 1,
+      "no": 26,
+      "colNo": "SWSH026",
+      "rarity": 8,
+      "family": 328,
+      "hp": 110,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Reserve",
+          "text": "Search your deck for up to 3 {W} Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Wave Splash",
+          "damage": 60,
+          "cost": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "400556059": {
+      "id": 400556059,
+      "name": "Noctowl",
+      "cat": 1,
+      "kind": 2,
+      "no": 27,
+      "colNo": "SWSH027",
+      "rarity": 8,
+      "family": 267,
+      "preevo": "Hoothoot",
+      "hp": 110,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -30,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": 40,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Carry Off",
+          "text": "Choose 1 of your opponent's Benched Pokémon. They shuffle that Pokémon and all attached cards into their deck. Then, shuffle this Pokémon and all attached cards into your deck.",
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556060": {
+      "id": 400556060,
+      "name": "Duraludon",
+      "cat": 1,
+      "kind": 1,
+      "no": 28,
+      "colNo": "SWSH028",
+      "rarity": 8,
+      "family": 761,
+      "hp": 130,
+      "weakness": 3,
+      "resistance": 2,
+      "resist": -30,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": 70,
+          "cost": [
+            1,
+            1,
+            9
+          ]
+        },
+        {
+          "name": "Steel Beam",
+          "text": "This Pokémon also does 40 damage to itself.",
+          "damage": 150,
+          "cost": [
+            1,
+            1,
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    "400556061": {
+      "id": 400556061,
+      "name": "Rayquaza",
+      "cat": 1,
+      "kind": 1,
+      "no": 29,
+      "colNo": "SWSH029",
+      "rarity": 8,
+      "family": 120,
+      "hp": 130,
+      "weakness": 5,
+      "resistance": 7,
+      "resist": -30,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Jaw Lock",
+          "text": "During your opponent's next turn, the Defending Pokémon can’t retreat.",
+          "damage": 30,
+          "cost": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Power Blast",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 120,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "400556063": {
+      "id": 400556063,
+      "name": "Morpeko",
+      "cat": 1,
+      "kind": 1,
+      "no": 31,
+      "colNo": "SWSH031",
+      "rarity": 8,
+      "family": 725,
+      "hp": 80,
+      "weakness": 7,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Famished",
+          "text": "Draw a card.",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+          "damage": 40,
+          "cost": [
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    "400556064": {
+      "id": 400556064,
+      "name": "Snorlax",
+      "cat": 1,
+      "kind": 1,
+      "no": 32,
+      "colNo": "SWSH032",
+      "rarity": 8,
+      "family": 231,
+      "hp": 150,
+      "weakness": 7,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Rolling Tackle",
+          "damage": 80,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": 130,
+          "cost": [
+            1,
+            1,
+            1,
             1
           ]
         }

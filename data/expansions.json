@@ -2,23 +2,22 @@
   {
     "name": "Sword & Shield—Rebel Clash",
     "code": "RCL",
-    "key": "SWSH2",
     "series": 11,
     "formats": 3,
     "cards": 192,
-    "secret": 0,
+    "secret": 17,
     "legal": 1589500800,
-    "flags": 0
+    "flags": 1856
   },
   {
     "name": "Sword & Shield Black Star Promos",
     "code": "PR-SW",
     "series": 11,
     "formats": 3,
-    "cards": 17,
+    "cards": 32,
     "secret": 0,
     "legal": 0,
-    "flags": 2
+    "flags": 1026
   },
   {
     "name": "Sword & Shield Series Energy",
@@ -262,7 +261,7 @@
     "code": "PR-SM",
     "series": 10,
     "formats": 3,
-    "cards": 236,
+    "cards": 243,
     "secret": 0,
     "legal": 1480672800,
     "flags": 2

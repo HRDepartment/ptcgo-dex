@@ -12884,18 +12884,18 @@
     }
   },
   "products": {
-    "SM12ToweringHeights": {
+    "SM12ToweringHeightsPCD": {
       "id": 343990272,
       "name": "Towering Heights",
       "cat": 15,
-      "asset": "SM12ToweringHeights",
+      "asset": "SM12ToweringHeightsPCD",
       "description": "The Legendary Groudon is ready to smash foes, with Garchomp at its side! Use Seismitoad’s Bulldoze Ability for power searches, and call on Lady for extra Energy and Throh for big attacks. Strike from above with the Towering Heights theme deck!"
     },
-    "SM12UnseenDepths": {
+    "SM12UnseenDepthsPCD": {
       "id": 343990272,
       "name": "Unseen Depths",
       "cat": 15,
-      "asset": "SM12UnseenDepths",
+      "asset": "SM12UnseenDepthsPCD",
       "description": "Call the swirling waves with Kyogre, a Legendary Pokémon of the ocean. Use Empoleon’s powerful Recall to strike from the sea, and spin opponents around with Phione’s Whirlpool Suction. Command the surf and roll on to victory with the Unseen Depths theme deck!"
     }
   }

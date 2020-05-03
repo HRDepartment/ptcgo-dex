@@ -1,6 +1,9 @@
-Expansion PR-SW: Collection count 3 => 17
+Card Flapple is issue="op" but does not have tags:League
+Expansion RCL: Secret count 0 => 17
+Expansion PR-SW: Collection count 3 => 32
 Card Rillaboom is issue="op" but does not have tags:League
 Card Cinderace is issue="op" but does not have tags:League
+Card Inteleon is issue="op" but does not have tags:League
 Expansion SSH: Secret count 0 => 14
 Expansion CEC: Secret count 9 => 35
 Expansion UNB: Secret count 0 => 20
@@ -37,7 +40,7 @@ Card Champions Festival is issue="op" but does not have tags:League
 Card Champions Festival is issue="op" but does not have tags:League
 Card Champions Festival is issue="op" but does not have tags:League
 Card Champions Festival is issue="op" but does not have tags:League
-Expansion PR-SM: Collection count 4 => 236
+Expansion PR-SM: Collection count 4 => 243
 Product XY—Evolutions Elite Trainer Box: Mega Charizard Y (#XY12EliteTrainerMCharizardYBox) from expansion EVO has missing description text {
   key: '$$$com.direwolfdigital.cake.data.products.bundles.XY12EliteTrainerMCharizardYBox.Description$$$'
 }
@@ -160,6 +163,15 @@ Encountered true duplicate item 330302471 (GUID: fc33013d-ff7d-4add-a4c8-b436b6f
 Encountered true duplicate item 330302470 (GUID: 00788929-3a37-44c6-921d-45ec94895f82) [this message should appear twice for this itemid]
 Encountered true duplicate item 330302469 (GUID: b433e041-41fd-4a6b-abfa-d039c720aab8) [this message should appear twice for this itemid]
 Encountered true duplicate item 330302472 (GUID: 8aeb3a12-bb82-410d-a879-ded7529cae50) [this message should appear twice for this itemid]
+Card Growlithe (#119) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Stunfisk (#127) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Gardevoir (#125) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Purrloin (#128) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Pikachu (#122) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Eevee (#129) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Serperior (#118) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Cinccino (#134) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
+Card Piplup (#121) from expansion LTR has FoilMask=Reverse but its issue is ’std’ instead of ’ph’
 Expansion LTR: Secret count 0 => 27
 Product Mind Wipe (#BW10MindWipePCD) from expansion PLB has missing description text {
   key: '$$$com.direwolfdigital.cake.data.decks.PCDs.MindWipe.MindWipe.Description$$$'
@@ -195,3 +207,4 @@ Expansion HS: Secret count 0 => 2
 Product Winter Bonus (#December2014Bundle) from expansion NoSet has missing description text {
   key: '$$$com.direwolfdigital.cake.data.products.bundles.December2014Bundle.Description$$$'
 }
+Product RandomBoosterRewardImagePlaceholder from release NoSet has a missing translation for its ’name’ ($$$placeholder$$$)

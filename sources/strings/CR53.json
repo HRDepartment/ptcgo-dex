@@ -28,7 +28,7 @@
   "deckvalidationpopup.infotext.validationresult.invalidfor.legacycards": "Your deck contains the following Legacy-only cards:",
   "deckvalidationpopup.infotext.validationresult.validfor.legacycards": "Your deck contains no Legacy-only cards.",
   "error.signedonwithdifferentaccount.message": "This account is currently logged in from another device.",
-  "friend.challenge.novaliddecks": "{0} has challenged you to a Friend Battle, but you don't have a valid deck.",
+  "friend.challenge.novaliddecks": "{0} has challenged you to a Friend Battle, but you don't have a valid deck for the {1} format.",
   "friend.request.currentlyblocked": "You can't accept this friend request because you currently have this player blocked.",
   "landing.submenu.item.shopredeem.disabled": "This feature has been disabled for this device.",
   "mobile.minspec.body": "This device is below the minimum specifications to run the Pokémon TCG Online. You may have difficulty running the game, and it may run slowly. <br>Select OK to continue or Support to learn more.",

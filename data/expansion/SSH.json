@@ -489,6 +489,29 @@
         }
       ]
     },
+    "369649674": {
+      "id": 369649674,
+      "name": "Grookey",
+      "cat": 1,
+      "kind": 1,
+      "no": 10,
+      "rarity": 1,
+      "family": 687,
+      "hp": 60,
+      "weakness": 3,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": 10,
+          "op": "x",
+          "cost": [
+            1
+          ]
+        }
+      ]
+    },
     "369623051": {
       "id": 369623051,
       "name": "Grookey",
@@ -1696,6 +1719,28 @@
     },
     "369625118": {
       "id": 369625118,
+      "name": "Scorbunny",
+      "cat": 1,
+      "kind": 1,
+      "no": 30,
+      "rarity": 1,
+      "family": 700,
+      "hp": 60,
+      "weakness": 4,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Ember",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": 30,
+          "cost": [
+            3
+          ]
+        }
+      ]
+    },
+    "369649694": {
+      "id": 369649694,
       "name": "Scorbunny",
       "cat": 1,
       "kind": 1,
@@ -3105,6 +3150,27 @@
         }
       ]
     },
+    "369649718": {
+      "id": 369649718,
+      "name": "Sobble",
+      "cat": 1,
+      "kind": 1,
+      "no": 54,
+      "rarity": 1,
+      "family": 701,
+      "hp": 60,
+      "weakness": 5,
+      "retreat": 1,
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": 20,
+          "cost": [
+            4
+          ]
+        }
+      ]
+    },
     "369623095": {
       "id": 369623095,
       "name": "Sobble",
@@ -3206,7 +3272,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
           "type": 3
         }
       ],
@@ -3235,7 +3302,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
           "type": 3
         }
       ],
@@ -3324,7 +3392,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
           "type": 3
         }
       ],
@@ -3354,7 +3423,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
           "type": 3
         }
       ],
@@ -3384,7 +3454,40 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Bullet",
+          "text": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 120,
+          "cost": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    "369627194": {
+      "id": 369627194,
+      "name": "Inteleon",
+      "cat": 1,
+      "kind": 3,
+      "no": 58,
+      "rarity": 4,
+      "flags": 2056,
+      "family": 701,
+      "preevo": "Drizzile",
+      "hp": 160,
+      "weakness": 5,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Shady Dealings",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
           "type": 3
         }
       ],
@@ -4662,7 +4765,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Pastel Veil",
+          "text": "Your Pokémon recover from all Special Conditions and can't be affected by any Special Conditions.",
           "type": 3
         }
       ],
@@ -4695,7 +4799,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Pastel Veil",
+          "text": "Your Pokémon recover from all Special Conditions and can't be affected by any Special Conditions.",
           "type": 3
         }
       ],
@@ -6227,7 +6332,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Sand Sac",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
           "type": 3
         }
       ],
@@ -6258,7 +6364,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Sand Sac",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
           "type": 3
         }
       ],
@@ -6550,7 +6657,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Headbutt Tantrum",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent’s Pokémon.",
           "type": 3
         }
       ],
@@ -6579,7 +6687,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "Headbutt Tantrum",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent’s Pokémon.",
           "type": 3
         }
       ],
@@ -6673,7 +6782,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Untamed Shout",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent’s Pokémon.",
           "type": 3
         }
       ],
@@ -6703,7 +6813,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Untamed Shout",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent’s Pokémon.",
           "type": 3
         }
       ],
@@ -6733,7 +6844,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Untamed Shout",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent’s Pokémon.",
           "type": 3
         }
       ],
@@ -6984,7 +7096,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "More Poison",
+          "text": "Put 2 more damage counters on your opponent’s Poisoned Pokémon during Pokémon Checkup.",
           "type": 3
         }
       ],
@@ -7015,7 +7128,8 @@
       "retreat": 1,
       "abilities": [
         {
-          "name": "",
+          "name": "More Poison",
+          "text": "Put 2 more damage counters on your opponent’s Poisoned Pokémon during Pokémon Checkup.",
           "type": 3
         }
       ],
@@ -7216,7 +7330,7 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Steely Spirit",
           "text": "Your {M} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
           "type": 3
         }
@@ -7249,7 +7363,7 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Steely Spirit",
           "text": "Your {M} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
           "type": 3
         }
@@ -7884,7 +7998,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Dauntless Shield",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
           "type": 3
         }
       ],
@@ -9662,7 +9777,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Dauntless Shield",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
           "type": 3
         }
       ],
@@ -9990,7 +10106,8 @@
       "retreat": 2,
       "abilities": [
         {
-          "name": "",
+          "name": "Dauntless Shield",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
           "type": 3
         }
       ],

@@ -18913,6 +18913,7 @@
     "200580": "XY5",
     "200871": "KyogreSpringTin2015",
     "201507": "Tin",
+    "201508": "BattleDeck",
     "201640": "6ad077e0-368a-4291-985e-ec7a914b9d97"
   },
   {
@@ -18960,6 +18961,7 @@
     "200580": "XY5",
     "200871": "OceansCoreBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "0d80195e-9b6c-4ffb-89ef-afd3ca07e51c"
   },
   {
@@ -18988,13 +18990,14 @@
   {
     "10000": "081ac766-581e-4f78-9bb8-63d3caa5989d",
     "10020": "groudonspring2015",
-    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.GroudonSpringTin2015.Description$$$",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.groudonspringtin2015.description$$$",
     "10090": false,
-    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.GroudonSpringTin2015.Name$$$",
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.groudonspringtin2015.name$$$",
     "10190": 49,
     "10540": "Bundles",
     "200580": "XY5",
     "200871": "GroudonSpringTin2015",
+    "201508": "BattleDeck",
     "201640": "081ac766-581e-4f78-9bb8-63d3caa5989d"
   },
   {
@@ -19008,6 +19011,7 @@
     "200580": "XY5",
     "200871": "EarthsPulseBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "0df498e3-36d5-4a8e-992f-86424144cd4c"
   },
   {

@@ -14485,6 +14485,7 @@
     "200580": "XY4",
     "200871": "BoltTwisterBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "238b8050-4815-4f82-8e1b-4116fc8f836c"
   },
   {
@@ -14545,6 +14546,7 @@
     "200580": "XY4",
     "200871": "BurningWindsBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "6d8224a6-00b7-4444-add9-a86d605a4b29"
   },
   {
@@ -14580,5 +14582,17 @@
         "count": 1
       }
     ]
+  },
+  {
+    "10000": "2f67bae8-a4d3-4be7-a279-4919e69116ed",
+    "10020": "xvybattlearenabundle",
+    "10060": "$$$com.direwolfdigital.cake.data.products.bundles.xvybattlearenabundle.description$$$",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.products.bundles.xvybattlearenabundle.name$$$",
+    "10190": 46,
+    "10540": "Bundles",
+    "200580": "XY4",
+    "200871": "XvYBattleArenaBundle",
+    "201508": "BattleDeck"
   }
 ]

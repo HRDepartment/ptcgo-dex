@@ -969,6 +969,12 @@
       "cat": 14,
       "asset": "Froakie3Sleeve"
     },
+    "GalarPartnersSilverRainbowBlackCoin": {
+      "id": 2113986560,
+      "name": "Silver Rainbow Galar Partners Coin",
+      "cat": 12,
+      "asset": "GalarPartnersSilverRainbowBlackCoin"
+    },
     "GamestopJune2017GXPromoA": {
       "id": 2113986560,
       "name": "GameStop/EB Promotion: Bonus Pokémon-GX card",
@@ -1721,6 +1727,36 @@
       "cat": 11,
       "asset": "LeagueSWSH1S2CinderaceBundle"
     },
+    "LeagueSWSH1S3InteleonBundle": {
+      "id": 2113986560,
+      "name": "Sword & Shield Season 3 Rewards",
+      "cat": 11,
+      "asset": "LeagueSWSH1S3InteleonBundle"
+    },
+    "LeagueSWSH1S3Sleeve": {
+      "id": 2113986560,
+      "name": "Sword & Shield Card Sleeves",
+      "cat": 14,
+      "asset": "LeagueSWSH1S3Sleeve"
+    },
+    "LeagueSWSH2S1DeckBox": {
+      "id": 2113986560,
+      "name": "Sword & Shield—Rebel Clash Deck Box",
+      "cat": 13,
+      "asset": "LeagueSWSH2S1DeckBox"
+    },
+    "LeagueSWSH2S1FlappleBundle": {
+      "id": 2113986560,
+      "name": "Sword & Shield—Rebel Clash Season 1 Rewards",
+      "cat": 11,
+      "asset": "LeagueSWSH2S1FlappleBundle"
+    },
+    "LeagueSWSH2S2CoalossalBundle": {
+      "id": 2113986560,
+      "name": "Sword & Shield—Rebel Clash Season 2 Rewards",
+      "cat": 11,
+      "asset": "LeagueSWSH2S2CoalossalBundle"
+    },
     "LegendaryBattleHoOhDeckBox": {
       "id": 2113986560,
       "name": "Legendary Battle Deck—Ho-Oh",
@@ -2467,6 +2503,12 @@
       "asset": "RallyingCryBundle",
       "description": "Rally your forces and charge into battle with the Rallying Cry promo deck! Wigglytuff, Exploud, and Palpitoad combine their voices in an extra-powerful Round attack. Cheren and Cilan support your troops with extra cards and Energy, and if you fall behind, Kangaskhan can sound a Call for Family to get more Pokémon into play. This is one cry your opponents won't be able to ignore!"
     },
+    "RandomBoosterRewardImagePlaceholder": {
+      "id": 2113986560,
+      "name": "RandomBoosterRewardImagePlaceholder",
+      "cat": 11,
+      "asset": "RandomBoosterRewardImagePlaceholder"
+    },
     "RayquazaCOINDiamdGreen": {
       "id": 2113986560,
       "name": "Green Ice Rayquaza Coin",
@@ -2951,6 +2993,24 @@
       "cat": 14,
       "asset": "SWSH1EliteTrainerBoxZamazentaSleeve"
     },
+    "SWSH2EliteTrainerBoxCopperajahBundle": {
+      "id": 2113986560,
+      "name": "Sword & Shield—Rebel Clash Elite Trainer Box",
+      "cat": 11,
+      "asset": "SWSH2EliteTrainerBoxCopperajahBundle"
+    },
+    "SWSH2EliteTrainerBoxCopperajahDeckBox": {
+      "id": 2113986560,
+      "name": "Elite Trainer Gigantamax Copperajah Deck Box",
+      "cat": 13,
+      "asset": "SWSH2EliteTrainerBoxCopperajahDeckBox"
+    },
+    "SWSH2EliteTrainerBoxCopperajahSleeve": {
+      "id": 2113986560,
+      "name": "Elite Trainer Gigantamax Copperajah Card Sleeves",
+      "cat": 14,
+      "asset": "SWSH2EliteTrainerBoxCopperajahSleeve"
+    },
     "SalamenceCoin": {
       "id": 2113986560,
       "name": "Gold Mega Salamence Coin",
@@ -3156,6 +3216,12 @@
       "name": "Silver Rainbow Pikachu Coin",
       "cat": 12,
       "asset": "TK9Coin"
+    },
+    "TagTeamPowersCollectionBundle": {
+      "id": 2113986560,
+      "name": "TAG TEAM Powers Collection",
+      "cat": 11,
+      "asset": "TagTeamPowersCollectionBundle"
     },
     "TapuFiniPurpleRainbowBlackCoin": {
       "id": 2113986560,
@@ -4079,13 +4145,6 @@
       "cat": 12,
       "asset": "XerneasLightBlueBlackCoin"
     },
-    "XvYBattleArenaBundle": {
-      "id": 2113986560,
-      "name": "Battle Arena Decks: Xerneas vs. Yveltal",
-      "cat": 11,
-      "asset": "XvYBattleArenaBundle",
-      "description": "Pokémon TCG Battle Arena Decks bring you two ready-to-play decks with cards worthy of a champion: new foil promo versions of Xerneas and Yveltal, plus powerful attack-boosting cards to fuel Yveltal's all-out assaults and sharp defensive cards that will keep Xerneas one leap ahead. The premium Battle Arena cards will get players and collectors hungry for these special decks!"
-    },
     "Yveltal1DeckBox": {
       "id": 2113986560,
       "name": "Yveltal Deck Box 1",
@@ -4127,6 +4186,18 @@
       "name": "Yveltal-EX Deck Box",
       "cat": 13,
       "asset": "YveltalEXSummerTin2016DeckBox"
+    },
+    "ZacianGoldBlackCoin": {
+      "id": 2113986560,
+      "name": "Gold Zacian Coin",
+      "cat": 12,
+      "asset": "ZacianGoldBlackCoin"
+    },
+    "ZamazentaGoldBlackCoin": {
+      "id": 2113986560,
+      "name": "Gold Zamazenta Coin",
+      "cat": 12,
+      "asset": "ZamazentaGoldBlackCoin"
     },
     "ZapdosDeckbox": {
       "id": 2113986560,

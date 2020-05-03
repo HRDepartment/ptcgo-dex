@@ -291,6 +291,7 @@
     "10540": "Bundles",
     "200580": "SWSH1",
     "200871": "SWSH1EvolutionPack",
+    "201508": "BundlePack",
     "202220": 1579887900000
   },
   {
@@ -558,8 +559,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
         "abilityID": "959551e8-89b3-4365-9c23-d183baf5f0da",
         "abilityType": "PokeAbility"
       },
@@ -1012,8 +1013,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
         "abilityID": "a0391c95-207f-4793-9dd3-bb75d0da802a",
         "abilityType": "PokeAbility"
       },
@@ -1115,11 +1116,11 @@
   {
     "10000": "bb699500-1d41-11ea-834f-64006a7c0bf7",
     "10090": false,
-    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.ProfessorsResearch.Name$$$",
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.professorsresearch.name$$$",
     "10190": 107,
     "200270": "Supporter",
     "200300": "TrainerCard",
-    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.SWSH1.ProfessorsResearch.GameText$$$",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.swsh1.professorsresearchprofessormagnolia.gametext$$$",
     "200550": "RareHolo",
     "200580": "SWSH1",
     "200610": "FlatSilver",
@@ -5696,8 +5697,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilityheadbutttantrum.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilityheadbutttantrum.gametext$$$",
         "abilityID": "cd21791b-7d56-4393-bc61-d52a229b86fd",
         "abilityType": "PokeAbility"
       },
@@ -5763,8 +5764,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitypastelveil.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitypastelveil.gametext$$$",
         "abilityID": "0c4456ce-d94d-42c7-9cc0-3764cf5541a1",
         "abilityType": "PokeAbility"
       },
@@ -6415,11 +6416,11 @@
   {
     "10000": "0269d3fe-403f-492d-8d76-eae0dc5c815f",
     "10090": false,
-    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.ProfessorsResearch.Name$$$",
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.professorsresearch.name$$$",
     "10190": 107,
     "200270": "Supporter",
     "200300": "TrainerCard",
-    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.SWSH1.ProfessorsResearch.GameText$$$",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.swsh1.professorsresearchprofessormagnolia.gametext$$$",
     "200550": "RareHolo",
     "200580": "SWSH1",
     "200610": "SwHolo",
@@ -6475,8 +6476,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.GameText$$$",
         "abilityID": "870d16c9-1bff-45d2-a673-0cbc3e63b793",
         "abilityType": "PokeAbility"
       },
@@ -6543,8 +6544,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.GameText$$$",
         "abilityID": "870d16c9-1bff-45d2-a673-0cbc3e63b793",
         "abilityType": "PokeAbility"
       },
@@ -7390,8 +7391,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.gametext$$$",
         "abilityID": "2d89ca85-0639-4fea-a9a2-c1eb6688d118",
         "abilityType": "PokeAbility"
       },
@@ -7596,8 +7597,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitysandsac.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitysandsac.gametext$$$",
         "abilityID": "21159904-28d7-4443-8ace-24a592142f37",
         "abilityType": "PokeAbility"
       },
@@ -8789,8 +8790,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
         "abilityID": "a0391c95-207f-4793-9dd3-bb75d0da802a",
         "abilityType": "PokeAbility"
       },
@@ -9023,8 +9024,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.gametext$$$",
         "abilityID": "2d89ca85-0639-4fea-a9a2-c1eb6688d118",
         "abilityType": "PokeAbility"
       },
@@ -11977,8 +11978,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilityheadbutttantrum.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilityheadbutttantrum.gametext$$$",
         "abilityID": "cd21791b-7d56-4393-bc61-d52a229b86fd",
         "abilityType": "PokeAbility"
       },
@@ -12942,7 +12943,7 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilitySteelySpirit.title$$$",
         "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilitySteelySpirit.gametext$$$",
         "abilityID": "11c6c8da-95ce-4bcc-b56e-82f5b4f0d546",
         "abilityType": "PokeAbility"
@@ -14849,8 +14850,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitydauntlessshield.gametext$$$",
         "abilityID": "2d89ca85-0639-4fea-a9a2-c1eb6688d118",
         "abilityType": "PokeAbility"
       },
@@ -15238,8 +15239,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitymorepoison.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitymorepoison.gametext$$$",
         "abilityID": "4232527c-5419-409c-98a7-c56c0c5a7c20",
         "abilityType": "PokeAbility"
       },
@@ -15305,8 +15306,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitysandsac.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitysandsac.gametext$$$",
         "abilityID": "21159904-28d7-4443-8ace-24a592142f37",
         "abilityType": "PokeAbility"
       },
@@ -15373,8 +15374,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
         "abilityID": "a0391c95-207f-4793-9dd3-bb75d0da802a",
         "abilityType": "PokeAbility"
       },
@@ -17127,8 +17128,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitypastelveil.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitypastelveil.gametext$$$",
         "abilityID": "0c4456ce-d94d-42c7-9cc0-3764cf5541a1",
         "abilityType": "PokeAbility"
       },
@@ -18520,11 +18521,11 @@
   {
     "10000": "be772320-1d41-11ea-834f-64006a7c0bf7",
     "10090": false,
-    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.ProfessorsResearch.Name$$$",
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.trainercards.professorsresearch.name$$$",
     "10190": 107,
     "200270": "Supporter",
     "200300": "TrainerCard",
-    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.SWSH1.ProfessorsResearch.GameText$$$",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.swsh1.professorsresearchprofessormagnolia.gametext$$$",
     "200550": "RareHolo",
     "200580": "SWSH1",
     "200610": "None",
@@ -19076,7 +19077,7 @@
     "10190": 107,
     "200270": "Supporter",
     "200300": "TrainerCard",
-    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.SWSH1.ProfessorsResearch.GameText$$$",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.swsh1.professorsresearchprofessormagnolia.gametext$$$",
     "200550": "RareUltra",
     "200580": "SWSH1",
     "200610": "SunPillar",
@@ -19619,8 +19620,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
         "abilityID": "959551e8-89b3-4365-9c23-d183baf5f0da",
         "abilityType": "PokeAbility"
       },
@@ -21343,7 +21344,7 @@
     "10190": 107,
     "200270": "Supporter",
     "200300": "TrainerCard",
-    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.SWSH1.ProfessorsResearch.GameText$$$",
+    "200310": "$$$com.direwolfdigital.cake.rules.abilities.trainers.swsh1.professorsresearchprofessormagnolia.gametext$$$",
     "200550": "RareRainbow",
     "200580": "SWSH1",
     "200610": "SwSecret",
@@ -23091,8 +23092,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityUntamedShout.GameText$$$",
         "abilityID": "870d16c9-1bff-45d2-a673-0cbc3e63b793",
         "abilityType": "PokeAbility"
       },
@@ -23627,8 +23628,8 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
-        "gameText": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitymorepoison.title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.abilitymorepoison.gametext$$$",
         "abilityID": "4232527c-5419-409c-98a7-c56c0c5a7c20",
         "abilityType": "PokeAbility"
       },
@@ -23770,7 +23771,7 @@
         "costSuffixes": []
       },
       {
-        "title": "$$$$$$",
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilitySteelySpirit.title$$$",
         "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilitySteelySpirit.gametext$$$",
         "abilityID": "11c6c8da-95ce-4bcc-b56e-82f5b4f0d546",
         "abilityType": "PokeAbility"
@@ -24060,6 +24061,7 @@
     "200580": "SWSH1",
     "200871": "SWSH1Cinderace",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "7d9086e7-08a8-4902-abe7-56a2e0710fff",
     "202220": 1581011100000
   },
@@ -24074,6 +24076,7 @@
     "200580": "SWSH1",
     "200871": "SWSH1Inteleon",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "5f28de39-3eea-42c1-af95-39574d45edef",
     "202220": 1581011100000
   },
@@ -24088,6 +24091,7 @@
     "200580": "SWSH1",
     "200871": "SWSH1Rillaboom",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "0352421e-731e-4295-9960-2b9c01e2b563",
     "202220": 1581011100000
   },
@@ -24159,5 +24163,251 @@
     "201710": "0d2233ac-5911-4a2b-82fe-a76b9e3dd05b",
     "202080": 201,
     "202220": 1583084700000
+  },
+  {
+    "10000": "1f474a7e-1ac0-4e0d-baa6-130c59f6e4d2",
+    "10020": "058op",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.inteleon.name$$$",
+    "10190": 107,
+    "200260": 701,
+    "200280": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.drizzile.name$$$",
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 160,
+    "200540": "Stage2",
+    "200550": "RareHolo",
+    "200570": [
+      "Water"
+    ],
+    "200580": "SWSH1",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "FlatSilver",
+    "200620": "Reverse",
+    "200630": "Inteleon",
+    "200640": "Drizzile",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1,
+          "Water": 1
+        },
+        "damage": 120,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Inteleon.AquaBullet.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Inteleon.AquaBullet.GameText$$$",
+        "abilityID": "9546916d-28ad-4bac-93a3-2b2ebba689a4",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.pokeabilities.SWSH1.AbilityShadyDealings.GameText$$$",
+        "abilityID": "a0391c95-207f-4793-9dd3-bb75d0da802a",
+        "abilityType": "PokeAbility"
+      },
+      {
+        "title": "$$$playmat.effect.evolve$$$",
+        "gameText": "$$$playmat.prompt.selectapokemontoevolve$$$",
+        "abilityID": "04aa8f54-19e9-4acc-b114-0867783e8f44",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 58,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "op",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "65d3bbc1-ae93-4857-8abe-61a2c1349c11",
+    "202080": 201,
+    "202220": 1585759500000
+  },
+  {
+    "10000": "00009570-4c5e-436c-b280-62e71669bfe8",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Grookey.Name$$$",
+    "10190": 107,
+    "200260": 687,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Grass"
+    ],
+    "200580": "SWSH1",
+    "200590": [
+      "Fire"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Grookey",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Colorless": 1
+        },
+        "damage": 10,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Grookey.FurySwipes.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Grookey.FurySwipes.GameText$$$",
+        "abilityID": "0802070a-a037-4467-a256-dded857a2743",
+        "amountOperator": "x",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 10,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "3e615a8d-5378-45cd-90c3-7aef0e002e24",
+    "202080": 201,
+    "202220": 1585932300000
+  },
+  {
+    "10000": "7811ae08-1cec-415c-8d25-5dfc233e9187",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Scorbunny.Name$$$",
+    "10190": 107,
+    "200260": 700,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Fire"
+    ],
+    "200580": "SWSH1",
+    "200590": [
+      "Water"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Scorbunny",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Fire": 1
+        },
+        "damage": 30,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Scorbunny.Ember.Title$$$",
+        "gameText": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Scorbunny.Ember.GameText$$$",
+        "abilityID": "e6a678aa-e489-4b2f-a2e1-0c35596eb208",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 30,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "2dff3349-eafb-45ba-8823-99f85c2712cd",
+    "202080": 201,
+    "202220": 1585932300000
+  },
+  {
+    "10000": "d5ee07fb-917f-452d-8826-666667ec2cc9",
+    "10090": false,
+    "10140": "$$$com.direwolfdigital.cake.data.archetypes.pokemon.Sobble.Name$$$",
+    "10190": 107,
+    "200260": 701,
+    "200300": "Pokemon",
+    "200430": 20,
+    "200490": 60,
+    "200540": "Basic",
+    "200550": "Common",
+    "200570": [
+      "Water"
+    ],
+    "200580": "SWSH1",
+    "200590": [
+      "Lightning"
+    ],
+    "200600": "NoColor",
+    "200610": "Cosmos",
+    "200620": "Holo",
+    "200630": "Sobble",
+    "200660": "x",
+    "200740": [
+      {
+        "cost": {
+          "Water": 1
+        },
+        "damage": 20,
+        "title": "$$$com.direwolfdigital.cake.rules.abilities.attacks.SWSH1.Sobble.WaterGun.Title$$$",
+        "gameText": "$$$$$$",
+        "abilityID": "ed822ece-b308-41f2-8d93-000c568f0df3",
+        "amountOperator": "",
+        "abilityType": "Attack",
+        "conditionExceptions": [],
+        "costPrefixes": [],
+        "costSuffixes": []
+      },
+      {
+        "title": "$$$playmat.directaction.label.play$$$",
+        "gameText": "$$$playmat.prompt.sm7_83.fallingstar_bench$$$",
+        "abilityID": "03831a39-7e80-405d-b959-70df2fa96c3f",
+        "abilityType": "PlayAbility",
+        "ignoreInFiltering": true
+      }
+    ],
+    "200780": 54,
+    "200800": 1,
+    "200820": 2,
+    "200830": 0,
+    "200871": "alt",
+    "200872": "D",
+    "201010": false,
+    "201030": false,
+    "201610": 1,
+    "201710": "c33d26bc-1f36-41ed-a333-5b8ad2a71224",
+    "202080": 201,
+    "202220": 1585932300000
   }
 ]

@@ -8481,6 +8481,261 @@
           ]
         }
       ]
+    },
+    "367001837": {
+      "id": 367001837,
+      "name": "Leafeon",
+      "cat": 1,
+      "kind": 2,
+      "no": 237,
+      "colNo": "SM237",
+      "rarity": 8,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 110,
+      "weakness": 3,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Aromax",
+          "text": "Heal all damage from 1 of your Benched Pokémon.",
+          "cost": [
+            2
+          ]
+        },
+        {
+          "name": "Leaf Blade",
+          "text": "Flip a coin. If heads, this attack does 40 more damage.",
+          "damage": 80,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "367001838": {
+      "id": 367001838,
+      "name": "Glaceon",
+      "cat": 1,
+      "kind": 2,
+      "no": 238,
+      "colNo": "SM238",
+      "rarity": 8,
+      "family": 91,
+      "preevo": "Eevee",
+      "hp": 110,
+      "weakness": 9,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Snow Cloak",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent’s next turn.",
+          "damage": 30,
+          "cost": [
+            4
+          ]
+        },
+        {
+          "name": "Hypnotic Blizzard",
+          "text": "Your opponent’s Active Pokémon is now Asleep. This attack does 20 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 90,
+          "cost": [
+            1,
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    "367001839": {
+      "id": 367001839,
+      "name": "Carracosta-GX",
+      "cat": 1,
+      "kind": 11,
+      "no": 239,
+      "colNo": "SM239",
+      "rarity": 8,
+      "flags": 1,
+      "family": 45,
+      "preevo": "Tirtouga",
+      "hp": 250,
+      "weakness": 2,
+      "retreat": 4,
+      "abilities": [
+        {
+          "name": "High Density Armor",
+          "text": "If this Pokémon has full HP, any damage done to this Pokémon by an opponent's attack is reduced by 50 (after applying Weakness and Resistance).",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Stone Age GX",
+          "text": "Put any number of Pokémon that evolve from Unidentified Fossil from your discard pile onto your Bench. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Ground Crush",
+          "text": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+          "damage": 160,
+          "cost": [
+            1,
+            1,
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    "367001840": {
+      "id": 367001840,
+      "name": "Espeon & Deoxys-GX",
+      "cat": 1,
+      "kind": 13,
+      "no": 240,
+      "colNo": "SM240",
+      "rarity": 8,
+      "flags": 128,
+      "family": 672,
+      "hp": 260,
+      "weakness": 6,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Psychic Club",
+          "text": "This attack does 30 more damage for each of your Benched {P} Pokémon.",
+          "damage": 10,
+          "op": "+",
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        },
+        {
+          "name": "Cross Division GX",
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. If this Pokémon has at least 3 extra Energy attached to it (in addition to this attack's cost), put 20 damage counters on them instead. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1,
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    "367001841": {
+      "id": 367001841,
+      "name": "Umbreon & Darkrai-GX",
+      "cat": 1,
+      "kind": 13,
+      "no": 241,
+      "colNo": "SM241",
+      "rarity": 8,
+      "flags": 128,
+      "family": 678,
+      "hp": 270,
+      "weakness": 7,
+      "resistance": 6,
+      "resist": -20,
+      "retreat": 2,
+      "attacks": [
+        {
+          "name": "Dark Moon GX",
+          "text": "Your opponent can’t play any Trainer cards from their hand during their next turn. If this Pokémon has at least 5 extra {D} Energy attached to it (in addition to this attack’s cost), your opponent's Active Pokémon is Knocked Out. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Black Lance",
+          "text": "This attack does 60 damage to 1 of your opponent’s Benched Pokémon-GX or Benched Pokémon-EX. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": 150,
+          "cost": [
+            1,
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    "367001842": {
+      "id": 367001842,
+      "name": "Eevee-GX",
+      "cat": 1,
+      "kind": 9,
+      "no": 242,
+      "colNo": "SM242",
+      "rarity": 8,
+      "family": 599,
+      "hp": 160,
+      "weakness": 7,
+      "retreat": 1,
+      "abilities": [
+        {
+          "name": "Ascension DNA",
+          "text": "Once during your turn (before your attack), if you have a Pokémon in your hand that evolves from Eevee, you may put that card onto this Pokémon to evolve it. Before evolving, heal all damage from this Pokémon. You can't use this Ability during your first turn or the turn this Pokémon was put into play.",
+          "type": 3
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Joy Maker GX",
+          "text": "Put 3 cards from your discard pile into your hand. (You can’t use more than 1 GX attack in a game.)",
+          "cost": [
+            1
+          ]
+        },
+        {
+          "name": "Boost Dash",
+          "damage": 100,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "367001843": {
+      "id": 367001843,
+      "name": "Regigigas",
+      "cat": 1,
+      "kind": 1,
+      "no": 243,
+      "colNo": "SM243",
+      "rarity": 8,
+      "family": 312,
+      "hp": 150,
+      "weakness": 7,
+      "retreat": 4,
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": 60,
+          "cost": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Regiblast",
+          "text": "Discard the top card of your opponent’s deck.",
+          "damage": 180,
+          "cost": [
+            1,
+            1,
+            4,
+            7,
+            9
+          ]
+        }
+      ]
     }
   },
   "packs": {},

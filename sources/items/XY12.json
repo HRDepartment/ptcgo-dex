@@ -12047,7 +12047,8 @@
     "10190": 63,
     "10540": "Bundles",
     "200580": "XY12",
-    "200871": "XY12PrereleasePack"
+    "200871": "XY12PrereleasePack",
+    "201508": "BundlePack"
   },
   {
     "10000": "3dc6ab27-b467-468c-9f24-f475d412886c",
@@ -12094,6 +12095,7 @@
     "200580": "XY12",
     "200871": "MBlastoiseBattleArenaDeckBundle",
     "201507": "Tin",
+    "201508": "BattleDeck",
     "201640": "c580d089-2ae2-422c-abd9-35bfa147f34d",
     "202220": 1536338700000
   },
@@ -12119,6 +12121,7 @@
     "200580": "XY12",
     "200871": "MCharizardXBattleArenaDeckBundle",
     "201507": "Tin",
+    "201508": "BattleDeck",
     "201640": "4dc0c7a3-a276-4896-846b-de593db22297",
     "202220": 1536338700000
   },
@@ -12144,6 +12147,7 @@
     "200580": "XY12",
     "200871": "MewtwoMayhemBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "45b16584-1bc2-4c7e-8cc4-3769a44a4538"
   },
   {
@@ -12157,6 +12161,7 @@
     "200580": "XY12",
     "200871": "PikachuPowerBundle",
     "201507": "ThemeDeck",
+    "201508": "ThemeDeck",
     "201640": "592b4018-160b-420a-a7b2-730277ad2070"
   },
   {
