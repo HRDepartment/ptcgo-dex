@@ -406,6 +406,8 @@ export enum ArchetypeAttribute {
    * @unused
    */
   UnlockProductType = 201507,
+  // Appears to always be the same as UnlockProductType and always present at the same time
+  UnlockProductType2 = 201508,
   /**
    * @type Attribute_BoosterDistribution[]
    */

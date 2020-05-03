@@ -158,9 +158,9 @@ class ItemDef {
     // Some strings (such as trainer kit bundles) include HTML
     let itemName = translate(nameTrKey, MissingTranslation);
 
+    const asset = attributes[ArchetypeAttribute.AssetClass];
+    const release = attributes[ArchetypeAttribute.ReleaseCode];
     if (itemName === MissingTranslation) {
-      const asset = attributes[ArchetypeAttribute.AssetClass];
-      const release = attributes[ArchetypeAttribute.ReleaseCode];
       if (asset) {
         inconsistency(
           `Product ${asset} from release ${release} has a missing translation for its ’name’ (${nameTrKey})`
@@ -171,6 +171,20 @@ class ItemDef {
           `Item ${def.id} from release ${release} has a missing translation for its ’name’ (${nameTrKey})`
         );
       }
+    }
+
+    if (
+      attributes[ArchetypeAttribute.UnlockProductType] &&
+      attributes[ArchetypeAttribute.UnlockProductType2] !==
+        attributes[ArchetypeAttribute.UnlockProductType2]
+    ) {
+      inconsistency(
+        `${
+          asset ? `Product ${asset}` : `Item ${def.id}`
+        } UnlockProductTypes do not match: 1=${
+          attributes[ArchetypeAttribute.UnlockProductType]
+        } 2=${attributes[ArchetypeAttribute.UnlockProductType2]}`
+      );
     }
 
     def.name = stripHtml(itemName);
